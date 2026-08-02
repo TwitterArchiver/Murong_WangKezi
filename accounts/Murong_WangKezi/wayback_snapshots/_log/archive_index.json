@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T11:28:10",
+  "last_updated": "2026-08-02T11:30:29",
   "html": {
     "https://web.archive.org/web/20250515141406if_/https://twitter.com/Murong_WangKezi/status/1923019059337015464": {
       "status": "done",
@@ -28543,18 +28543,18 @@
       "referenced_by": [
         "20251018093157_twitter_com_Murong_WangKezi_status_1979480563108159853.json"
       ],
-      "last_updated": "2026-08-02T11:04:53",
+      "last_updated": "2026-08-02T11:30:21",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251018093157/https://video.twimg.com/ext_tw_video/1977010471439106048/pu/vid/avc1/1280x592/MofKQCK3SYFbH1b1.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/G5doH0qbcAMy9xI.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20251111133124_twitter_com_Murong_WangKezi_status_1988238131720556850.json"
       ],
-      "last_updated": "2026-08-02T11:04:51",
+      "last_updated": "2026-08-02T11:30:23",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251111133124/https://video.twimg.com/tweet_video/G5doH0qbcAMy9xI.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HACoeTebQAAroio.mp4": {
       "status": "done",
@@ -28610,27 +28610,27 @@
       "referenced_by": [
         "20260712012001_twitter_com_Murong_WangKezi_status_2076114323823546467.json"
       ],
-      "last_updated": "2026-08-02T11:04:52",
+      "last_updated": "2026-08-02T11:30:25",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260712012001/https://video.twimg.com/amplify_video/2076110129863532545/vid/avc1/1280x720/Cnajk0eshBLBYQg5.mp4?tag=14",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2076110176843898881/vid/avc1/1280x720/W59PD-sxZiMt3Srl.mp4?tag=14": {
       "status": "failed_all",
       "referenced_by": [
         "20260712012001_twitter_com_Murong_WangKezi_status_2076114323823546467.json"
       ],
-      "last_updated": "2026-08-02T11:04:55",
+      "last_updated": "2026-08-02T11:30:27",
       "last_reason": "HTTPError: 404 Client Error: Not Found for url: https://web.archive.org/web/20260713074434/https://video.twimg.com/amplify_video/2076110176843898881/vid/avc1/1280x720/W59PD-sxZiMt3Srl.mp4?tag=14",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2076112101501018112/vid/avc1/720x1280/I6GFHxOF4PNCFjn5.mp4?tag=14": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260712012001_twitter_com_Murong_WangKezi_status_2076114323823546467.json"
       ],
-      "last_updated": "2026-08-02T11:05:06",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260712012001im_/https://video.twimg.com/amplify_video/2076112101501018112/vid/avc1/720x1280/I6GFHxOF4PNCFjn5.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0f6e0624e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-02T11:30:29",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260712012001/https://video.twimg.com/amplify_video/2076112101501018112/vid/avc1/720x1280/I6GFHxOF4PNCFjn5.mp4?tag=14",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2076114429071224832/vid/avc1/1280x720/bY9z6x1MLhIgLa3k.mp4?tag=14": {
       "status": "done",
@@ -85780,7 +85780,7 @@
       "last_updated": "2026-08-02T10:39:39"
     },
     "20260712012001_twitter_com_Murong_WangKezi_status_2076114323823546467.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -85792,7 +85792,7 @@
           "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T11:05:01",
+      "last_updated": "2026-08-02T11:30:29",
       "miss_count": 2
     },
     "20260712012044_twitter_com_Murong_WangKezi_status_2076114501641060499.json": {
