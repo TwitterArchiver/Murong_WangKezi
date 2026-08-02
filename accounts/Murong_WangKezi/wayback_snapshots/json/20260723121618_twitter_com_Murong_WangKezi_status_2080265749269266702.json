@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2080135350283034874",
+    "created_at": "2026-07-23T12:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080265749269266702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1744053612697812992",
+          "start": 0,
+          "username": "liuxiaobai97828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080265749269266702",
+    "in_reply_to_user_id": "1744053612697812992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080225573021114854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuxiaobai97828 也会啦\n只是最近才想到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2080135350283034874",
+        "created_at": "2026-07-23T12:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080265749269266702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1744053612697812992",
+              "start": 0,
+              "username": "liuxiaobai97828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080265749269266702",
+        "in_reply_to_user_id": "1744053612697812992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080225573021114854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuxiaobai97828 也会啦\n只是最近才想到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744053612697812992",
+        "conversation_id": "2080135350283034874",
+        "created_at": "2026-07-23T09:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080225573021114854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080225573021114854",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080135350283034874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 以前不会吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 382,
+          "like_count": 9775,
+          "listed_count": 2,
+          "media_count": 539,
+          "tweet_count": 3793
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T17:49:28.000Z",
+        "description": "ENFP//三墩镇职业技术学院//169（划掉，又长高了）/52kg（划掉，长胖了）//AI//取向是温柔体贴安全感和抱抱//喜欢猫猫和社交//社恐克服中//立志成为全世界最温柔的人//srs2026.8\nrednote同名/aka小排",
+        "id": "1744053612697812992",
+        "location": "杭州/上海",
+        "name": "刘小白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756377346138058752/UE__P8xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 98,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "liuxiaobai97828",
+        "verified": false
+      }
+    ]
+  }
+}

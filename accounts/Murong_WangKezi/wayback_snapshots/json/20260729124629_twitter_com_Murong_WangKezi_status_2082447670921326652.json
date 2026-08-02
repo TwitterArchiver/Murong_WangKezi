@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2082170104087982306",
+    "created_at": "2026-07-29T12:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082447670921326652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053864757329817600",
+          "start": 0,
+          "username": "today_is_foggy"
+        },
+        {
+          "end": 29,
+          "id": "1907031442103943168",
+          "start": 16,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082447670921326652",
+    "in_reply_to_user_id": "2053864757329817600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082388774244471121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@today_is_foggy @hoshinemu123 你的不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2082170104087982306",
+        "created_at": "2026-07-29T12:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082447670921326652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053864757329817600",
+              "start": 0,
+              "username": "today_is_foggy"
+            },
+            {
+              "end": 29,
+              "id": "1907031442103943168",
+              "start": 16,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082447670921326652",
+        "in_reply_to_user_id": "2053864757329817600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082388774244471121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@today_is_foggy @hoshinemu123 你的不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053864757329817600",
+        "conversation_id": "2082170104087982306",
+        "created_at": "2026-07-29T08:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082388774244471121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            },
+            {
+              "end": 30,
+              "id": "1907031442103943168",
+              "start": 17,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082388774244471121",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082344444272263345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi @hoshinemu123 我的也是ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 382,
+          "like_count": 10002,
+          "listed_count": 2,
+          "media_count": 577,
+          "tweet_count": 3994
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T15:48:30.000Z",
+        "description": "这里是大雾！可以叫咱大雾ww，二次元，笨蛋，无糖，不od、割手，什么都会一点但什么都做不好，只要接纳咱那一定会有反馈的说ww接触过的东西有好多，但都很入门...航空航天 时事政治 摄影 化妆 化学 锻炼健身 番剧游戏 还自己学过一点c和Python...希望有人可以来找咱聊天什么的。",
+        "id": "2053864757329817600",
+        "location": "成都  山东上学",
+        "name": "今天是大雾！",
+        "pinned_tweet_id": "2082139616367538248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073740142737846272/5wS-JDPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 103,
+          "like_count": 1480,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 923
+        },
+        "url": "",
+        "username": "today_is_foggy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "梦想是成为女侠客。\n“我曾淋我来时雪，亦将长歌去时晖”\n星眠的生活号，不定期推音乐＆美术作品。古风狂热爱好者，音乐策划，汉服袍子。隐居宣州，长三角随机出没，欢迎小女孩们来找我玩。家里茶室对外开放。不化妆修图是因为懒。\n坏事都是她做的：@ciyou9443 指导教师：@ilobius\n头像画师：飞鸟壹号机；主页头图：Z6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "ciyou9443"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠子",
+        "pinned_tweet_id": "2021956150368104748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3418,
+          "following_count": 3296,
+          "like_count": 3707,
+          "listed_count": 5,
+          "media_count": 980,
+          "tweet_count": 10344
+        },
+        "url": "",
+        "username": "hoshinemu123",
+        "verified": true
+      }
+    ]
+  }
+}

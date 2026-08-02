@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1979494943879299075",
+    "created_at": "2025-10-18T10:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T11:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979494943879299075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Murong_WangKez…",
+          "end": 136,
+          "expanded_url": "https://twitter.com/Murong_WangKezi/status/1979211087993278547",
+          "start": 113,
+          "url": "https://t.co/hGeLD5PMWo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979494943879299075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979211087993278547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "丢失的照片用数据恢复软件恢复了一部分……\n有款国内的数据恢复软件好恶心，扫描几个小时之后才告诉你要付费。名字咱就不说了，反正国内的某些软件好恶心。你要是在咱使用之前告诉我要付费咱也不至于这么生气吧，非要浪费咱几个小时时间吗？ https://t.co/hGeLD5PMWo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_1979210260406550528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3eRPttXQAAk3FG.png",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1979494943879299075",
+        "created_at": "2025-10-18T10:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T11:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979494943879299075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Murong_WangKez…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/Murong_WangKezi/status/1979211087993278547",
+              "start": 113,
+              "url": "https://t.co/hGeLD5PMWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979494943879299075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979211087993278547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "丢失的照片用数据恢复软件恢复了一部分……\n有款国内的数据恢复软件好恶心，扫描几个小时之后才告诉你要付费。名字咱就不说了，反正国内的某些软件好恶心。你要是在咱使用之前告诉我要付费咱也不至于这么生气吧，非要浪费咱几个小时时间吗？ https://t.co/hGeLD5PMWo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979210260406550528"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979211087993278547",
+        "created_at": "2025-10-17T15:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T16:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979211087993278547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6AkJelrpeW",
+              "end": 156,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/1979211087993278547/photo/1",
+              "media_key": "3_1979210260406550528",
+              "start": 133,
+              "url": "https://t.co/6AkJelrpeW"
+            },
+            {
+              "display_url": "x.com/Murong_WangKez…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/Murong_WangKezi/status/1979194022984884347",
+              "start": 157,
+              "url": "https://t.co/FZon9cHNb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979211087993278547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979194022984884347",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实佳能在这个页面下再加一个确认就不会出现这种情况了……\n慕容是下意识的把右边的按钮当成取消了，因为一般的按钮都是左边确定右边取消……\n慕容觉得改用其他按钮作为确认更好，比如按一下某个功能键，而不是和其他菜单相同的确认键。\n这样让人没那么习惯的设计会更安全一些的说 https://t.co/6AkJelrpeW https://t.co/FZon9cHNb2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 245,
+          "like_count": 3538,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 589
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

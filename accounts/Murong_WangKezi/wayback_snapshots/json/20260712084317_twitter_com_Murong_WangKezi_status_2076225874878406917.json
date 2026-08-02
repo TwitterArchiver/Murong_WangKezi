@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2076109094847705388",
+    "created_at": "2026-07-12T08:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T09:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076225874878406917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1825299898868060160",
+          "start": 0,
+          "username": "mituofo46168"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076225874878406917",
+    "in_reply_to_user_id": "1825299898868060160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076223397445701718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mituofo46168 好厉害……我连一台可换镜头的相机都没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2076109094847705388",
+        "created_at": "2026-07-12T08:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076225874878406917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1825299898868060160",
+              "start": 0,
+              "username": "mituofo46168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076225874878406917",
+        "in_reply_to_user_id": "1825299898868060160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076223397445701718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mituofo46168 好厉害……我连一台可换镜头的相机都没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825299898868060160",
+        "conversation_id": "2076109094847705388",
+        "created_at": "2026-07-12T08:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076223397445701718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076223397445701718",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076109094847705388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 好哦，我也想兼职摄影来着，下周朋友婚礼正好去帮忙，练练手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 382,
+          "like_count": 9364,
+          "listed_count": 2,
+          "media_count": 479,
+          "tweet_count": 3465
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T22:33:12.000Z",
+        "description": "灵魂学/搞点吃的/海运物流\n摄影，料理\n大龄社畜/enby/天空树/玻璃柜/\n♓️🌈🏳️‍⚧️🇵🇦❄️",
+        "id": "1825299898868060160",
+        "location": "喵喵光明顶",
+        "name": "❄️陈雪逸❄️🇵🇦",
+        "pinned_tweet_id": "2065982189033193898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973985682218442752/Oe4P4Ncq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 621,
+          "like_count": 4251,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 1152
+        },
+        "url": "",
+        "username": "mituofo46168",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075972991343894528",
+        "3_2075972996867764225",
+        "3_2075973002278445056",
+        "3_2075973009123446784"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "2075973940686798934",
+    "created_at": "2026-07-11T16:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075973940686798934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d8wNQR4o2m",
+          "end": 162,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2075973940686798934/photo/1",
+          "media_key": "3_2075972991343894528",
+          "start": 139,
+          "url": "https://t.co/d8wNQR4o2m"
+        },
+        {
+          "display_url": "pic.x.com/d8wNQR4o2m",
+          "end": 162,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2075973940686798934/photo/1",
+          "media_key": "3_2075972996867764225",
+          "start": 139,
+          "url": "https://t.co/d8wNQR4o2m"
+        },
+        {
+          "display_url": "pic.x.com/d8wNQR4o2m",
+          "end": 162,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2075973940686798934/photo/1",
+          "media_key": "3_2075973002278445056",
+          "start": 139,
+          "url": "https://t.co/d8wNQR4o2m"
+        },
+        {
+          "display_url": "pic.x.com/d8wNQR4o2m",
+          "end": 162,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2075973940686798934/photo/1",
+          "media_key": "3_2075973009123446784",
+          "start": 139,
+          "url": "https://t.co/d8wNQR4o2m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075973940686798934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玩了一下Nikon Z9，真的是太重了……（感觉胳膊都要断了呜呜）\n很难想象这位老师要拿这个东西一天\n当时我和他说“男生和女生的体能差距真的很大”，他回答“那肯定是，大部分女生可能连半天都扛不了”\n另：我用这个拍一会之后再用我的PowerShot V1感觉就和塑料玩具一样ww https://t.co/d8wNQR4o2m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2075972991343894528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9Wb8hboAAoQg5.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2075972996867764225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9WcRGbMAEs8xU.jpg",
+        "width": 2731
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2075973002278445056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9WclQboAAIOJf.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2075973009123446784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9Wc-waEAAI5gj.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075972991343894528",
+            "3_2075972996867764225",
+            "3_2075973002278445056",
+            "3_2075973009123446784"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2075973940686798934",
+        "created_at": "2026-07-11T16:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075973940686798934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d8wNQR4o2m",
+              "end": 162,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2075973940686798934/photo/1",
+              "media_key": "3_2075972991343894528",
+              "start": 139,
+              "url": "https://t.co/d8wNQR4o2m"
+            },
+            {
+              "display_url": "pic.x.com/d8wNQR4o2m",
+              "end": 162,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2075973940686798934/photo/1",
+              "media_key": "3_2075972996867764225",
+              "start": 139,
+              "url": "https://t.co/d8wNQR4o2m"
+            },
+            {
+              "display_url": "pic.x.com/d8wNQR4o2m",
+              "end": 162,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2075973940686798934/photo/1",
+              "media_key": "3_2075973002278445056",
+              "start": 139,
+              "url": "https://t.co/d8wNQR4o2m"
+            },
+            {
+              "display_url": "pic.x.com/d8wNQR4o2m",
+              "end": 162,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2075973940686798934/photo/1",
+              "media_key": "3_2075973009123446784",
+              "start": 139,
+              "url": "https://t.co/d8wNQR4o2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075973940686798934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩了一下Nikon Z9，真的是太重了……（感觉胳膊都要断了呜呜）\n很难想象这位老师要拿这个东西一天\n当时我和他说“男生和女生的体能差距真的很大”，他回答“那肯定是，大部分女生可能连半天都扛不了”\n另：我用这个拍一会之后再用我的PowerShot V1感觉就和塑料玩具一样ww https://t.co/d8wNQR4o2m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 382,
+          "like_count": 9332,
+          "listed_count": 2,
+          "media_count": 465,
+          "tweet_count": 3435
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

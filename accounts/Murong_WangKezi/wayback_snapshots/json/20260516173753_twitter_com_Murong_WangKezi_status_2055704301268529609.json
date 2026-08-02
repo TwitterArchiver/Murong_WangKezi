@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2055677332422349018",
+    "created_at": "2026-05-16T17:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055704301268529609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1895463022367498240",
+          "start": 0,
+          "username": "never_noticee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055704301268529609",
+    "in_reply_to_user_id": "1895463022367498240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055677332422349018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@never_noticee 我们一起逃走吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2055677332422349018",
+        "created_at": "2026-05-16T17:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055704301268529609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1895463022367498240",
+              "start": 0,
+              "username": "never_noticee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055704301268529609",
+        "in_reply_to_user_id": "1895463022367498240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055677332422349018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@never_noticee 我们一起逃走吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895463022367498240",
+        "conversation_id": "2055677332422349018",
+        "created_at": "2026-05-16T15:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055677332422349018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Murong_WangKez…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Murong_WangKezi/status/2055635200114331667",
+              "start": 12,
+              "url": "https://t.co/fqM2W4EFWm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055677332422349018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055635200114331667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从这个搁浅的世界逃离！ https://t.co/fqM2W4EFWm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2034612481734463789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 380,
+          "like_count": 7860,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 2465
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T13:16:44.000Z",
+        "description": "日常水推/日常帖/bot/天然蠢废/是个学生\n平时水课，假期发癫，可能也会记录一些互联网怪事（存疑）\n一个无趣的灵魂游荡ing\n日常账号接管：@EinMensch_168\n贴贴：@ztrolzl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "EinMensch_168"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "ztrolzl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hikaribot.edgeone.app",
+                "end": 23,
+                "expanded_url": "http://hikaribot.edgeone.app",
+                "start": 0,
+                "url": "https://t.co/nDRmWS3xEQ"
+              }
+            ]
+          }
+        },
+        "id": "1895463022367498240",
+        "location": "互联网废墟 ",
+        "name": "落叶sour-ce",
+        "pinned_tweet_id": "2050974256843153753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045451931754319872/pVp-K_EW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 63,
+          "like_count": 1371,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/nDRmWS3xEQ",
+        "username": "never_noticee",
+        "verified": false
+      }
+    ]
+  }
+}

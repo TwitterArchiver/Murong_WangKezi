@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1979279247161331847",
+    "created_at": "2025-10-17T20:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T21:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979279247161331847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Murong_WangKez…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/Murong_WangKezi/status/1979209885914140873",
+          "start": 51,
+          "url": "https://t.co/O1wJplYght"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979279247161331847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979209885914140873",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "家长总是说咱不喜欢和他们聊天，可是谁喜欢天天被说教\n这个才是根本原因吧，所以咱还是喜欢和大家玩的说！ https://t.co/O1wJplYght"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1979279247161331847",
+        "created_at": "2025-10-17T20:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T21:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979279247161331847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Murong_WangKez…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/Murong_WangKezi/status/1979209885914140873",
+              "start": 51,
+              "url": "https://t.co/O1wJplYght"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979279247161331847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979209885914140873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "家长总是说咱不喜欢和他们聊天，可是谁喜欢天天被说教\n这个才是根本原因吧，所以咱还是喜欢和大家玩的说！ https://t.co/O1wJplYght"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1979209885914140873",
+        "created_at": "2025-10-17T15:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T16:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979209885914140873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979209885914140873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么家长总是爱给慕容说什么“磁场”什么的奇奇怪怪的玄学东西，说和大家玩会减弱磁场导致事事不顺\n慕容的家长觉得是慕容和大家玩才让大家带坏了慕容的\n可是没有大家的话慕容一定会更痛苦\n明明大家不是他们想的那样教唆这个那个，而是很温暖的！\n可是他们为什么理解不了呢……没有大家慕容可能早死掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 228,
+          "like_count": 3439,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 557
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

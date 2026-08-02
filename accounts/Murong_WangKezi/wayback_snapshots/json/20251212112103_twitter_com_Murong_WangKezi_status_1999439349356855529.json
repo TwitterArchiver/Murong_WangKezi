@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1999104311230660975",
+    "created_at": "2025-12-12T11:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T12:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999439349356855529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1972726684635086848",
+          "start": 0,
+          "username": "vip_91_1337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999439349356855529",
+    "in_reply_to_user_id": "1972726684635086848",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999179198808883259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vip_91_1337 www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1999104311230660975",
+        "created_at": "2025-12-12T11:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T12:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999439349356855529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972726684635086848",
+              "start": 0,
+              "username": "vip_91_1337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999439349356855529",
+        "in_reply_to_user_id": "1972726684635086848",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999179198808883259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vip_91_1337 www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972726684635086848",
+        "conversation_id": "1999104311230660975",
+        "created_at": "2025-12-11T18:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T19:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999179198808883259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999179198808883259",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999104311230660975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 高中之后从来没填过这玩意。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1998004649568387173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 281,
+          "like_count": 4626,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1266
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-29T18:14:43.000Z",
+        "description": "在支高中生丨Minecraft丨我爱图纸",
+        "id": "1972726684635086848",
+        "location": "IP属地：南京",
+        "name": "VIP_91",
+        "pinned_tweet_id": "1993441762787180611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998798003403210752/lRxJQGzV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 199,
+          "like_count": 13418,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 921
+        },
+        "username": "vip_91_1337",
+        "verified": false
+      }
+    ]
+  }
+}

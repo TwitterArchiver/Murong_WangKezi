@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2080593923370836121",
+    "created_at": "2026-07-25T02:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080847058362319000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2014927088852303872",
+          "start": 0,
+          "username": "QuanHuu75694"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080847058362319000",
+    "in_reply_to_user_id": "2014927088852303872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080708335524094131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuanHuu75694 嗯嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2080593923370836121",
+        "created_at": "2026-07-25T02:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080847058362319000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2014927088852303872",
+              "start": 0,
+              "username": "QuanHuu75694"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080847058362319000",
+        "in_reply_to_user_id": "2014927088852303872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080708335524094131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuanHuu75694 嗯嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014927088852303872",
+        "conversation_id": "2080593923370836121",
+        "created_at": "2026-07-24T17:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080708335524094131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080708335524094131",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080593923370836121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 不要啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 383,
+          "like_count": 9881,
+          "listed_count": 2,
+          "media_count": 574,
+          "tweet_count": 3911
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T05:04:37.000Z",
+        "description": "",
+        "id": "2014927088852303872",
+        "name": "承認欲求のバケモノ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077805490176987136/BrUwLgL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 308,
+          "like_count": 1833,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 334
+        },
+        "url": "",
+        "username": "QuanHuu75694",
+        "verified": false
+      }
+    ]
+  }
+}

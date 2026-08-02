@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2076178651461361810",
+    "created_at": "2026-07-12T13:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076301652777410980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1069814501904502784",
+          "start": 0,
+          "username": "Pulipuli_z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076301652777410980",
+    "in_reply_to_user_id": "1069814501904502784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076178651461361810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pulipuli_z 一我没有手机，所以永远不可能丢手机\n二我不玩三角洲行动\n三我的电脑是Mac"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2076178651461361810",
+        "created_at": "2026-07-12T13:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076301652777410980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1069814501904502784",
+              "start": 0,
+              "username": "Pulipuli_z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076301652777410980",
+        "in_reply_to_user_id": "1069814501904502784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076178651461361810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pulipuli_z 一我没有手机，所以永远不可能丢手机\n二我不玩三角洲行动\n三我的电脑是Mac"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069814501904502784",
+        "conversation_id": "2076178651461361810",
+        "created_at": "2026-07-12T05:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076178651461361810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076178651461361810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 390,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "另一部手机不见了\n\n刚好在腾讯和微软的强强联合下我现在没有手机验证码连我的电脑都打不开，说的就是你三角洲行动，你那个狗屁扫盘反作弊我插个副屏和集线器就不让我玩了\n\n那个手机号是异地归属而且机主是我已经销户的旧身份，光是想想头就大了\n\n我的手机到底在哪里啊！！日你妈！腾讯！日你妈，微软！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 382,
+          "like_count": 9391,
+          "listed_count": 2,
+          "media_count": 484,
+          "tweet_count": 3486
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T04:43:48.000Z",
+        "description": "INFP 一般來說在杭州 MtF 残忍变性女巫 经常转一些小动物视频",
+        "id": "1069814501904502784",
+        "location": "伯伦希尔",
+        "name": "阿粥放弃上午起床",
+        "pinned_tweet_id": "1980587655248347271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977421774976655360/-EHgLN1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7644,
+          "following_count": 150,
+          "like_count": 13852,
+          "listed_count": 30,
+          "media_count": 2881,
+          "tweet_count": 12325
+        },
+        "url": "",
+        "username": "Pulipuli_z",
+        "verified": false
+      }
+    ]
+  }
+}

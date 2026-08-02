@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2080593923370836121",
+    "created_at": "2026-07-25T02:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080847030776463778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757076114739003392",
+          "start": 0,
+          "username": "SheilaBank7509"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080847030776463778",
+    "in_reply_to_user_id": "1757076114739003392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080702340584423520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SheilaBank7509 w！不要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2080593923370836121",
+        "created_at": "2026-07-25T02:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080847030776463778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757076114739003392",
+              "start": 0,
+              "username": "SheilaBank7509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080847030776463778",
+        "in_reply_to_user_id": "1757076114739003392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080702340584423520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SheilaBank7509 w！不要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757076114739003392",
+        "conversation_id": "2080593923370836121",
+        "created_at": "2026-07-24T17:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080702340584423520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080702340584423520",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080593923370836121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 带上我吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 383,
+          "like_count": 9880,
+          "listed_count": 2,
+          "media_count": 574,
+          "tweet_count": 3910
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T16:16:09.000Z",
+        "description": "喵喵喵～超喜欢二次元一枚的小男娘呀🤲🏻平时就喜欢cos 买谷子周边",
+        "id": "1757076114739003392",
+        "location": " Buffalo ",
+        "name": "🍥iam阿lan",
+        "pinned_tweet_id": "1987526194007548133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054501371303612416/uE__6eHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3894,
+          "following_count": 1137,
+          "like_count": 1598,
+          "listed_count": 16,
+          "media_count": 65,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "SheilaBank7509",
+        "verified": false
+      }
+    ]
+  }
+}

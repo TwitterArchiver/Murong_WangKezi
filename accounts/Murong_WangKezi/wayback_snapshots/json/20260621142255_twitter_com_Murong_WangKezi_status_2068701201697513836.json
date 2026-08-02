@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068701186291822592",
+        "3_2068701186287710208",
+        "3_2068701186312818688",
+        "3_2068701186308608001"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2068701201697513836",
+    "created_at": "2026-06-21T14:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068701201697513836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/awWbwJqhhe",
+          "end": 35,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2068701201697513836/photo/1",
+          "media_key": "3_2068701186291822592",
+          "start": 12,
+          "url": "https://t.co/awWbwJqhhe"
+        },
+        {
+          "display_url": "pic.x.com/awWbwJqhhe",
+          "end": 35,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2068701201697513836/photo/1",
+          "media_key": "3_2068701186287710208",
+          "start": 12,
+          "url": "https://t.co/awWbwJqhhe"
+        },
+        {
+          "display_url": "pic.x.com/awWbwJqhhe",
+          "end": 35,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2068701201697513836/photo/1",
+          "media_key": "3_2068701186312818688",
+          "start": 12,
+          "url": "https://t.co/awWbwJqhhe"
+        },
+        {
+          "display_url": "pic.x.com/awWbwJqhhe",
+          "end": 35,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2068701201697513836/photo/1",
+          "media_key": "3_2068701186308608001",
+          "start": 12,
+          "url": "https://t.co/awWbwJqhhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068701201697513836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每栋楼的设计还不一样呢 https://t.co/awWbwJqhhe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2068701186291822592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWAxLtacAAWYw-.jpg",
+        "width": 2731
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2068701186287710208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWAxLsbsAAv0Vx.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2068701186312818688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWAxLya0AAZpQZ.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2068701186308608001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWAxLxakAEuxky.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068701186291822592",
+            "3_2068701186287710208",
+            "3_2068701186312818688",
+            "3_2068701186308608001"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2068701201697513836",
+        "created_at": "2026-06-21T14:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068701201697513836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/awWbwJqhhe",
+              "end": 35,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2068701201697513836/photo/1",
+              "media_key": "3_2068701186291822592",
+              "start": 12,
+              "url": "https://t.co/awWbwJqhhe"
+            },
+            {
+              "display_url": "pic.x.com/awWbwJqhhe",
+              "end": 35,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2068701201697513836/photo/1",
+              "media_key": "3_2068701186287710208",
+              "start": 12,
+              "url": "https://t.co/awWbwJqhhe"
+            },
+            {
+              "display_url": "pic.x.com/awWbwJqhhe",
+              "end": 35,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2068701201697513836/photo/1",
+              "media_key": "3_2068701186312818688",
+              "start": 12,
+              "url": "https://t.co/awWbwJqhhe"
+            },
+            {
+              "display_url": "pic.x.com/awWbwJqhhe",
+              "end": 35,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2068701201697513836/photo/1",
+              "media_key": "3_2068701186308608001",
+              "start": 12,
+              "url": "https://t.co/awWbwJqhhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068701201697513836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每栋楼的设计还不一样呢 https://t.co/awWbwJqhhe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 377,
+          "like_count": 8477,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 2813
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

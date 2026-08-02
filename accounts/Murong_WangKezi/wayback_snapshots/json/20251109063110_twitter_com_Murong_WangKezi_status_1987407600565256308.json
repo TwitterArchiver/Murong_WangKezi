@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1987190781443252515",
+    "created_at": "2025-11-09T06:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T07:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987407600565256308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1986298566810476548",
+          "start": 0,
+          "username": "Solitude1021313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987407600565256308",
+    "in_reply_to_user_id": "1986298566810476548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987204770788991274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Solitude1021313 QQ上加你啦~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987204713268355072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5P4KHZXoAA9Cne.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1987190781443252515",
+        "created_at": "2025-11-09T06:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987407600565256308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1986298566810476548",
+              "start": 0,
+              "username": "Solitude1021313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987407600565256308",
+        "in_reply_to_user_id": "1986298566810476548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987204770788991274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Solitude1021313 QQ上加你啦~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987204713268355072"
+          ]
+        },
+        "author_id": "1986298566810476548",
+        "conversation_id": "1987190781443252515",
+        "created_at": "2025-11-08T17:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987204770788991274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejCbCLOfa3",
+              "end": 66,
+              "expanded_url": "https://x.com/Solitude1021313/status/1987204770788991274/photo/1",
+              "media_key": "3_1987204713268355072",
+              "start": 43,
+              "url": "https://t.co/ejCbCLOfa3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987204770788991274",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987202523921588293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 这样的话可以吗！软件信号不太好ww…真的是正常人喵 https://t.co/ejCbCLOfa3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 280,
+          "like_count": 3969,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 868
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T05:04:33.000Z",
+        "description": "泥嚎！这里西沣路！很高兴认识你喵！｜\n09｜INFP｜ASD｜情绪障碍\n｜术力口｜铁道｜公交｜民用航空",
+        "id": "1986298566810476548",
+        "location": "北八府庄/空港南四路",
+        "name": "西沣路阿丰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987223893384343553/oH_AVy_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 30,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "Solitude1021313",
+        "verified": false
+      }
+    ]
+  }
+}

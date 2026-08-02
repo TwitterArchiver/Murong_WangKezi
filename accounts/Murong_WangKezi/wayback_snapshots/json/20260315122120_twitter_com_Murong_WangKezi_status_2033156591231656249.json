@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2033156591231656249",
+    "created_at": "2026-03-15T12:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T13:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033156591231656249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980651637673951232",
+          "start": 3,
+          "username": "NeuroSaki987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033156591231656249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033138155759820994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NeuroSaki987: 当前，本人家长因个人观念问题，试图剥夺我的受教育权，并严重侵犯个人隐私权，威胁到我的学业安全与个人安全。\n\n一旦家长出现下一步行动，我将有权利采取相关法律手段追究其民事责任或者刑事责任\n。\n特此声明。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2033156591231656249",
+        "created_at": "2026-03-15T12:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033156591231656249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980651637673951232",
+              "start": 3,
+              "username": "NeuroSaki987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033156591231656249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033138155759820994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NeuroSaki987: 当前，本人家长因个人观念问题，试图剥夺我的受教育权，并严重侵犯个人隐私权，威胁到我的学业安全与个人安全。\n\n一旦家长出现下一步行动，我将有权利采取相关法律手段追究其民事责任或者刑事责任\n。\n特此声明。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980651637673951232",
+        "conversation_id": "2033138155759820994",
+        "created_at": "2026-03-15T11:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033138155759820994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033138155759820994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 205,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "当前，本人家长因个人观念问题，试图剥夺我的受教育权，并严重侵犯个人隐私权，威胁到我的学业安全与个人安全。\n\n一旦家长出现下一步行动，我将有权利采取相关法律手段追究其民事责任或者刑事责任\n。\n特此声明。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10（中间数次断药）\nfo得有自己发的内容，没有发帖或者全是转贴的、成分不对的不给fo\n（如果你很想要可以私信喵）\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2020089001756299412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 355,
+          "like_count": 6759,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 1782
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T15:06:35.000Z",
+        "description": "mtf?/x｜birth 2008 ｜ INTP ｜HRT since 2025 ｜ 家暴党💔｜ 想找人聊天，单纯骂我也可以啊 ｜https://t.co/RptcluXaOp ｜好多管道符哎｜自杀日期已确定",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/neurosaki987",
+                "end": 88,
+                "expanded_url": "https://ngl.link/neurosaki987",
+                "start": 65,
+                "url": "https://t.co/RptcluXaOp"
+              }
+            ]
+          }
+        },
+        "id": "1980651637673951232",
+        "location": "LiuyingWeb Inc. Shanghai",
+        "name": "Neuro Saki 🇺🇳🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009413788530036737/yqokTjpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 275,
+          "like_count": 1450,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 631
+        },
+        "username": "NeuroSaki987",
+        "verified": false
+      }
+    ]
+  }
+}

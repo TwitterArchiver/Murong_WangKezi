@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1974016546994262327",
+    "created_at": "2025-10-04T00:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T01:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974274330730340374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1965351173872820224",
+          "start": 0,
+          "username": "BT_7324"
+        },
+        {
+          "end": 20,
+          "id": "1817821126640496640",
+          "start": 9,
+          "username": "MTNEKO8964"
+        },
+        {
+          "end": 37,
+          "id": "1676572709742944259",
+          "start": 21,
+          "username": "Technology80420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974274330730340374",
+    "in_reply_to_user_id": "1965351173872820224",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974105007776804867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BT_7324 @MTNEKO8964 @Technology80420 ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_1974104999946039299",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2VuCccbMAMWW6B.jpg",
+        "width": 1894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1974016546994262327",
+        "created_at": "2025-10-04T00:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T01:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974274330730340374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1965351173872820224",
+              "start": 0,
+              "username": "BT_7324"
+            },
+            {
+              "end": 20,
+              "id": "1817821126640496640",
+              "start": 9,
+              "username": "MTNEKO8964"
+            },
+            {
+              "end": 37,
+              "id": "1676572709742944259",
+              "start": 21,
+              "username": "Technology80420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974274330730340374",
+        "in_reply_to_user_id": "1965351173872820224",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974105007776804867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BT_7324 @MTNEKO8964 @Technology80420 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974104999946039299"
+          ]
+        },
+        "author_id": "1965351173872820224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974016546994262327",
+        "created_at": "2025-10-03T13:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T14:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974105007776804867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817821126640496640",
+              "start": 0,
+              "username": "MTNEKO8964"
+            },
+            {
+              "end": 28,
+              "id": "1676572709742944259",
+              "start": 12,
+              "username": "Technology80420"
+            },
+            {
+              "end": 45,
+              "id": "1870315714638385152",
+              "start": 29,
+              "username": "Murong_WangKezi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uKcNgC4I2g",
+              "end": 74,
+              "expanded_url": "https://x.com/BT_7324/status/1974105007776804867/photo/1",
+              "media_key": "3_1974104999946039299",
+              "start": 51,
+              "url": "https://t.co/uKcNgC4I2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974105007776804867",
+        "in_reply_to_user_id": "1817821126640496640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974103528147988640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTNEKO8964 @Technology80420 @Murong_WangKezi 观后感: https://t.co/uKcNgC4I2g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10晚上五点半\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 112,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 89,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 195,
+          "like_count": 1559,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T09:47:06.000Z",
+        "description": "hi～我是zzz，喜欢听音乐，还是个手游fps大高玩，希望和你交朋友！我什么都懂一点~关注“#今日歌单À”话题，每天都会置顶好听的音乐！\n前世@BT4273  再也不玩地狱笑话了555。世界是由冰红茶构成的 没回fo就是没看到，抱歉了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 46,
+                "tag": "今日歌单À"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 78,
+                "start": 71,
+                "username": "BT4273"
+              }
+            ]
+          }
+        },
+        "id": "1965351173872820224",
+        "location": "1818181818181818181818181818km",
+        "name": "zzz",
+        "pinned_tweet_id": "1974142814482280560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965361798934081536/PkPS05YU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 1122,
+          "like_count": 2011,
+          "listed_count": 0,
+          "media_count": 707,
+          "tweet_count": 2351
+        },
+        "username": "BT_7324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T07:15:16.000Z",
+        "description": "MtX🍥 / 生产日期：8964.07.13 / hrt：25.2.11 / 55cm 169kg｜极度社恐 / 泛性恋 / 阿斯伯格 / 一只努力学习做好人类的猫｜面条的tg频道https://t.co/6TaiTWHzEF｜我的tg@MTNEKO123｜对象🥺🍜❤️@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 135,
+                "username": "sanmiguelnoodle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123456",
+                "end": 113,
+                "expanded_url": "http://t.me/MTNEKO123456",
+                "start": 90,
+                "url": "https://t.co/6TaiTWHzEF"
+              }
+            ]
+          }
+        },
+        "id": "1817821126640496640",
+        "location": "评鉴亚硝酸钠的路上",
+        "name": "面条喵🍥🐱🐈",
+        "pinned_tweet_id": "1959530946673418708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972232480225951744/Lga0T62B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2536,
+          "following_count": 2253,
+          "like_count": 37812,
+          "listed_count": 6,
+          "media_count": 505,
+          "tweet_count": 5202
+        },
+        "username": "MTNEKO8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "业余摄影师",
+        "id": "1676572709742944259",
+        "location": "地球",
+        "name": "TechnologyMatrix科技矩阵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676575730111598595/d9Z8YgeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 609,
+          "like_count": 25024,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1254
+        },
+        "username": "Technology80420",
+        "verified": false
+      }
+    ]
+  }
+}

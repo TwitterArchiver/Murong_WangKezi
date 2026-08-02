@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2067275891475177492",
+    "created_at": "2026-06-18T14:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067621236646309996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1506124081162203140",
+          "start": 0,
+          "username": "BlueberryFungi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067621236646309996",
+    "in_reply_to_user_id": "1506124081162203140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067579918364598657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlueberryFungi 这样嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2067275891475177492",
+        "created_at": "2026-06-18T14:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067621236646309996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1506124081162203140",
+              "start": 0,
+              "username": "BlueberryFungi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067621236646309996",
+        "in_reply_to_user_id": "1506124081162203140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067579918364598657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlueberryFungi 这样嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506124081162203140",
+        "conversation_id": "2067275891475177492",
+        "created_at": "2026-06-18T12:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067579918364598657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067579918364598657",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067275891475177492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 古典感好诶 喜欢旧物风格的会感觉好雅致w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2034612481734463789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 377,
+          "like_count": 8376,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 2741
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T04:22:32.000Z",
+        "description": "最好的最爱最爱的老公&对象&主人大人❤️🥰：@wsmwsmwuwuwu555 | 晴天找雨天🌦️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "wsmwsmwuwuwu555"
+              }
+            ]
+          }
+        },
+        "id": "1506124081162203140",
+        "location": "☁️",
+        "name": "晴雨🌦️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049406595185221632/9zi7VfU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 277,
+          "like_count": 14217,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 471
+        },
+        "username": "BlueberryFungi",
+        "verified": false
+      }
+    ]
+  }
+}

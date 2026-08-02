@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2070154507926098034",
+    "created_at": "2026-06-25T14:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T15:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070154507926098034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1934880636319485955",
+          "start": 3,
+          "username": "mrsksyrx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070154507926098034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069442122940559694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrsksyrx: 妈妈现在变得对咱好温柔🥺\n称呼变成了“宝宝”“崽崽”这类\n进门前也会敲门了\n甚至都在给咱想新名字了😖\n还说自己想买些什么衣服裙子都可以的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2070154507926098034",
+        "created_at": "2026-06-25T14:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070154507926098034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1934880636319485955",
+              "start": 3,
+              "username": "mrsksyrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070154507926098034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069442122940559694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mrsksyrx: 妈妈现在变得对咱好温柔🥺\n称呼变成了“宝宝”“崽崽”这类\n进门前也会敲门了\n甚至都在给咱想新名字了😖\n还说自己想买些什么衣服裙子都可以的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2069442122940559694",
+        "created_at": "2026-06-23T15:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069442122940559694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069442122940559694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 10739,
+          "like_count": 167,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈现在变得对咱好温柔🥺\n称呼变成了“宝宝”“崽崽”这类\n进门前也会敲门了\n甚至都在给咱想新名字了😖\n还说自己想买些什么衣服裙子都可以的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 380,
+          "like_count": 8672,
+          "listed_count": 1,
+          "media_count": 395,
+          "tweet_count": 2960
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF🏳️‍⚧️｜暂时断糖 5.10-6.22｜小证？｜家长党？  \n生日2009.10.10｜高一｜175/61｜She/Her  \n重庆&苏州｜很丑qwq｜友所有人｜贴贴～ \nINFP-T｜属性：二次元 音游 百合 术力口  \n抑焦｜不od 不见证 不抽烟喝酒｜同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/murasakizs",
+                "end": 23,
+                "expanded_url": "http://t.me/murasakizs",
+                "start": 0,
+                "url": "https://t.co/83nbkKL1U9"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 650,
+          "like_count": 4585,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 444
+        },
+        "url": "https://t.co/83nbkKL1U9",
+        "username": "mrsksyrx",
+        "verified": true
+      }
+    ]
+  }
+}

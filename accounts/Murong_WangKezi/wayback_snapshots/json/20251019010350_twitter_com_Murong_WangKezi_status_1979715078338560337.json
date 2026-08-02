@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1979325553854271668",
+    "created_at": "2025-10-19T01:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T02:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979715078338560337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1069814501904502784",
+          "start": 0,
+          "username": "Pulipuli_z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979715078338560337",
+    "in_reply_to_user_id": "1069814501904502784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979600572090286426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pulipuli_z 是这样，性别没有那么重要的\n只是咱可能对部分顺直男有一点负面滤镜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1979325553854271668",
+        "created_at": "2025-10-19T01:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T02:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979715078338560337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1069814501904502784",
+              "start": 0,
+              "username": "Pulipuli_z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979715078338560337",
+        "in_reply_to_user_id": "1069814501904502784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979600572090286426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pulipuli_z 是这样，性别没有那么重要的\n只是咱可能对部分顺直男有一点负面滤镜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069814501904502784",
+        "conversation_id": "1979325553854271668",
+        "created_at": "2025-10-18T17:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T18:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979600572090286426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979600572090286426",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979325553854271668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 和社交习惯相近的人待一起最舒服，无论性别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 245,
+          "like_count": 3564,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 612
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T04:43:48.000Z",
+        "description": "INFP 一般來說在杭州 MtF 残忍变性女巫 经常转一些小动物视频 爱人：@indigo_iamlove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "indigo_iamlove"
+              }
+            ]
+          }
+        },
+        "id": "1069814501904502784",
+        "location": "伯伦希尔",
+        "name": "阿粥尽量上午起床",
+        "pinned_tweet_id": "1922992282971595032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977421774976655360/-EHgLN1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7546,
+          "following_count": 152,
+          "like_count": 13016,
+          "listed_count": 30,
+          "media_count": 2709,
+          "tweet_count": 11534
+        },
+        "username": "Pulipuli_z",
+        "verified": false
+      }
+    ]
+  }
+}

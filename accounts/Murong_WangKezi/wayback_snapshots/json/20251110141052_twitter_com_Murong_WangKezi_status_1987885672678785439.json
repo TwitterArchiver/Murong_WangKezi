@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1987885672678785439",
+    "created_at": "2025-11-10T14:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T15:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987885672678785439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Murong_WangKez…",
+          "end": 105,
+          "expanded_url": "https://twitter.com/Murong_WangKezi/status/1987869436200792471",
+          "start": 82,
+          "url": "https://t.co/6O19WqSG8q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987885672678785439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987869436200792471",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咱平时活动的地方是一张桌子喵\n主要因为没有自己的房间啦，晚上是睡父母床旁边的一个长沙发上的，所以不能偷偷搞事情www\n不过因为要中考，终于愿意给咱办身份证了喵ww https://t.co/6O19WqSG8q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1987885672678785439",
+        "created_at": "2025-11-10T14:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987885672678785439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Murong_WangKez…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/Murong_WangKezi/status/1987869436200792471",
+              "start": 82,
+              "url": "https://t.co/6O19WqSG8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987885672678785439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987869436200792471",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱平时活动的地方是一张桌子喵\n主要因为没有自己的房间啦，晚上是睡父母床旁边的一个长沙发上的，所以不能偷偷搞事情www\n不过因为要中考，终于愿意给咱办身份证了喵ww https://t.co/6O19WqSG8q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1987869436200792471",
+        "created_at": "2025-11-10T13:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987869436200792471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987869436200792471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被圈的太狠了\n直到现在还没有手机卡、身份证和手机是什么概念ww\n之前家长试想过不让咱持有的资源货币超过10元ww（不过没有执行，只是想想）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 282,
+          "like_count": 4055,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 949
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

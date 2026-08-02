@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2070153488504676689",
+    "created_at": "2026-06-30T04:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T05:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071816202129903628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754370504197296128",
+          "start": 0,
+          "username": "Axiaobo7788"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071816202129903628",
+    "in_reply_to_user_id": "1754370504197296128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071626456380461082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Axiaobo7788 喵呜……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2070153488504676689",
+        "created_at": "2026-06-30T04:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071816202129903628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754370504197296128",
+              "start": 0,
+              "username": "Axiaobo7788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071816202129903628",
+        "in_reply_to_user_id": "1754370504197296128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071626456380461082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Axiaobo7788 喵呜……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754370504197296128",
+        "conversation_id": "2070153488504676689",
+        "created_at": "2026-06-29T16:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071626456380461082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071626456380461082",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070342012289876213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 问题是你不恢复状态怎么进行下一步呢，这样不就成死循环了吗，总得找点突破口吧，要接受自己有缺陷然后用合适的方式来弥补自己，比别人慢一点也无所谓，这样才能恢复做事效率啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 381,
+          "like_count": 8992,
+          "listed_count": 2,
+          "media_count": 405,
+          "tweet_count": 3209
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T05:05:07.000Z",
+        "description": "",
+        "id": "1754370504197296128",
+        "name": "Axiaobo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982833159172399104/paob9Ny-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 99,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "Axiaobo7788",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075812887852171264",
+        "3_2075812950460502016",
+        "3_2075813025064554496"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2075813063232807268",
+    "created_at": "2026-07-11T05:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T06:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075813063232807268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bK6EjkAvJN",
+          "end": 63,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2075813063232807268/photo/1",
+          "media_key": "3_2075812887852171264",
+          "start": 40,
+          "url": "https://t.co/bK6EjkAvJN"
+        },
+        {
+          "display_url": "pic.x.com/bK6EjkAvJN",
+          "end": 63,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2075813063232807268/photo/1",
+          "media_key": "3_2075812950460502016",
+          "start": 40,
+          "url": "https://t.co/bK6EjkAvJN"
+        },
+        {
+          "display_url": "pic.x.com/bK6EjkAvJN",
+          "end": 63,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2075813063232807268/photo/1",
+          "media_key": "3_2075813025064554496",
+          "start": 40,
+          "url": "https://t.co/bK6EjkAvJN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075813063232807268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这家邮政所写“中国邮政”那个门是银行，写“中国邮政储蓄银行”的那个门是邮局…… https://t.co/bK6EjkAvJN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2075812887852171264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7E0sibQAA8IEH.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2075812950460502016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7E4VxakAA_63_.jpg",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2075813025064554496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7E8rsaEAAFfv8.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075812887852171264",
+            "3_2075812950460502016",
+            "3_2075813025064554496"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075813063232807268",
+        "created_at": "2026-07-11T05:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075813063232807268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bK6EjkAvJN",
+              "end": 63,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2075813063232807268/photo/1",
+              "media_key": "3_2075812887852171264",
+              "start": 40,
+              "url": "https://t.co/bK6EjkAvJN"
+            },
+            {
+              "display_url": "pic.x.com/bK6EjkAvJN",
+              "end": 63,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2075813063232807268/photo/1",
+              "media_key": "3_2075812950460502016",
+              "start": 40,
+              "url": "https://t.co/bK6EjkAvJN"
+            },
+            {
+              "display_url": "pic.x.com/bK6EjkAvJN",
+              "end": 63,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2075813063232807268/photo/1",
+              "media_key": "3_2075813025064554496",
+              "start": 40,
+              "url": "https://t.co/bK6EjkAvJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075813063232807268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这家邮政所写“中国邮政”那个门是银行，写“中国邮政储蓄银行”的那个门是邮局…… https://t.co/bK6EjkAvJN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 381,
+          "like_count": 9298,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 3378
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066090130793005056"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2066090242189447172",
+    "created_at": "2026-06-14T09:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066090242189447172"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dGSSk6v6eE",
+          "end": 29,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2066090242189447172/photo/1",
+          "media_key": "3_2066090130793005056",
+          "start": 6,
+          "url": "https://t.co/dGSSk6v6eE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066090242189447172",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "慕容诱捕器 https://t.co/dGSSk6v6eE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2066090130793005056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw6Bv_bgAAaIwI.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066090130793005056"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2066090242189447172",
+        "created_at": "2026-06-14T09:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066090242189447172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dGSSk6v6eE",
+              "end": 29,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2066090242189447172/photo/1",
+              "media_key": "3_2066090130793005056",
+              "start": 6,
+              "url": "https://t.co/dGSSk6v6eE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066090242189447172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "慕容诱捕器 https://t.co/dGSSk6v6eE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2034612481734463789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 377,
+          "like_count": 8298,
+          "listed_count": 2,
+          "media_count": 356,
+          "tweet_count": 2676
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

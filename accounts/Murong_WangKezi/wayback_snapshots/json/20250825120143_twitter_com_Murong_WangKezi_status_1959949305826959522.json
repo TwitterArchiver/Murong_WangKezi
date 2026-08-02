@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1959948537522995205",
+    "created_at": "2025-08-25T12:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T13:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959949305826959522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1688215989970968576",
+          "start": 0,
+          "username": "mizuki_liang"
+        },
+        {
+          "end": 29,
+          "id": "1565981667746914304",
+          "start": 14,
+          "username": "Chinese_114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959949305826959522",
+    "in_reply_to_user_id": "1688215989970968576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959948537522995205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuki_liang @Chinese_114514 两位老师~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2028,
+        "media_key": "3_1959948527586639872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzMizTTaAAA-1zA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1959948537522995205",
+        "created_at": "2025-08-25T12:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T13:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959949305826959522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1688215989970968576",
+              "start": 0,
+              "username": "mizuki_liang"
+            },
+            {
+              "end": 29,
+              "id": "1565981667746914304",
+              "start": 14,
+              "username": "Chinese_114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959949305826959522",
+        "in_reply_to_user_id": "1688215989970968576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959948537522995205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuki_liang @Chinese_114514 两位老师~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959948527586639872"
+          ]
+        },
+        "author_id": "1688215989970968576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1959948537522995205",
+        "created_at": "2025-08-25T11:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T12:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959948537522995205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1565981667746914304",
+              "start": 18,
+              "username": "Chinese_114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5IcPSteC49",
+              "end": 57,
+              "expanded_url": "https://x.com/mizuki_liang/status/1959948537522995205/photo/1",
+              "media_key": "3_1959948527586639872",
+              "start": 34,
+              "url": "https://t.co/5IcPSteC49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959948537522995205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贴贴awa，下次再见面就是明年了😭 @Chinese_114514 https://t.co/5IcPSteC49"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10晚上五点半\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 78,
+          "like_count": 595,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 142
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T15:50:37.000Z",
+        "description": "wmc | mtf🏳️‍⚧️ | 喜欢折腾(但是有时候也懒得折腾) | 喜欢发日常 | 极度缺乏安全感 | 欢迎互fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/liangowo",
+                "end": 23,
+                "expanded_url": "https://t.me/liangowo",
+                "start": 0,
+                "url": "https://t.co/6xL3ldqhNJ"
+              }
+            ]
+          }
+        },
+        "id": "1688215989970968576",
+        "location": "舞萌国",
+        "name": "凉老师不是娘老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955251749461344256/SXfHqMH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 664,
+          "like_count": 2709,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1647
+        },
+        "url": "https://t.co/6xL3ldqhNJ",
+        "username": "mizuki_liang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "面对真相，其实谁都一样，那些你愿意信的，是被你筛选过的 ——-《网络锚定效应》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/jilaoshi",
+                "end": 23,
+                "expanded_url": "https://t.me/jilaoshi",
+                "start": 0,
+                "url": "https://t.co/ENIsNAGnjp"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "🏳️‍⚧️寄老师不是姬老师🍥",
+        "pinned_tweet_id": "1945543638341357716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945442779284340736/Pa29ayQ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 918,
+          "like_count": 46001,
+          "listed_count": 1,
+          "media_count": 416,
+          "tweet_count": 4972
+        },
+        "url": "https://t.co/ENIsNAGnjp",
+        "username": "Chinese_114514",
+        "verified": false
+      }
+    ]
+  }
+}

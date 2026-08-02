@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2083411336462238163",
+    "created_at": "2026-08-01T04:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083411347405168942"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083411347405168942",
+    "in_reply_to_user_id": "1870315714638385152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083411336462238163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本来以为ta是MtF的，问了一下原来是伪娘！可惜只对话了几秒钟，问ta要不要加好友回答是“算了吧”，我没有再要求就跑开了\n好不容易遇到一只还没要联系方式，我可能会记好久的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2083411336462238163",
+        "created_at": "2026-08-01T04:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083411347405168942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083411347405168942",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083411336462238163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来以为ta是MtF的，问了一下原来是伪娘！可惜只对话了几秒钟，问ta要不要加好友回答是“算了吧”，我没有再要求就跑开了\n好不容易遇到一只还没要联系方式，我可能会记好久的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2083411336462238163",
+        "created_at": "2026-08-01T04:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083411336462238163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083411336462238163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚在街上遇到一只伪娘诶！\n看ta穿着像旗袍的女性化服装，头发乱乱的就有一种隐隐的感觉，留心了一下，发现有很明显的喉结诶（啊啊我真的没什么坏心思，不是在说ta说不pass啦\n走过去有点距离两个人都互相转头看对方，那么既然让我抓到了当然是上去搭话～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 382,
+          "like_count": 10031,
+          "listed_count": 2,
+          "media_count": 592,
+          "tweet_count": 4036
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

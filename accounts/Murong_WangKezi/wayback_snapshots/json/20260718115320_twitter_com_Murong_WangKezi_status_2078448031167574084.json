@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2078350311258017938",
+    "created_at": "2026-07-18T11:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T12:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078448031167574084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1825299898868060160",
+          "start": 0,
+          "username": "mituofo46168"
+        },
+        {
+          "end": 29,
+          "id": "2053864757329817600",
+          "start": 14,
+          "username": "today_is_foggy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078448031167574084",
+    "in_reply_to_user_id": "1825299898868060160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078350311258017938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mituofo46168 @today_is_foggy 学航海的讲讲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2078350311258017938",
+        "created_at": "2026-07-18T11:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078448031167574084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1825299898868060160",
+              "start": 0,
+              "username": "mituofo46168"
+            },
+            {
+              "end": 29,
+              "id": "2053864757329817600",
+              "start": 14,
+              "username": "today_is_foggy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078448031167574084",
+        "in_reply_to_user_id": "1825299898868060160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078350311258017938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mituofo46168 @today_is_foggy 学航海的讲讲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825299898868060160",
+        "conversation_id": "2078350311258017938",
+        "created_at": "2026-07-18T05:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078350311258017938"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078350311258017938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的，船这个东西除了不会尿裤子，根个孩子也差不多了，作妖根本不分时间场合的❌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 382,
+          "like_count": 9600,
+          "listed_count": 2,
+          "media_count": 512,
+          "tweet_count": 3641
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T22:33:12.000Z",
+        "description": "灵魂学/搞点吃的/海运物流\n摄影，料理\n大龄社畜/enby/天空树/玻璃柜/\n♓️🌈🏳️‍⚧️🇵🇦❄️",
+        "id": "1825299898868060160",
+        "location": "喵喵光明顶",
+        "name": "❄️陈雪逸❄️🇵🇦",
+        "pinned_tweet_id": "2065982189033193898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973985682218442752/Oe4P4Ncq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 624,
+          "like_count": 4332,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 1171
+        },
+        "url": "",
+        "username": "mituofo46168",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-11T15:48:30.000Z",
+        "description": "这里是大雾！可以叫咱大雾ww，二次元，笨蛋，无糖，不od、割手，什么都会一点但什么都做不好，只要接纳咱那一定会有反馈的说ww接触过的东西有好多，但都很入门...航空航天 时事政治 摄影 化妆 化学 锻炼健身 番剧游戏 还自己学过一点c和Python...希望有人可以来找咱聊天什么的。",
+        "id": "2053864757329817600",
+        "location": "成都  山东上学",
+        "name": "今天是大雾！",
+        "pinned_tweet_id": "2075249973487104381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073740142737846272/5wS-JDPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 100,
+          "like_count": 1293,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 771
+        },
+        "url": "",
+        "username": "today_is_foggy",
+        "verified": false
+      }
+    ]
+  }
+}

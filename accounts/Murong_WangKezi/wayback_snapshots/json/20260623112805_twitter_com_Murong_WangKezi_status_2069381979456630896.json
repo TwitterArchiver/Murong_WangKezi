@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2069024111700103663",
+    "created_at": "2026-06-23T11:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069381979456630896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2002960318998491136",
+          "start": 0,
+          "username": "vokleer"
+        },
+        {
+          "end": 24,
+          "id": "1443439089710092288",
+          "start": 9,
+          "username": "XiaYiGongHeQiu"
+        },
+        {
+          "end": 35,
+          "id": "1993628897645408256",
+          "start": 25,
+          "username": "Pr0mis3_c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069381979456630896",
+    "in_reply_to_user_id": "2002960318998491136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069265889271423357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vokleer @XiaYiGongHeQiu @Pr0mis3_c 可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2069024111700103663",
+        "created_at": "2026-06-23T11:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069381979456630896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2002960318998491136",
+              "start": 0,
+              "username": "vokleer"
+            },
+            {
+              "end": 24,
+              "id": "1443439089710092288",
+              "start": 9,
+              "username": "XiaYiGongHeQiu"
+            },
+            {
+              "end": 35,
+              "id": "1993628897645408256",
+              "start": 25,
+              "username": "Pr0mis3_c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069381979456630896",
+        "in_reply_to_user_id": "2002960318998491136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069265889271423357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vokleer @XiaYiGongHeQiu @Pr0mis3_c 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002960318998491136",
+        "conversation_id": "2069024111700103663",
+        "created_at": "2026-06-23T03:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T04:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069265889271423357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1443439089710092288",
+              "start": 0,
+              "username": "XiaYiGongHeQiu"
+            },
+            {
+              "end": 26,
+              "id": "1993628897645408256",
+              "start": 16,
+              "username": "Pr0mis3_c"
+            },
+            {
+              "end": 43,
+              "id": "1870315714638385152",
+              "start": 27,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069265889271423357",
+        "in_reply_to_user_id": "1443439089710092288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069236035633172658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaYiGongHeQiu @Pr0mis3_c @Murong_WangKezi 我也是😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 378,
+          "like_count": 8536,
+          "listed_count": 2,
+          "media_count": 388,
+          "tweet_count": 2871
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T04:32:22.000Z",
+        "description": "2006/10/02 坐标成都喵｜小证2026.3.5｜完全家长党｜大证准备中（家长已同意）｜看到我的话求求互fo喵｜妹妹@mili_bugia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "mili_bugia"
+              }
+            ]
+          }
+        },
+        "id": "2002960318998491136",
+        "name": "知言🍥（互fo喵）",
+        "pinned_tweet_id": "2052568366506729780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005331844280303616/0y2BfQK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 862,
+          "like_count": 3316,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "vokleer",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T04:54:53.000Z",
+        "description": "请叫我“虾球”｜某商(kuài)学(jì)生(xué)的MtF🏳️‍⚧️｜选择性回fo喵\nサブ垢@XiaYGHQiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "XiaYGHQiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiayigongheqiu.mysxl.cn",
+                "end": 23,
+                "expanded_url": "http://xiayigongheqiu.mysxl.cn",
+                "start": 0,
+                "url": "https://t.co/s94hBVliY8"
+              }
+            ]
+          }
+        },
+        "id": "1443439089710092288",
+        "location": "山東省煙臺市萊山區",
+        "name": "🦐虾夷共和球🍥",
+        "pinned_tweet_id": "2064950601444982819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050800286068088832/y1fHTAAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 680,
+          "like_count": 21896,
+          "listed_count": 5,
+          "media_count": 170,
+          "tweet_count": 3803
+        },
+        "url": "https://t.co/s94hBVliY8",
+        "username": "XiaYiGongHeQiu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T10:32:43.000Z",
+        "description": "🍥06 xyn/mtf 🏳️‍⚧️hrt: 2025.12.2| en/zh | 无证含糖 | 持续深柜 | 无不良嗜好 | 焦虑抑郁中... | 梦想srs | 渴望交友ing...\n🚩CTF | 网络/信息安全 | 软件开发 | Web\ntg: https://t.co/yl6WM4V5Sw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Pr0m1s3",
+                "end": 148,
+                "expanded_url": "http://t.me/Pr0m1s3",
+                "start": 125,
+                "url": "https://t.co/yl6WM4V5Sw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "czxh.top",
+                "end": 23,
+                "expanded_url": "https://czxh.top",
+                "start": 0,
+                "url": "https://t.co/mt7U160VHA"
+              }
+            ]
+          }
+        },
+        "id": "1993628897645408256",
+        "location": "Antarctica",
+        "name": "诗雨.𝘗𝘳𝘰𝘮𝘪𝘴𝘦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2039290189093519707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063083323459825664/tzQOYIMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 521,
+          "like_count": 2380,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 827
+        },
+        "url": "https://t.co/mt7U160VHA",
+        "username": "Pr0mis3_c",
+        "verified": false
+      }
+    ]
+  }
+}

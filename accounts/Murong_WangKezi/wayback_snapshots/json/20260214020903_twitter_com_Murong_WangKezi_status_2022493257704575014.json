@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2022420558940639470",
+    "created_at": "2026-02-14T02:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T03:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022493257704575014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1374724817119772674",
+          "start": 0,
+          "username": "Mimiaomc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022493257704575014",
+    "in_reply_to_user_id": "1374724817119772674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022420558940639470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mimiaomc 抱抱喵……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6628,
+        "height": 1280,
+        "media_key": "13_2022420491047493632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022420491047493632/img/7khWIsbaLw3lUmVH.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022420491047493632/vid/avc1/320x568/3sitVxCQ1AoxrQnU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022420491047493632/vid/avc1/480x852/xgi7-0eE3bz_oTFl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022420491047493632/vid/avc1/720x1280/oCFs-xy-WiHz1lh_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022420491047493632/pl/GmZu_T42h_8jqEMt.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2022420558940639470",
+        "created_at": "2026-02-14T02:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T03:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022493257704575014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1374724817119772674",
+              "start": 0,
+              "username": "Mimiaomc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022493257704575014",
+        "in_reply_to_user_id": "1374724817119772674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022420558940639470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mimiaomc 抱抱喵……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022420491047493632"
+          ]
+        },
+        "author_id": "1374724817119772674",
+        "conversation_id": "2022420558940639470",
+        "created_at": "2026-02-13T21:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T22:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022420558940639470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ksgTKGJlp",
+              "end": 27,
+              "expanded_url": "https://x.com/Mimiaomc/status/2022420558940639470/video/1",
+              "media_key": "13_2022420491047493632",
+              "start": 4,
+              "url": "https://t.co/2ksgTKGJlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022420558940639470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蹭电喵 https://t.co/2ksgTKGJlp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10（中间数次断药）\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 127,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 104,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2020089001756299412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 335,
+          "like_count": 5790,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 1562
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-24T14:08:43.000Z",
+        "description": "就是家猫啦！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "classnote.top",
+                "end": 23,
+                "expanded_url": "https://classnote.top",
+                "start": 0,
+                "url": "https://t.co/gOvxKZpBRM"
+              }
+            ]
+          }
+        },
+        "id": "1374724817119772674",
+        "location": "陕西西安，中国",
+        "name": "MM 喵了个",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1374736977145303040/wMVCqAP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 420,
+          "like_count": 371,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 310
+        },
+        "url": "https://t.co/gOvxKZpBRM",
+        "username": "Mimiaomc",
+        "verified": false
+      }
+    ]
+  }
+}

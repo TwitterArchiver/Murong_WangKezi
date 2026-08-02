@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063638894135193600",
+        "3_2063638894118363136",
+        "3_2063638894126755840"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2063638929698595114",
+    "created_at": "2026-06-07T15:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063638929698595114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cYxIfMavZS",
+          "end": 26,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2063638929698595114/photo/1",
+          "media_key": "3_2063638894135193600",
+          "start": 3,
+          "url": "https://t.co/cYxIfMavZS"
+        },
+        {
+          "display_url": "pic.x.com/cYxIfMavZS",
+          "end": 26,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2063638929698595114/photo/1",
+          "media_key": "3_2063638894118363136",
+          "start": 3,
+          "url": "https://t.co/cYxIfMavZS"
+        },
+        {
+          "display_url": "pic.x.com/cYxIfMavZS",
+          "end": 26,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2063638929698595114/photo/1",
+          "media_key": "3_2063638894126755840",
+          "start": 3,
+          "url": "https://t.co/cYxIfMavZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063638929698595114",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "基站 https://t.co/cYxIfMavZS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2063638894135193600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOEo_2bsAAECvY.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2063638894118363136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOEo_ya4AASGVv.jpg",
+        "width": 2731
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2063638894126755840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOEo_0a8AAsXfu.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063638894135193600",
+            "3_2063638894118363136",
+            "3_2063638894126755840"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2063638929698595114",
+        "created_at": "2026-06-07T15:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063638929698595114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cYxIfMavZS",
+              "end": 26,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2063638929698595114/photo/1",
+              "media_key": "3_2063638894135193600",
+              "start": 3,
+              "url": "https://t.co/cYxIfMavZS"
+            },
+            {
+              "display_url": "pic.x.com/cYxIfMavZS",
+              "end": 26,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2063638929698595114/photo/1",
+              "media_key": "3_2063638894118363136",
+              "start": 3,
+              "url": "https://t.co/cYxIfMavZS"
+            },
+            {
+              "display_url": "pic.x.com/cYxIfMavZS",
+              "end": 26,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2063638929698595114/photo/1",
+              "media_key": "3_2063638894126755840",
+              "start": 3,
+              "url": "https://t.co/cYxIfMavZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063638929698595114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "基站 https://t.co/cYxIfMavZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2034612481734463789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 375,
+          "like_count": 8125,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 2592
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

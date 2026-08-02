@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2076688295430594604",
+    "created_at": "2026-07-13T17:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T18:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076714265961177490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2055900754968465408",
+          "start": 0,
+          "username": "conv1x1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076714265961177490",
+    "in_reply_to_user_id": "2055900754968465408",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076695762503942541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@conv1x1 w？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2076688295430594604",
+        "created_at": "2026-07-13T17:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076714265961177490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055900754968465408",
+              "start": 0,
+              "username": "conv1x1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076714265961177490",
+        "in_reply_to_user_id": "2055900754968465408",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076695762503942541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@conv1x1 w？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055900754968465408",
+        "conversation_id": "2076688295430594604",
+        "created_at": "2026-07-13T15:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076695762503942541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076695762503942541",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076688295430594604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 太严谨了👍 把电压表的读数看作真实电压的表征 将真实电压和电压读数作区分 所以是表示数👍 自学物理就能到达如此之境界 拜师学成了岂能了的？👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 382,
+          "like_count": 9449,
+          "listed_count": 2,
+          "media_count": 486,
+          "tweet_count": 3516
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T06:55:27.000Z",
+        "description": "怪人・lim社恐=+∞・某种奇怪的跨・infp&intp叠加态・喜欢［男, 女］孩子(闭区间)・千禧製・非二维・非线性・张量・什么时候给性别先安一个虚轴?・甚至可以跨物种?・傅立叶・贝叶斯・模拟?数字?连续?离散?・找到了神奇的介面・干什么都是半吊子・其实是个笨蛋\n如果误封锁了请一定联系我喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tat48760",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tat48760",
+                "start": 0,
+                "url": "https://t.co/cyyi2t9Aci"
+              }
+            ]
+          }
+        },
+        "id": "2055900754968465408",
+        "location": "其中一个投影的实例部署于太阳系",
+        "name": "uu （永远爱你们！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069073801414082560/0qmpBmzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 145,
+          "like_count": 4582,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/cyyi2t9Aci",
+        "username": "conv1x1",
+        "verified": false
+      }
+    ]
+  }
+}

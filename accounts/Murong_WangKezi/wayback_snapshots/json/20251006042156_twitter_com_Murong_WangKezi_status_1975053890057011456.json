@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1974735197146067115",
+    "created_at": "2025-10-06T04:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T05:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975053890057011456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1911351259749294080",
+          "start": 0,
+          "username": "Quitewaterqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975053890057011456",
+    "in_reply_to_user_id": "1911351259749294080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974735197146067115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quitewaterqwq 坏处是永远不死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1974735197146067115",
+        "created_at": "2025-10-06T04:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T05:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975053890057011456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1911351259749294080",
+              "start": 0,
+              "username": "Quitewaterqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975053890057011456",
+        "in_reply_to_user_id": "1911351259749294080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974735197146067115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quitewaterqwq 坏处是永远不死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911351259749294080",
+        "conversation_id": "1974735197146067115",
+        "created_at": "2025-10-05T07:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T08:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974735197146067115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/1974581607958011967",
+              "start": 4,
+              "url": "https://t.co/Le2tyd1hcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974735197146067115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974581607958011967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "坏处呢 https://t.co/Le2tyd1hcn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10晚上五点半\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 112,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 89,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 205,
+          "like_count": 2849,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 415
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T09:31:56.000Z",
+        "description": "已退推|推荐关注朋友👉@elp15_ @hajixi12356 @Shimamura_Tako @wusweet_i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 11,
+                "username": "elp15_"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "hajixi12356"
+              },
+              {
+                "end": 47,
+                "start": 32,
+                "username": "Shimamura_Tako"
+              },
+              {
+                "end": 58,
+                "start": 48,
+                "username": "wusweet_i"
+              }
+            ]
+          }
+        },
+        "id": "1911351259749294080",
+        "name": "平静如水🇨🇳🇦🇶|第二转世|推友巡回",
+        "pinned_tweet_id": "1947285390538236348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913242634891493376/59jBA1pa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 892,
+          "like_count": 4193,
+          "listed_count": 3,
+          "media_count": 162,
+          "tweet_count": 2668
+        },
+        "username": "Quitewaterqwq",
+        "verified": false
+      }
+    ]
+  }
+}

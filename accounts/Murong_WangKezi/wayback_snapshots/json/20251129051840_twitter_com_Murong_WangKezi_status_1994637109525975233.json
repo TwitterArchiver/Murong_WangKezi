@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1994637109525975233",
+    "created_at": "2025-11-29T05:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994637109525975233"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Murong_WangKez…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/Murong_WangKezi/status/1994003626743005454",
+          "start": 144,
+          "url": "https://t.co/sUEOMfLfIe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994637109525975233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994003626743005454",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这件事情大概是这样：\n当天晚上咱情绪本来就不太好，写完学校作业想着出去玩呢。but写完作业之前因为吃饭太累就睡着了，写完作业已经是晚上了。咱觉得太晚就算了，在家里玩玩也行。\n可是家长非要咱写一课数学练习册（是突然说的，之前也没告诉过咱要写这个），咱不想写，于是就用学习的事情攻击咱www https://t.co/sUEOMfLfIe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994003609995067392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wft_aaQAAwFrT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1994003610909462532",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wfuC0a0AQyLDI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994003610213208067",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wfuAOa0AM8Mly.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994003610758467584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wfuCQa0AAIc-p.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1994637109525975233",
+        "created_at": "2025-11-29T05:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994637109525975233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Murong_WangKez…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/Murong_WangKezi/status/1994003626743005454",
+              "start": 144,
+              "url": "https://t.co/sUEOMfLfIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994637109525975233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994003626743005454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这件事情大概是这样：\n当天晚上咱情绪本来就不太好，写完学校作业想着出去玩呢。but写完作业之前因为吃饭太累就睡着了，写完作业已经是晚上了。咱觉得太晚就算了，在家里玩玩也行。\n可是家长非要咱写一课数学练习册（是突然说的，之前也没告诉过咱要写这个），咱不想写，于是就用学习的事情攻击咱www https://t.co/sUEOMfLfIe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994003609995067392",
+            "3_1994003610909462532",
+            "3_1994003610213208067",
+            "3_1994003610758467584"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "1994003626743005454",
+        "created_at": "2025-11-27T11:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T12:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994003626743005454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P1FBPBpFXG",
+              "end": 111,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/1994003626743005454/photo/1",
+              "media_key": "3_1994003609995067392",
+              "start": 88,
+              "url": "https://t.co/P1FBPBpFXG"
+            },
+            {
+              "display_url": "pic.x.com/P1FBPBpFXG",
+              "end": 111,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/1994003626743005454/photo/1",
+              "media_key": "3_1994003610909462532",
+              "start": 88,
+              "url": "https://t.co/P1FBPBpFXG"
+            },
+            {
+              "display_url": "pic.x.com/P1FBPBpFXG",
+              "end": 111,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/1994003626743005454/photo/1",
+              "media_key": "3_1994003610213208067",
+              "start": 88,
+              "url": "https://t.co/P1FBPBpFXG"
+            },
+            {
+              "display_url": "pic.x.com/P1FBPBpFXG",
+              "end": 111,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/1994003626743005454/photo/1",
+              "media_key": "3_1994003610758467584",
+              "start": 88,
+              "url": "https://t.co/P1FBPBpFXG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994003626743005454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 25150,
+          "like_count": 100,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "因为某些原因需要消失一阵子\n慕容会想念大家的喵\n晚安，但 什么时候醒来不知道（或许也有可能不会再回来了？）\n\n请联系：\nMurong_Wangkezi@outlook.com https://t.co/P1FBPBpFXG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 277,
+          "like_count": 4248,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 1074
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

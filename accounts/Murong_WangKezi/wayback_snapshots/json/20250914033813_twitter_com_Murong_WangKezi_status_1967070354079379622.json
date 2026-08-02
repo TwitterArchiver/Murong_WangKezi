@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1967070354079379622",
+    "created_at": "2025-09-14T03:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T04:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967070354079379622"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Murong_WangKez…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/Murong_WangKezi/status/1961732905568539083",
+          "start": 49,
+          "url": "https://t.co/MVG71pTxRe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967070354079379622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961732905568539083",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最近家长不让单独出门了呜呜呜\n可能要晚点寄出了，对不起……\n不过，所有邮件都已经封口并且贴票啦~ https://t.co/MVG71pTxRe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1584,
+        "media_key": "3_1961732167228358656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzl5AywagAAmvcO.jpg",
+        "width": 2520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1967070354079379622",
+        "created_at": "2025-09-14T03:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T04:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967070354079379622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Murong_WangKez…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Murong_WangKezi/status/1961732905568539083",
+              "start": 49,
+              "url": "https://t.co/MVG71pTxRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967070354079379622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961732905568539083",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近家长不让单独出门了呜呜呜\n可能要晚点寄出了，对不起……\n不过，所有邮件都已经封口并且贴票啦~ https://t.co/MVG71pTxRe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961732167228358656"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "1961732905568539083",
+        "created_at": "2025-08-30T10:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T11:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961732905568539083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 51,
+              "id": "1831363594556211200",
+              "start": 36,
+              "username": "JyushitiYizuka"
+            },
+            {
+              "end": 67,
+              "id": "1919963459279888384",
+              "start": 52,
+              "username": "Haruka25999588"
+            },
+            {
+              "end": 79,
+              "id": "1844397104409739264",
+              "start": 68,
+              "username": "hu_chuo153"
+            },
+            {
+              "end": 90,
+              "id": "1589235830731997188",
+              "start": 80,
+              "username": "PWaterawa"
+            },
+            {
+              "end": 106,
+              "id": "1849038858039754752",
+              "start": 91,
+              "username": "tsukisakura100"
+            },
+            {
+              "end": 118,
+              "id": "1857802986837172224",
+              "start": 107,
+              "username": "LingRuoovo"
+            },
+            {
+              "end": 130,
+              "id": "1806961186266873856",
+              "start": 119,
+              "username": "XiaoQi_cpp"
+            },
+            {
+              "end": 141,
+              "id": "1497860307653251072",
+              "start": 131,
+              "username": "chengyiga"
+            },
+            {
+              "end": 158,
+              "id": "1543982488019963905",
+              "start": 142,
+              "username": "XPz7qZexOZH76pb"
+            },
+            {
+              "end": 172,
+              "id": "1595943207153520642",
+              "start": 159,
+              "username": "YoungMouchen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QeuHLPlq6H",
+              "end": 196,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/1961732905568539083/photo/1",
+              "media_key": "3_1961732167228358656",
+              "start": 173,
+              "url": "https://t.co/QeuHLPlq6H"
+            },
+            {
+              "display_url": "x.com/Murong_WangKez…",
+              "end": 220,
+              "expanded_url": "https://twitter.com/Murong_WangKezi/status/1961339944162427271",
+              "start": 197,
+              "url": "https://t.co/VRQlv26pCj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961732905568539083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1591,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961339944162427271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中奖名单使用Python random库生成~\n祝贺下面的推友们中奖：\n@JyushitiYizuka\n@Haruka25999588\n@hu_chuo153\n@PWaterawa\n@tsukisakura100\n@LingRuoovo\n@XiaoQi_cpp\n@chengyiga\n@XPz7qZexOZH76pb\n@YoungMouchen https://t.co/QeuHLPlq6H https://t.co/VRQlv26pCj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10晚上五点半\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 112,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 89,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 167,
+          "like_count": 1307,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

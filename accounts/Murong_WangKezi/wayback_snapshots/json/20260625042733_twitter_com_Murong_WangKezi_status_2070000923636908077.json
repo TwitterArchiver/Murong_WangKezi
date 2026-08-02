@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070000898437484544",
+        "3_2070000899020439552",
+        "3_2070000899095928832",
+        "3_2070000898517131264"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2070000923636908077",
+    "created_at": "2026-06-25T04:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070000923636908077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nf7DvyUVUu",
+          "end": 53,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2070000923636908077/photo/1",
+          "media_key": "3_2070000898437484544",
+          "start": 30,
+          "url": "https://t.co/Nf7DvyUVUu"
+        },
+        {
+          "display_url": "pic.x.com/Nf7DvyUVUu",
+          "end": 53,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2070000923636908077/photo/1",
+          "media_key": "3_2070000899020439552",
+          "start": 30,
+          "url": "https://t.co/Nf7DvyUVUu"
+        },
+        {
+          "display_url": "pic.x.com/Nf7DvyUVUu",
+          "end": 53,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2070000923636908077/photo/1",
+          "media_key": "3_2070000899095928832",
+          "start": 30,
+          "url": "https://t.co/Nf7DvyUVUu"
+        },
+        {
+          "display_url": "pic.x.com/Nf7DvyUVUu",
+          "end": 53,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2070000923636908077/photo/1",
+          "media_key": "3_2070000898517131264",
+          "start": 30,
+          "url": "https://t.co/Nf7DvyUVUu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070000923636908077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来康复路逛化妆品店\n还有去空军军医大学拍照被哨兵哈气的环节 https://t.co/Nf7DvyUVUu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2070000898437484544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoe2YwbEAAWidm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2070000899020439552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoe2a7aQAA13Qm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2070000899095928832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoe2bNaIAAEF6h.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2070000898517131264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoe2ZDaYAA8RTx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070000898437484544",
+            "3_2070000899020439552",
+            "3_2070000899095928832",
+            "3_2070000898517131264"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2070000923636908077",
+        "created_at": "2026-06-25T04:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070000923636908077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nf7DvyUVUu",
+              "end": 53,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2070000923636908077/photo/1",
+              "media_key": "3_2070000898437484544",
+              "start": 30,
+              "url": "https://t.co/Nf7DvyUVUu"
+            },
+            {
+              "display_url": "pic.x.com/Nf7DvyUVUu",
+              "end": 53,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2070000923636908077/photo/1",
+              "media_key": "3_2070000899020439552",
+              "start": 30,
+              "url": "https://t.co/Nf7DvyUVUu"
+            },
+            {
+              "display_url": "pic.x.com/Nf7DvyUVUu",
+              "end": 53,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2070000923636908077/photo/1",
+              "media_key": "3_2070000899095928832",
+              "start": 30,
+              "url": "https://t.co/Nf7DvyUVUu"
+            },
+            {
+              "display_url": "pic.x.com/Nf7DvyUVUu",
+              "end": 53,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2070000923636908077/photo/1",
+              "media_key": "3_2070000898517131264",
+              "start": 30,
+              "url": "https://t.co/Nf7DvyUVUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070000923636908077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来康复路逛化妆品店\n还有去空军军医大学拍照被哨兵哈气的环节 https://t.co/Nf7DvyUVUu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 380,
+          "like_count": 8634,
+          "listed_count": 2,
+          "media_count": 393,
+          "tweet_count": 2943
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

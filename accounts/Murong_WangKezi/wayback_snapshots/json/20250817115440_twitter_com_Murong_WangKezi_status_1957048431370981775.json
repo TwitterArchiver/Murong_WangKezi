@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1957048431370981775",
+    "created_at": "2025-08-17T11:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T12:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957048431370981775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1429405137198452736",
+          "start": 3,
+          "username": "RisakiMtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957048431370981775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956982098134471097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RisakiMtf: “医疗是基本人权，为捍卫它我曾经礼貌的践踏法律”\n——  我在去年运营面向MTF和ADHD的“达拉斯买家俱乐部”，以应对正规途径缺货和性别肯定难以得到，这是我的宣言！\n\n处方药品应该得到监管？是的，这可以阻止物质滥用和非法交易。但该政策有益的前提是…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "在2024年，中国部分地区利他林供应因部分原因中断，我为一名考生免费赠送了“救命稻草” —— 这冒着极大的法律风险，被发现将会被捕",
+        "height": 1200,
+        "media_key": "3_1956979783608467457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyiWvqKagAE_iyv.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1957048431370981775",
+        "created_at": "2025-08-17T11:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T12:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957048431370981775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429405137198452736",
+              "start": 3,
+              "username": "RisakiMtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957048431370981775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956982098134471097",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RisakiMtf: “医疗是基本人权，为捍卫它我曾经礼貌的践踏法律”\n——  我在去年运营面向MTF和ADHD的“达拉斯买家俱乐部”，以应对正规途径缺货和性别肯定难以得到，这是我的宣言！\n\n处方药品应该得到监管？是的，这可以阻止物质滥用和非法交易。但该政策有益的前提是…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956979783608467457"
+          ]
+        },
+        "author_id": "1429405137198452736",
+        "conversation_id": "1956982098134471097",
+        "created_at": "2025-08-17T07:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T08:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956982098134471097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1vviilO5v",
+              "end": 173,
+              "expanded_url": "https://x.com/RisakiMtf/status/1956982098134471097/photo/1",
+              "media_key": "3_1956979783608467457",
+              "start": 150,
+              "url": "https://t.co/O1vviilO5v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956982098134471097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“医疗是基本人权，为捍卫它我曾经礼貌的践踏法律”\n——  我在去年运营面向MTF和ADHD的“达拉斯买家俱乐部”，以应对正规途径缺货和性别肯定难以得到，这是我的宣言！\n\n处方药品应该得到监管？是的，这可以阻止物质滥用和非法交易。但该政策有益的前提是患者们可以通过正规渠道获得应得的医疗保健资源 —— 唾手可得、无经济负担。\n\n可惜大陆的情况不是这样，很多人没办法从医院获取有益于他们的处方（因为诊费太贵、流程太长），于是他们无法被治愈！这严厉的监管政策和臃肿的医学官僚并未真正救死扶伤，一些需要被救助的孩子们被迫自我诊断并使用治疗药物的替代品 —— MTF因无法取得处方选择使用非人用制剂和化工原料自我治疗、ADHD患者则因无法获得利他林处方尝试非法药物，一些人因此导致严重健康问题或锒铛入狱。\n\n2024的近半年时间里，中国部分地区利他林供应因部分原因中断，我为一名考生免费赠送了“救命稻草” —— 这冒着极大的法律风险，被发现将会被捕... 但我依旧为良心做出这一冒险的举动（这是有效利他主义）。借由该经历，我决定在经济充裕时进口境外激素和ADHD药物并以近乎仅满足成本的价格出售给被认证的患者（他们有对应的处方）。\n\n今年，因为意外导致个人经济上破产，但我仍在满足自己生存需求的同时向病友分享多余的药品（这是医保支付的），也许当局会将我定罪，但我不后悔！在未来，我将重建2024年的体系并为更多人提供帮助。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 548,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "“医疗是基本人权，为捍卫它我曾经礼貌的践踏法律”\n——  我在去年运营面向MTF和ADHD的“达拉斯买家俱乐部”，以应对正规途径缺货和性别肯定难以得到，这是我的宣言！\n\n处方药品应该得到监管？是的，这可以阻止物质滥用和非法交易。但该政策有益的前提是患者们可以通过正规渠道获得应得的医疗保健资源 —— https://t.co/O1vviilO5v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10晚上五点半\n中国大陆 | 成分极其复杂\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 49,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T11:28:44.000Z",
+        "description": "MtF🏳️‍⚧️/🍥/Trans-les/ΟΣΙΝΤ當下手🔎/15嵗/Terminally ill patient🩹/提供HRT和Tulpa咨詢📔/AI魔法師🔮/戀醫療癖💉/藥品跨境貿易「アリスはほんとうに. 白ウサギを殺していない？」",
+        "id": "1429405137198452736",
+        "location": "Central Region, Singapore",
+        "name": "Οριγιούκι Σουζουμίγια",
+        "pinned_tweet_id": "1956657867529896373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956272549048016905/n-jvfymc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8774,
+          "following_count": 24,
+          "like_count": 122022,
+          "listed_count": 36,
+          "media_count": 3226,
+          "tweet_count": 18950
+        },
+        "username": "RisakiMtf",
+        "verified": true
+      }
+    ]
+  }
+}

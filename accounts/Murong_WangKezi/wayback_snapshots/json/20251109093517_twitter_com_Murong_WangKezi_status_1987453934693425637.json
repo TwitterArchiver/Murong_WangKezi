@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1987453934693425637",
+    "created_at": "2025-11-09T09:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T10:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987453934693425637"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "深入性别烦躁的表现及跨性别概念。",
+          "display_url": "genderdysphoria.fyi/zh",
+          "end": 129,
+          "expanded_url": "https://genderdysphoria.fyi/zh",
+          "images": [
+            {
+              "height": 566,
+              "url": "https://pbs.twimg.com/news_img/1985598489267748868/BqLOU8kg?format=jpg&name=orig",
+              "width": 1080
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1985598489267748868/BqLOU8kg?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 106,
+          "status": 200,
+          "title": "性别烦躁指南",
+          "unwound_url": "https://genderdysphoria.fyi/zh",
+          "url": "https://t.co/nI1HDu7qN0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987453934693425637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“不过，事实是这样的…只有跨儿才会担心自己是不是真的跨性别者！顺性别者不会对自我认同有这种执念，他们会想一想，然后就不管了。如果你一遍又一遍地重复这些想法，这是大脑在告诉你走错路了。” \n——摘自 性别烦躁指南 https://t.co/nI1HDu7qN0（推荐阅读！尤其是性别亢奋/性别焦虑/冒名顶替综合症）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1987453934693425637",
+        "created_at": "2025-11-09T09:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T10:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987453934693425637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "深入性别烦躁的表现及跨性别概念。",
+              "display_url": "genderdysphoria.fyi/zh",
+              "end": 129,
+              "expanded_url": "https://genderdysphoria.fyi/zh",
+              "images": [
+                {
+                  "height": 566,
+                  "url": "https://pbs.twimg.com/news_img/1985598489267748868/BqLOU8kg?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1985598489267748868/BqLOU8kg?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "性别烦躁指南",
+              "unwound_url": "https://genderdysphoria.fyi/zh",
+              "url": "https://t.co/nI1HDu7qN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987453934693425637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“不过，事实是这样的…只有跨儿才会担心自己是不是真的跨性别者！顺性别者不会对自我认同有这种执念，他们会想一想，然后就不管了。如果你一遍又一遍地重复这些想法，这是大脑在告诉你走错路了。” \n——摘自 性别烦躁指南 https://t.co/nI1HDu7qN0（推荐阅读！尤其是性别亢奋/性别焦虑/冒名顶替综合症）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 281,
+          "like_count": 3982,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 895
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

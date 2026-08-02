@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2070516570397524203",
+    "created_at": "2026-06-27T01:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T02:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070688197718532325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558967960621940739",
+          "start": 0,
+          "username": "jamyunfeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070688197718532325",
+    "in_reply_to_user_id": "1558967960621940739",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070635835582804043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jamyunfeng 呃呃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2070516570397524203",
+        "created_at": "2026-06-27T01:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070688197718532325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558967960621940739",
+              "start": 0,
+              "username": "jamyunfeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070688197718532325",
+        "in_reply_to_user_id": "1558967960621940739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070635835582804043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jamyunfeng 呃呃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558967960621940739",
+        "conversation_id": "2070516570397524203",
+        "created_at": "2026-06-26T22:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T23:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070635835582804043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070635835582804043",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070516570397524203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 考完了，我妈说高中想轻松就必须在暑假比别人努力，几乎一样的😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 380,
+          "like_count": 8738,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 3018
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T00:05:18.000Z",
+        "description": "在CHN上高中？会点python, c++, html，主要爱好摄影，旅游，互fo啊(～ －ω－）～\n我不吃糖，不是女生，更不是宅，但是維護LGBT群體🏳️‍⚧️🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bmyf.uk",
+                "end": 23,
+                "expanded_url": "http://www.bmyf.uk",
+                "start": 0,
+                "url": "https://t.co/CKvL4MUnxU"
+              }
+            ]
+          }
+        },
+        "id": "1558967960621940739",
+        "location": "Jinhua, Zhejiang, China",
+        "name": "iClaude",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946178550120448/YqDxMO3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 38,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/CKvL4MUnxU",
+        "username": "jamyunfeng",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2080593923370836121",
+    "created_at": "2026-07-25T02:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080844480060776849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1565725061046161409",
+          "start": 0,
+          "username": "JoGeBye9989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080844480060776849",
+    "in_reply_to_user_id": "1565725061046161409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080692155925070041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JoGeBye9989 aa没有啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2080593923370836121",
+        "created_at": "2026-07-25T02:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080844480060776849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565725061046161409",
+              "start": 0,
+              "username": "JoGeBye9989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080844480060776849",
+        "in_reply_to_user_id": "1565725061046161409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080692155925070041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JoGeBye9989 aa没有啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565725061046161409",
+        "conversation_id": "2080593923370836121",
+        "created_at": "2026-07-24T16:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080692155925070041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080692155925070041",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080593923370836121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 不要 答應我 好好活著 好嗎 骨折真的很痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 383,
+          "like_count": 9869,
+          "listed_count": 2,
+          "media_count": 574,
+          "tweet_count": 3903
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T15:35:32.000Z",
+        "description": "",
+        "id": "1565725061046161409",
+        "location": "東京都",
+        "name": "我是錒又🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056853544599506944/I86wkb-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 303,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "JoGeBye9989",
+        "verified": false
+      }
+    ]
+  }
+}

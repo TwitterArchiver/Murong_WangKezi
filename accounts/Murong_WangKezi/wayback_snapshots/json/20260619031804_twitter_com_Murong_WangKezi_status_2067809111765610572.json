@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2066088214914605187",
+    "created_at": "2026-06-19T03:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T04:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067809111765610572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2065754734720622592",
+          "start": 0,
+          "username": "XiaoEJin175099"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067809111765610572",
+    "in_reply_to_user_id": "2065754734720622592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066159153970811181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoEJin175099 似乎不能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2066088214914605187",
+        "created_at": "2026-06-19T03:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067809111765610572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2065754734720622592",
+              "start": 0,
+              "username": "XiaoEJin175099"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067809111765610572",
+        "in_reply_to_user_id": "2065754734720622592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066159153970811181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoEJin175099 似乎不能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065754734720622592",
+        "conversation_id": "2066088214914605187",
+        "created_at": "2026-06-14T14:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066159153970811181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066159153970811181",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066088214914605187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi mac也能无限充嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2034612481734463789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 377,
+          "like_count": 8388,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 2753
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T11:15:28.000Z",
+        "description": "哈喽哈喽，这是我的日常号的小号邮箱也是我的小号\n希望我平时发的日常能被很多人关注🥰❤️\n本人是一个初中生\n希望同好能和我玩\nwechat：xiaoE1750\nqq：3791119612\n国外的聊天软件也有，但是我不太会用🌚🌝",
+        "id": "2065754734720622592",
+        "name": "XiaoEJin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065755400230907904/q5JyfDqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 22,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "XiaoEJin175099",
+        "verified": false
+      }
+    ]
+  }
+}

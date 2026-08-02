@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1298282590743404544",
+          "name": "DJI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446727181500416",
+          "name": "Tech industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1298282590743404544",
+          "name": "DJI"
+        }
+      }
+    ],
+    "conversation_id": "1895393285172326580",
+    "created_at": "2025-10-06T02:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T03:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975026460940447758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676572709742944259",
+          "start": 0,
+          "username": "Technology80420"
+        },
+        {
+          "end": 27,
+          "id": "1227920058",
+          "start": 17,
+          "username": "DJIGlobal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975026460940447758",
+    "in_reply_to_user_id": "1676572709742944259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895395587153105009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Technology80420 @DJIGlobal 最后一张绷不住了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2338,
+        "media_key": "3_1895395419082883072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk3MF2dWgAATyXF.jpg",
+        "width": 3600
+      },
+      {
+        "height": 2338,
+        "media_key": "3_1895395418953195520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk3MF1-boAAsjeo.jpg",
+        "width": 3600
+      },
+      {
+        "height": 2338,
+        "media_key": "3_1895395556853514240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk3MN3sbgAApC70.jpg",
+        "width": 3600
+      },
+      {
+        "height": 2338,
+        "media_key": "3_1895395556983283712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk3MN4LXoAAxpIH.jpg",
+        "width": 3600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1298282590743404544",
+              "name": "DJI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1298282590743404544",
+              "name": "DJI"
+            }
+          }
+        ],
+        "conversation_id": "1895393285172326580",
+        "created_at": "2025-10-06T02:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T03:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975026460940447758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676572709742944259",
+              "start": 0,
+              "username": "Technology80420"
+            },
+            {
+              "end": 27,
+              "id": "1227920058",
+              "start": 17,
+              "username": "DJIGlobal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975026460940447758",
+        "in_reply_to_user_id": "1676572709742944259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895395587153105009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technology80420 @DJIGlobal 最后一张绷不住了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895395419082883072",
+            "3_1895395418953195520",
+            "3_1895395556853514240",
+            "3_1895395556983283712"
+          ]
+        },
+        "author_id": "1676572709742944259",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1298282590743404544",
+              "name": "DJI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1298282590743404544",
+              "name": "DJI"
+            }
+          }
+        ],
+        "conversation_id": "1895393285172326580",
+        "created_at": "2025-02-28T08:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T09:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895395587153105009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1227920058",
+              "start": 0,
+              "username": "DJIGlobal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bAJ6pMU46p",
+              "end": 76,
+              "expanded_url": "https://x.com/Technology80420/status/1895395587153105009/photo/1",
+              "media_key": "3_1895395419082883072",
+              "start": 53,
+              "url": "https://t.co/bAJ6pMU46p"
+            },
+            {
+              "display_url": "pic.x.com/bAJ6pMU46p",
+              "end": 76,
+              "expanded_url": "https://x.com/Technology80420/status/1895395587153105009/photo/1",
+              "media_key": "3_1895395418953195520",
+              "start": 53,
+              "url": "https://t.co/bAJ6pMU46p"
+            },
+            {
+              "display_url": "pic.x.com/bAJ6pMU46p",
+              "end": 76,
+              "expanded_url": "https://x.com/Technology80420/status/1895395587153105009/photo/1",
+              "media_key": "3_1895395556853514240",
+              "start": 53,
+              "url": "https://t.co/bAJ6pMU46p"
+            },
+            {
+              "display_url": "pic.x.com/bAJ6pMU46p",
+              "end": 76,
+              "expanded_url": "https://x.com/Technology80420/status/1895395587153105009/photo/1",
+              "media_key": "3_1895395556983283712",
+              "start": 53,
+              "url": "https://t.co/bAJ6pMU46p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895395587153105009",
+        "in_reply_to_user_id": "1227920058",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895393285172326580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DJIGlobal what about the city between the mountains https://t.co/bAJ6pMU46p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10晚上五点半\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 112,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 89,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 203,
+          "like_count": 2620,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 408
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "业余摄影师",
+        "id": "1676572709742944259",
+        "location": "地球",
+        "name": "TechnologyMatrix科技矩阵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676575730111598595/d9Z8YgeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 618,
+          "like_count": 25248,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1272
+        },
+        "username": "Technology80420",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-28T16:47:48.000Z",
+        "description": "Official Twitter feed of DJI, the world leader in aerial and handheld cinematic solutions. Contact @DJISupport for customer support.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "DJISupport"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "brnw.ch/21wPZyB",
+                "end": 23,
+                "expanded_url": "https://brnw.ch/21wPZyB",
+                "start": 0,
+                "url": "https://t.co/U54ZpLRnqe"
+              }
+            ]
+          }
+        },
+        "id": "1227920058",
+        "location": "Worldwide",
+        "name": "DJI",
+        "pinned_tweet_id": "1970836531310154048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874711096898236416/hoFsPXf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345905,
+          "following_count": 841,
+          "like_count": 7211,
+          "listed_count": 2458,
+          "media_count": 8017,
+          "tweet_count": 20565
+        },
+        "url": "https://t.co/U54ZpLRnqe",
+        "username": "DJIGlobal",
+        "verified": true
+      }
+    ]
+  }
+}

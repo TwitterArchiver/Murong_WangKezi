@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2083415420175048987",
+    "created_at": "2026-08-01T04:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083415420175048987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Murong_WangKez…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/Murong_WangKezi/status/2083411336462238163",
+          "start": 132,
+          "url": "https://t.co/eoOP0T2lf1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083415420175048987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083411336462238163",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "做这种事情的时候我一般是被激动的情绪驱动的（虽然我确实特别想做这种事情），导致无法用脑子仔细思考（要迅速做出决定）\n我真的好后悔当时咋不再问问啊，就算是加好友之后不说话都没关系的，但是这样就感觉丢掉了一个朋友（怎么还没开始就给否了……），我真的是会伤心很久的…… https://t.co/eoOP0T2lf1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2083415420175048987",
+        "created_at": "2026-08-01T04:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083415420175048987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Murong_WangKez…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/Murong_WangKezi/status/2083411336462238163",
+              "start": 132,
+              "url": "https://t.co/eoOP0T2lf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083415420175048987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083411336462238163",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "做这种事情的时候我一般是被激动的情绪驱动的（虽然我确实特别想做这种事情），导致无法用脑子仔细思考（要迅速做出决定）\n我真的好后悔当时咋不再问问啊，就算是加好友之后不说话都没关系的，但是这样就感觉丢掉了一个朋友（怎么还没开始就给否了……），我真的是会伤心很久的…… https://t.co/eoOP0T2lf1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2083411336462238163",
+        "created_at": "2026-08-01T04:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083411336462238163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083411336462238163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚在街上遇到一只伪娘诶！\n看ta穿着像旗袍的女性化服装，头发乱乱的就有一种隐隐的感觉，留心了一下，发现有很明显的喉结诶（啊啊我真的没什么坏心思，不是在说ta说不pass啦\n走过去有点距离两个人都互相转头看对方，那么既然让我抓到了当然是上去搭话～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 382,
+          "like_count": 10031,
+          "listed_count": 2,
+          "media_count": 592,
+          "tweet_count": 4037
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

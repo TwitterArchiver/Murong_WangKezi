@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953740185000456193",
+        "3_1953740191723925504",
+        "3_1953740184862027776"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1953740195263918550",
+    "created_at": "2025-08-08T08:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T09:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953740195263918550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WOqp7FM39E",
+          "end": 38,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/1953740195263918550/photo/1",
+          "media_key": "3_1953740185000456193",
+          "start": 15,
+          "url": "https://t.co/WOqp7FM39E"
+        },
+        {
+          "display_url": "pic.x.com/WOqp7FM39E",
+          "end": 38,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/1953740195263918550/photo/1",
+          "media_key": "3_1953740191723925504",
+          "start": 15,
+          "url": "https://t.co/WOqp7FM39E"
+        },
+        {
+          "display_url": "pic.x.com/WOqp7FM39E",
+          "end": 38,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/1953740195263918550/photo/1",
+          "media_key": "3_1953740184862027776",
+          "start": 15,
+          "url": "https://t.co/WOqp7FM39E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953740195263918550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我宣布，世界上多了一个药娘（ https://t.co/WOqp7FM39E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1953740185000456193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0UWM5bsAEZiLS.jpg",
+        "width": 1328
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1953740191723925504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0UWl8bsAAIcOl.jpg",
+        "width": 1328
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1953740184862027776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0UWMYbcAAFyTH.jpg",
+        "width": 1328
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953740185000456193",
+            "3_1953740191723925504",
+            "3_1953740184862027776"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1953740195263918550",
+        "created_at": "2025-08-08T08:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T09:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953740195263918550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WOqp7FM39E",
+              "end": 38,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/1953740195263918550/photo/1",
+              "media_key": "3_1953740185000456193",
+              "start": 15,
+              "url": "https://t.co/WOqp7FM39E"
+            },
+            {
+              "display_url": "pic.x.com/WOqp7FM39E",
+              "end": 38,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/1953740195263918550/photo/1",
+              "media_key": "3_1953740191723925504",
+              "start": 15,
+              "url": "https://t.co/WOqp7FM39E"
+            },
+            {
+              "display_url": "pic.x.com/WOqp7FM39E",
+              "end": 38,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/1953740195263918550/photo/1",
+              "media_key": "3_1953740184862027776",
+              "start": 15,
+              "url": "https://t.co/WOqp7FM39E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953740195263918550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我宣布，世界上多了一个药娘（ https://t.co/WOqp7FM39E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "中国大陆 | 成分极其复杂\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 45,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

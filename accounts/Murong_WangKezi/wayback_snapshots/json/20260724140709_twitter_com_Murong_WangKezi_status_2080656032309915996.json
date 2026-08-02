@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2080598156207866282",
+    "created_at": "2026-07-24T14:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T15:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080656032309915996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830138280400338944",
+          "start": 0,
+          "username": "Raebe_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080656032309915996",
+    "in_reply_to_user_id": "1830138280400338944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080637352326909977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raebe_Official 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2080598156207866282",
+        "created_at": "2026-07-24T14:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080656032309915996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830138280400338944",
+              "start": 0,
+              "username": "Raebe_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080656032309915996",
+        "in_reply_to_user_id": "1830138280400338944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080637352326909977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raebe_Official 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830138280400338944",
+        "conversation_id": "2080598156207866282",
+        "created_at": "2026-07-24T12:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080637352326909977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080637352326909977",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080598156207866282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 想要醒来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 382,
+          "like_count": 9848,
+          "listed_count": 2,
+          "media_count": 573,
+          "tweet_count": 3884
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T06:59:10.000Z",
+        "description": "一名疲惫的观察者\nfurry/涉猎广泛但什么都不精通❌\n常态化处于低电量模式\n在努力加深与世界的链接程度",
+        "id": "1830138280400338944",
+        "location": "Aosious",
+        "name": "Raebe",
+        "pinned_tweet_id": "2028388049403695365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034458939790884865/l6ErgKGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 995,
+          "like_count": 15618,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1929
+        },
+        "url": "",
+        "username": "Raebe_Official",
+        "verified": false
+      }
+    ]
+  }
+}

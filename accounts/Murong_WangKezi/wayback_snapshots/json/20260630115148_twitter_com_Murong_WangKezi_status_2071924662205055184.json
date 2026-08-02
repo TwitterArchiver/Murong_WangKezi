@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2070257372304654803",
+    "created_at": "2026-06-30T11:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071924662205055184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1374724817119772674",
+          "start": 0,
+          "username": "Mimiaomc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071924662205055184",
+    "in_reply_to_user_id": "1374724817119772674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070257372304654803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mimiaomc 啊！我真的 不行了！\n好想 养一只 香香软软的西安人啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1799,
+        "media_key": "3_2070257105110810624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLsH3k_bwAAuXFp.jpg",
+        "width": 2459
+      },
+      {
+        "height": 1753,
+        "media_key": "3_2070257105114935297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLsH3lAasAEfI3G.jpg",
+        "width": 2454
+      },
+      {
+        "height": 1753,
+        "media_key": "3_2070257105110761472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLsH3k_bAAAyoEm.jpg",
+        "width": 2454
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2070257372304654803",
+        "created_at": "2026-06-30T11:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071924662205055184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1374724817119772674",
+              "start": 0,
+              "username": "Mimiaomc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071924662205055184",
+        "in_reply_to_user_id": "1374724817119772674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070257372304654803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mimiaomc 啊！我真的 不行了！\n好想 养一只 香香软软的西安人啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070257105110810624",
+            "3_2070257105114935297",
+            "3_2070257105110761472"
+          ]
+        },
+        "author_id": "1374724817119772674",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070257372304654803",
+        "created_at": "2026-06-25T21:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T22:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070257372304654803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "classnote.top",
+              "end": 37,
+              "expanded_url": "http://classnote.top",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2070257374120804352/AgbvybS7?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070257374120804352/AgbvybS7?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "钟楼笔记",
+              "unwound_url": "https://classnote.top/note/%E9%A6%96%E9%A1%B5",
+              "url": "https://t.co/gk0EvsR5AL"
+            },
+            {
+              "display_url": "pic.x.com/3uM6VZMbKq",
+              "end": 106,
+              "expanded_url": "https://x.com/Mimiaomc/status/2070257372304654803/photo/1",
+              "media_key": "3_2070257105110810624",
+              "start": 83,
+              "url": "https://t.co/3uM6VZMbKq"
+            },
+            {
+              "display_url": "pic.x.com/3uM6VZMbKq",
+              "end": 106,
+              "expanded_url": "https://x.com/Mimiaomc/status/2070257372304654803/photo/1",
+              "media_key": "3_2070257105114935297",
+              "start": 83,
+              "url": "https://t.co/3uM6VZMbKq"
+            },
+            {
+              "display_url": "pic.x.com/3uM6VZMbKq",
+              "end": 106,
+              "expanded_url": "https://x.com/Mimiaomc/status/2070257372304654803/photo/1",
+              "media_key": "3_2070257105110761472",
+              "start": 83,
+              "url": "https://t.co/3uM6VZMbKq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070257372304654803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫给自己的网站【高中笔记】https://t.co/gk0EvsR5AL 改名【钟楼笔记】了w\n（包括附属的【高中题库】）\n\n啊～不知道为什么最近这么喜欢钟楼呢？ https://t.co/3uM6VZMbKq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 381,
+          "like_count": 9012,
+          "listed_count": 2,
+          "media_count": 406,
+          "tweet_count": 3219
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-24T14:08:43.000Z",
+        "description": "就是家猫/猫猫啦！不可以打我哟\n渴望被爱 | 会尽力去爱朋友 | 2009 | MtF | 西安高新 |\n红帽 Linux | 铁路迷 | 温柔大姐姐 | 高中笔记站长 |\n邮政 | 卡组织 | 公交 | 离家出走 | 嵌入式 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "classnote.top",
+                "end": 23,
+                "expanded_url": "https://classnote.top",
+                "start": 0,
+                "url": "https://t.co/gOvxKZpBRM"
+              }
+            ]
+          }
+        },
+        "id": "1374724817119772674",
+        "location": "CLOUDFLARE.COM",
+        "name": "MM 喵了个",
+        "pinned_tweet_id": "2066115590272733363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1374736977145303040/wMVCqAP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 155,
+          "like_count": 1677,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 1010
+        },
+        "url": "https://t.co/gOvxKZpBRM",
+        "username": "Mimiaomc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1960686051925565759",
+    "created_at": "2025-08-27T12:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T13:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960686051925565759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1952257824664485888",
+          "start": 3,
+          "username": "LibailuOne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960686051925565759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960668488873468397",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LibailuOne: 我发现我自己老是把别人的情绪代入自己的情绪当中，然后就变的特别想哭，还幻想他/她的经历，这也是一种病吗？( ๑ŏ ﹏ ŏ๑ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1960686051925565759",
+        "created_at": "2025-08-27T12:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960686051925565759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1952257824664485888",
+              "start": 3,
+              "username": "LibailuOne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960686051925565759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960668488873468397",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LibailuOne: 我发现我自己老是把别人的情绪代入自己的情绪当中，然后就变的特别想哭，还幻想他/她的经历，这也是一种病吗？( ๑ŏ ﹏ ŏ๑ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952257824664485888",
+        "conversation_id": "1960668488873468397",
+        "created_at": "2025-08-27T11:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T12:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960668488873468397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960668488873468397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我自己老是把别人的情绪代入自己的情绪当中，然后就变的特别想哭，还幻想他/她的经历，这也是一种病吗？( ๑ŏ ﹏ ŏ๑ )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10晚上五点半\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1960620409554133334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 98,
+          "like_count": 853,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T06:38:58.000Z",
+        "description": "08l巨蟹座l爱哭l泪失禁l情绪不稳定l双相l躯体化lhrt：2025.8.25l无证含糖l讨厌家长l家长不管党l深柜l想离开这个家，在默默无闻的地方死去。请叫我白鹭，同时不希望任何人记得我。（私聊请先关注，否则一律视为骚扰）梦幻三人组：Libailu，Peiloxi，Sikerter。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 23,
+                "expanded_url": "http://mtf.wiki",
+                "start": 0,
+                "url": "https://t.co/ybSVcXZqmQ"
+              }
+            ]
+          }
+        },
+        "id": "1952257824664485888",
+        "location": "亚神瑞亚尼赛亚（Asenruia Nisaa）",
+        "name": "Libailu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1958465751389802649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952271190934052864/mEH6qJN6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 292,
+          "like_count": 5061,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 488
+        },
+        "url": "https://t.co/ybSVcXZqmQ",
+        "username": "LibailuOne",
+        "verified": false
+      }
+    ]
+  }
+}

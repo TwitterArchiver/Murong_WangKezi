@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068701314973102080",
+        "3_2068701314947964928",
+        "3_2068701314956349441",
+        "3_2068701315027652609"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2068701330974323147",
+    "created_at": "2026-06-21T14:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068701330974323147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lc0awCY89F",
+          "end": 47,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2068701330974323147/photo/1",
+          "media_key": "3_2068701314973102080",
+          "start": 24,
+          "url": "https://t.co/Lc0awCY89F"
+        },
+        {
+          "display_url": "pic.x.com/Lc0awCY89F",
+          "end": 47,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2068701330974323147/photo/1",
+          "media_key": "3_2068701314947964928",
+          "start": 24,
+          "url": "https://t.co/Lc0awCY89F"
+        },
+        {
+          "display_url": "pic.x.com/Lc0awCY89F",
+          "end": 47,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2068701330974323147/photo/1",
+          "media_key": "3_2068701314956349441",
+          "start": 24,
+          "url": "https://t.co/Lc0awCY89F"
+        },
+        {
+          "display_url": "pic.x.com/Lc0awCY89F",
+          "end": 47,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2068701330974323147/photo/1",
+          "media_key": "3_2068701315027652609",
+          "start": 24,
+          "url": "https://t.co/Lc0awCY89F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068701330974323147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有趣！\n是因为这里是建筑科技大学所以这样嘛ww https://t.co/Lc0awCY89F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2068701314973102080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWA4rFa8AAzU4q.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2068701314947964928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWA4q_bYAAR1es.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2068701314956349441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWA4rBbUAEimXI.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2068701315027652609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWA4rSbUAEqYuT.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068701314973102080",
+            "3_2068701314947964928",
+            "3_2068701314956349441",
+            "3_2068701315027652609"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2068701330974323147",
+        "created_at": "2026-06-21T14:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068701330974323147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lc0awCY89F",
+              "end": 47,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2068701330974323147/photo/1",
+              "media_key": "3_2068701314973102080",
+              "start": 24,
+              "url": "https://t.co/Lc0awCY89F"
+            },
+            {
+              "display_url": "pic.x.com/Lc0awCY89F",
+              "end": 47,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2068701330974323147/photo/1",
+              "media_key": "3_2068701314947964928",
+              "start": 24,
+              "url": "https://t.co/Lc0awCY89F"
+            },
+            {
+              "display_url": "pic.x.com/Lc0awCY89F",
+              "end": 47,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2068701330974323147/photo/1",
+              "media_key": "3_2068701314956349441",
+              "start": 24,
+              "url": "https://t.co/Lc0awCY89F"
+            },
+            {
+              "display_url": "pic.x.com/Lc0awCY89F",
+              "end": 47,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2068701330974323147/photo/1",
+              "media_key": "3_2068701315027652609",
+              "start": 24,
+              "url": "https://t.co/Lc0awCY89F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068701330974323147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有趣！\n是因为这里是建筑科技大学所以这样嘛ww https://t.co/Lc0awCY89F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 377,
+          "like_count": 8477,
+          "listed_count": 2,
+          "media_count": 385,
+          "tweet_count": 2814
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

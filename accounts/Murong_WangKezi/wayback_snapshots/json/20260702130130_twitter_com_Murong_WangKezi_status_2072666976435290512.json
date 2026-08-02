@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2072666970919731458",
+    "created_at": "2026-07-02T13:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T14:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072666976435290512"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072666976435290512",
+    "in_reply_to_user_id": "1870315714638385152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072666970919731458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这好像导致慕容对男孩子的运作方式都不是很了解（毕竟从小时候就很少和男生玩了，现在可能还变得更少）\n慕容有的时候觉得男孩子对好多事情都无感，都是天天搞抽象（？比如说就没怎么见过他们喜欢甜甜的恋爱什么的……\n不过这可能也是刻板印象吧，其实慕容也是愿意和男孩子做朋友的！（嗯对只要你是好人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2072666970919731458",
+        "created_at": "2026-07-02T13:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072666976435290512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072666976435290512",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072666970919731458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这好像导致慕容对男孩子的运作方式都不是很了解（毕竟从小时候就很少和男生玩了，现在可能还变得更少）\n慕容有的时候觉得男孩子对好多事情都无感，都是天天搞抽象（？比如说就没怎么见过他们喜欢甜甜的恋爱什么的……\n不过这可能也是刻板印象吧，其实慕容也是愿意和男孩子做朋友的！（嗯对只要你是好人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2072666970919731458",
+        "created_at": "2026-07-02T13:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072666970919731458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Murong_WangKez…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/Murong_WangKezi/status/2072650628070048057",
+              "start": 124,
+              "url": "https://t.co/82PzZsnWyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072666970919731458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072650628070048057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另外慕容发现自己的社交圈好像很少有男生欸，玩得好的男生一只手都能数的过来（包括FtM\n在学校里虽然也会和一些男孩子说说话不过不遇到应该都不会想起对方的（其实在学校里和我玩的好的人也不多）\n慕容认识的人大部分都是MtF和顺女，也有一点点非二元什么的 https://t.co/82PzZsnWyh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 381,
+          "like_count": 9098,
+          "listed_count": 2,
+          "media_count": 408,
+          "tweet_count": 3250
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

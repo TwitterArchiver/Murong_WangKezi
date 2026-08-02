@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1974745409508839923",
+    "created_at": "2025-10-05T07:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T08:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974745409508839923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AcboxLiu/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/AcboxLiu/status/1960204039498715219",
+          "start": 12,
+          "url": "https://t.co/esYN02x4fx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974745409508839923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960204039498715219",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "多意识体有里世界可以玩 https://t.co/esYN02x4fx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1974745409508839923",
+        "created_at": "2025-10-05T07:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T08:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974745409508839923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AcboxLiu/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/AcboxLiu/status/1960204039498715219",
+              "start": 12,
+              "url": "https://t.co/esYN02x4fx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974745409508839923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960204039498715219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "多意识体有里世界可以玩 https://t.co/esYN02x4fx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "1960204039498715219",
+        "created_at": "2025-08-26T04:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T05:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960204039498715219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960204039498715219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不知道你们的梦有没有一些固定的空间\n我是有一个每次做梦都会出现的房子 里面有一些固定的布局 但是这个房子并不存在于现实中\n还有一条街 每次出现都是在晚上 大概在我五六岁的时候就有这条街了 但是现实中也不存在 特别是那个印象特别深的电梯扶梯 往下看特别黑 后来我摸清楚了他的设定 往下走会进入另一个梦境 往上走会醒来（确实会醒）但是每次往下走最终都会回到一个一样的场景 但是时不时会有梦里的主角和我一起走上这个电梯 但是最顶层一般是我独自一个人上去的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3060,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不知道你们的梦有没有一些固定的空间\n我是有一个每次做梦都会出现的房子 里面有一些固定的布局 但是这个房子并不存在于现实中\n还有一条街 每次出现都是在晚上 大概在我五六岁的时候就有这条街了 但是现实中也不存在 特别是那个印象特别深的电梯扶梯 往下看特别黑 后来我摸清楚了他的设定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10晚上五点半\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 112,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 89,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 197,
+          "like_count": 1813,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 384
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🐱Github: sheepbox8646/💼日常远程工作/🏳️‍⚧️写代码的小女孩/想要成为人类的小阿斯/Building ChalkAI/@Dustella_Chan 的小猫/另一只猫猫 @tatanakots",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "Dustella_Chan"
+              },
+              {
+                "end": 151,
+                "start": 140,
+                "username": "tatanakots"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1964617558675611999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959456533550649344/-FieohZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7104,
+          "following_count": 2955,
+          "like_count": 2728,
+          "listed_count": 27,
+          "media_count": 1029,
+          "tweet_count": 5166
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1959837704742666579",
+    "created_at": "2025-08-27T09:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T10:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960630908438085642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1683063119763980289",
+          "start": 0,
+          "username": "xixi_0571"
+        },
+        {
+          "end": 22,
+          "id": "1673364955171782657",
+          "start": 11,
+          "username": "kxk1388574"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960630908438085642",
+    "in_reply_to_user_id": "1683063119763980289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960252490383053297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi_0571 @kxk1388574 欸嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1959837704742666579",
+        "created_at": "2025-08-27T09:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T10:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960630908438085642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1683063119763980289",
+              "start": 0,
+              "username": "xixi_0571"
+            },
+            {
+              "end": 22,
+              "id": "1673364955171782657",
+              "start": 11,
+              "username": "kxk1388574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960630908438085642",
+        "in_reply_to_user_id": "1683063119763980289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960252490383053297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi_0571 @kxk1388574 欸嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683063119763980289",
+        "conversation_id": "1959837704742666579",
+        "created_at": "2025-08-26T08:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960252490383053297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1673364955171782657",
+              "start": 0,
+              "username": "kxk1388574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960252490383053297",
+        "in_reply_to_user_id": "1673364955171782657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959837704742666579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kxk1388574 自从开始吃CPA就没有那种性欲了……取而代之的是真的好想贴贴。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10晚上五点半\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 88,
+          "like_count": 766,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 162
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T10:35:00.000Z",
+        "description": "是xixi哦",
+        "id": "1683063119763980289",
+        "name": "xixi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958645692244926465/s6gCTLbL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 18,
+          "like_count": 3888,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 137
+        },
+        "username": "xixi_0571",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*秀色可餐🍊@tangeorange\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 68,
+                "start": 56,
+                "username": "tangeorange"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "🍋（自慰中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7937,
+          "following_count": 5186,
+          "like_count": 39099,
+          "listed_count": 13,
+          "media_count": 590,
+          "tweet_count": 5371
+        },
+        "username": "kxk1388574",
+        "verified": false
+      }
+    ]
+  }
+}

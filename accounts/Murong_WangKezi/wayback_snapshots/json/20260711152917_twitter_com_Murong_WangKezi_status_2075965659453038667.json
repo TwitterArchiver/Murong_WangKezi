@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075965296528306176"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2075965659453038667",
+    "created_at": "2026-07-11T15:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075965659453038667"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NbA0J93e5S",
+          "end": 70,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2075965659453038667/photo/1",
+          "media_key": "3_2075965296528306176",
+          "start": 47,
+          "url": "https://t.co/NbA0J93e5S"
+        },
+        {
+          "display_url": "x.com/Murong_WangKez…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/Murong_WangKezi/status/2075965234242789862",
+          "start": 71,
+          "url": "https://t.co/r206jORJRr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075965659453038667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075965234242789862",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他们居然有浴缸呜呜（淋浴室也有）\n这辈子没用过这种高级东西ww 只记得小时候我爷把我泡在盆里 https://t.co/NbA0J93e5S https://t.co/r206jORJRr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2075965296528306176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9PcDGbsAAY1V1.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2075965025274245120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9PMQmbMAA3LnS.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2075965085147889664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9PPvpagAALOgf.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2075965085194039296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9PPv0asAAQpol.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2075965214928052224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9PXTHaoAAUFeo.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075965296528306176"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2075965659453038667",
+        "created_at": "2026-07-11T15:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075965659453038667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NbA0J93e5S",
+              "end": 70,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2075965659453038667/photo/1",
+              "media_key": "3_2075965296528306176",
+              "start": 47,
+              "url": "https://t.co/NbA0J93e5S"
+            },
+            {
+              "display_url": "x.com/Murong_WangKez…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/Murong_WangKezi/status/2075965234242789862",
+              "start": 71,
+              "url": "https://t.co/r206jORJRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075965659453038667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075965234242789862",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们居然有浴缸呜呜（淋浴室也有）\n这辈子没用过这种高级东西ww 只记得小时候我爷把我泡在盆里 https://t.co/NbA0J93e5S https://t.co/r206jORJRr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075965025274245120",
+            "3_2075965085147889664",
+            "3_2075965085194039296",
+            "3_2075965214928052224"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2075965234242789862",
+        "created_at": "2026-07-11T15:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075965234242789862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7HrPmNWzkH",
+              "end": 27,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2075965234242789862/photo/1",
+              "media_key": "3_2075965025274245120",
+              "start": 4,
+              "url": "https://t.co/7HrPmNWzkH"
+            },
+            {
+              "display_url": "pic.x.com/7HrPmNWzkH",
+              "end": 27,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2075965234242789862/photo/1",
+              "media_key": "3_2075965085147889664",
+              "start": 4,
+              "url": "https://t.co/7HrPmNWzkH"
+            },
+            {
+              "display_url": "pic.x.com/7HrPmNWzkH",
+              "end": 27,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2075965234242789862/photo/1",
+              "media_key": "3_2075965085194039296",
+              "start": 4,
+              "url": "https://t.co/7HrPmNWzkH"
+            },
+            {
+              "display_url": "pic.x.com/7HrPmNWzkH",
+              "end": 27,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2075965234242789862/photo/1",
+              "media_key": "3_2075965214928052224",
+              "start": 4,
+              "url": "https://t.co/7HrPmNWzkH"
+            },
+            {
+              "display_url": "x.com/Murong_WangKez…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Murong_WangKezi/status/2075964457348632662",
+              "start": 28,
+              "url": "https://t.co/oahzesdMrI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075965234242789862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075964457348632662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "环境喵 https://t.co/7HrPmNWzkH https://t.co/oahzesdMrI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 382,
+          "like_count": 9326,
+          "listed_count": 2,
+          "media_count": 452,
+          "tweet_count": 3419
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

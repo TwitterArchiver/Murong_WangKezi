@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1973978273207234584",
+    "created_at": "2025-10-03T05:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T06:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973978273207234584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540063687469404161",
+          "start": 3,
+          "username": "cosplay_riji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973978273207234584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973850396142792806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cosplay_riji: 高中时代的朋友里有一个mtf，当年从高一开始就是对所有人出柜的状态，女生们也就把她当成普通女生一样相处。\n\n我和她的关系一直都不错，也知道有一个男生一直明里暗里贬低她，顺带贬低所有和她玩得好的人\n\n直到今天，我发现这个男生也出柜了。。。\n\n恐…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1973978273207234584",
+        "created_at": "2025-10-03T05:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T06:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973978273207234584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540063687469404161",
+              "start": 3,
+              "username": "cosplay_riji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973978273207234584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973850396142792806",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cosplay_riji: 高中时代的朋友里有一个mtf，当年从高一开始就是对所有人出柜的状态，女生们也就把她当成普通女生一样相处。\n\n我和她的关系一直都不错，也知道有一个男生一直明里暗里贬低她，顺带贬低所有和她玩得好的人\n\n直到今天，我发现这个男生也出柜了。。。\n\n恐…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540063687469404161",
+        "conversation_id": "1973850396142792806",
+        "created_at": "2025-10-02T20:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T21:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973850396142792806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973850396142792806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9206,
+          "like_count": 247,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "高中时代的朋友里有一个mtf，当年从高一开始就是对所有人出柜的状态，女生们也就把她当成普通女生一样相处。\n\n我和她的关系一直都不错，也知道有一个男生一直明里暗里贬低她，顺带贬低所有和她玩得好的人\n\n直到今天，我发现这个男生也出柜了。。。\n\n恐跨即深柜真是太有道理了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10晚上五点半\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 112,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 89,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 195,
+          "like_count": 1527,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 359
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-23T20:06:17.000Z",
+        "description": "已婚｜没把男娘｜我的可爱老婆@xixi_epicene\n｜⚠️偶有🔞或阴暗发言",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xixi_epicene"
+              }
+            ]
+          }
+        },
+        "id": "1540063687469404161",
+        "name": "Xixi-cosplay-diary",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951488697955667968/bG3-GUUo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20368,
+          "following_count": 12,
+          "like_count": 14549,
+          "listed_count": 50,
+          "media_count": 284,
+          "tweet_count": 8514
+        },
+        "username": "cosplay_riji",
+        "verified": false
+      }
+    ]
+  }
+}

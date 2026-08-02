@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2069024111700103663",
+    "created_at": "2026-06-23T11:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069381834132300195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057890063019823104",
+          "start": 0,
+          "username": "C_lier_fufu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069381834132300195",
+    "in_reply_to_user_id": "2057890063019823104",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069241029900067171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C_lier_fufu ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2069024111700103663",
+        "created_at": "2026-06-23T11:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069381834132300195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057890063019823104",
+              "start": 0,
+              "username": "C_lier_fufu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069381834132300195",
+        "in_reply_to_user_id": "2057890063019823104",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069241029900067171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C_lier_fufu ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057890063019823104",
+        "conversation_id": "2069024111700103663",
+        "created_at": "2026-06-23T02:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069241029900067171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069241029900067171",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069024111700103663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 小学穿女装，搜索一堆相关知识，初中穿女装，b站看男娘，高中偷偷穿女装 大学直接女装，化妆，全套都搞上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 378,
+          "like_count": 8533,
+          "listed_count": 2,
+          "media_count": 388,
+          "tweet_count": 2869
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T18:24:57.000Z",
+        "description": "Sorrow Angel\n05 二次元  里百合 cosplay cd INFP 偶像:༒ 𝐆𝐫𝐢𝐟𝐟𝐢𝐭𝐡 ༒\n 老婆@Hmiku2333\n 理想",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Hmiku2333"
+              }
+            ]
+          }
+        },
+        "id": "2057890063019823104",
+        "location": "東京 千代田区",
+        "name": "向晚棠",
+        "pinned_tweet_id": "2067142434451304533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069211596606562304/z-0SiYz6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 14,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "C_lier_fufu",
+        "verified": false
+      }
+    ]
+  }
+}

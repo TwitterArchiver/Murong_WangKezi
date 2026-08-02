@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1961339944162427271",
+    "created_at": "2025-08-29T08:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T09:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961339944162427271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Murong_WangKez…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/Murong_WangKezi/status/1960620409554133334",
+          "start": 55,
+          "url": "https://t.co/i2BuWTzj03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961339944162427271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960620409554133334",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好耶，参加者收集的差不多了，那咱就先终止收集啦～\n最近开学有点忙，所以可能会慢些，对不起啦～\n祝你们中奖哦～ https://t.co/i2BuWTzj03"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1961339944162427271",
+        "created_at": "2025-08-29T08:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T09:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961339944162427271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Murong_WangKez…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Murong_WangKezi/status/1960620409554133334",
+              "start": 55,
+              "url": "https://t.co/i2BuWTzj03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961339944162427271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960620409554133334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好耶，参加者收集的差不多了，那咱就先终止收集啦～\n最近开学有点忙，所以可能会慢些，对不起啦～\n祝你们中奖哦～ https://t.co/i2BuWTzj03"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1960620409554133334",
+        "created_at": "2025-08-27T08:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T09:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960620409554133334"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960620409554133334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2929,
+          "like_count": 62,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "快128fo了,咱也学大家搞个活动喵~\n那咱就在点赞评论和转贴的人里面选上10位寄出随机样式的手写明信片——\n成分相同,互fo的优先~\n中奖名单几日后公布呀~中奖的朋友记得私信发一下详细地址电话和名字(不必使用真实姓名),会寄出中国邮政平常信函~\n欢迎回寄,回寄地址按信封上发件地址填写即可~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10晚上五点半\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 112,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 89,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1960620409554133334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 115,
+          "like_count": 922,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 197
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

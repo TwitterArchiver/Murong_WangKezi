@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1996591788220621106",
+    "created_at": "2025-12-04T14:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T15:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996591788220621106"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1996591788220621106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "初中六点半放学，第二天六点半起床\n也就是说在校外的时间大约只有12小时。八点到家吃完饭开始写作业的时候还剩大约11小时 写作业用去几个小时（咱写作业有点慢）就不多了。所以说只睡几个小时是正常现象嘛，但是可以接受。\n可是高中好像很恐怖的样子，怎么办呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1996591788220621106",
+        "created_at": "2025-12-04T14:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T15:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996591788220621106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996591788220621106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初中六点半放学，第二天六点半起床\n也就是说在校外的时间大约只有12小时。八点到家吃完饭开始写作业的时候还剩大约11小时 写作业用去几个小时（咱写作业有点慢）就不多了。所以说只睡几个小时是正常现象嘛，但是可以接受。\n可是高中好像很恐怖的样子，怎么办呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1994637109525975233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 280,
+          "like_count": 4423,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1166
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

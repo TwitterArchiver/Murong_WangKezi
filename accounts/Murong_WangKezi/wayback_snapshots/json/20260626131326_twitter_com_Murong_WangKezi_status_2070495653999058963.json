@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2070179500646879511",
+    "created_at": "2026-06-26T13:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T14:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070495653999058963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1302833609447890945",
+          "start": 0,
+          "username": "SMK101041"
+        },
+        {
+          "end": 18,
+          "id": "1624393872037265413",
+          "start": 11,
+          "username": "K3ss1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070495653999058963",
+    "in_reply_to_user_id": "1302833609447890945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070487224911831226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SMK101041 @K3ss1c 啊……好恐怖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2070179500646879511",
+        "created_at": "2026-06-26T13:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070495653999058963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1302833609447890945",
+              "start": 0,
+              "username": "SMK101041"
+            },
+            {
+              "end": 18,
+              "id": "1624393872037265413",
+              "start": 11,
+              "username": "K3ss1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070495653999058963",
+        "in_reply_to_user_id": "1302833609447890945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070487224911831226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SMK101041 @K3ss1c 啊……好恐怖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1302833609447890945",
+        "conversation_id": "2070179500646879511",
+        "created_at": "2026-06-26T12:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070487224911831226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            },
+            {
+              "end": 24,
+              "id": "1624393872037265413",
+              "start": 17,
+              "username": "K3ss1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070487224911831226",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070342623831986445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi @K3ss1c Chaser是指專門追求跨性別的人，不過他們不將跨性別視為人，而是將跨性別視為滿足他們性癖的玩具。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 380,
+          "like_count": 8730,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 3008
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-07T04:58:47.000Z",
+        "description": "MTF/X?(探索中)🏳️‍⚧️",
+        "id": "1302833609447890945",
+        "location": "香港",
+        "name": "SMK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716629935979429888/lWkZVPF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 375,
+          "like_count": 9351,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 212
+        },
+        "url": "",
+        "username": "SMK101041",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T13:04:23.000Z",
+        "description": "17年吉吉国入葬，溜冰/抬杠，有素质，我们的直播脚本，尊尼获嘉爱好者，滚木党，不是道栗党。",
+        "id": "1624393872037265413",
+        "name": "难以承受的奥氮平母猪增肥之重",
+        "pinned_tweet_id": "2061192161622958335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061213364785942529/Vq3wxXGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 867,
+          "like_count": 13251,
+          "listed_count": 3,
+          "media_count": 2756,
+          "tweet_count": 18186
+        },
+        "url": "",
+        "username": "K3ss1c",
+        "verified": false
+      }
+    ]
+  }
+}

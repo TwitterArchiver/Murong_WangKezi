@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1492240250147512324",
+          "name": "Day of cat (JP)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1492240250147512324",
+          "name": "Day of cat (JP)"
+        }
+      }
+    ],
+    "conversation_id": "2025539780533272623",
+    "created_at": "2026-02-22T11:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T12:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025539780533272623"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/googlejapan/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/googlejapan/status/2025344787620954354",
+          "start": 15,
+          "url": "https://t.co/hNLQQB79jk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025539780533272623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025344787620954354",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "右上角出现了百度（bushi https://t.co/hNLQQB79jk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6039,
+        "height": 1200,
+        "media_key": "13_2025082099556864000",
+        "preview_image_url": "https://pbs.twimg.com/media/HBqJdpfW0AA5s-G.jpg",
+        "public_metrics": {
+          "view_count": 47366
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025082099556864000/vid/avc1/320x320/gbwgYUXdaZeW7032.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025082099556864000/vid/avc1/540x540/up3VybCyGNaSrW-j.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025082099556864000/vid/avc1/720x720/TMpA-xRC3MfRAzn7.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025082099556864000/pl/ec_vUcz7pjYHjqzn.m3u8?tag=14"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1492240250147512324",
+              "name": "Day of cat (JP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1492240250147512324",
+              "name": "Day of cat (JP)"
+            }
+          }
+        ],
+        "conversation_id": "2025539780533272623",
+        "created_at": "2026-02-22T11:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025539780533272623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/googlejapan/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/googlejapan/status/2025344787620954354",
+              "start": 15,
+              "url": "https://t.co/hNLQQB79jk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025539780533272623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025344787620954354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "右上角出现了百度（bushi https://t.co/hNLQQB79jk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025082099556864000"
+          ]
+        },
+        "author_id": "50791157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1492240250147512324",
+              "name": "Day of cat (JP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1492240250147512324",
+              "name": "Day of cat (JP)"
+            }
+          }
+        ],
+        "conversation_id": "2025344787620954354",
+        "created_at": "2026-02-21T23:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T00:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025344787620954354"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "猫の日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Kx8EX14QX",
+              "end": 50,
+              "expanded_url": "https://x.com/googlejapan/status/2025344787620954354/video/1",
+              "media_key": "13_2025082099556864000",
+              "start": 27,
+              "url": "https://t.co/6Kx8EX14QX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025344787620954354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 515,
+          "impression_count": 188002,
+          "like_count": 8489,
+          "quote_count": 78,
+          "reply_count": 54,
+          "retweet_count": 1579
+        },
+        "reply_settings": "everyone",
+        "text": "【激レア】にゃんこに、ヘーンシンだにゃ!!\n#猫の日 https://t.co/6Kx8EX14QX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10（中间数次断药）\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 127,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 104,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2020089001756299412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 336,
+          "like_count": 6156,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 1606
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-25T22:23:54.000Z",
+        "description": "にゃ〜にゃにゃ にゃにゃんにゃにゃにゃにゃにゃ〜。\nにゃんにゃにゃ〜ん にゃ にゃにゃっにゃにゃ〜にゃっにゃぁぁぁあ〜！🐾\n（訳：Google Japan の公式アカウントです。今日限定で猫になりました〜！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.google.co.jp/",
+                "start": 0,
+                "url": "https://t.co/ngK1wikzAY"
+              }
+            ]
+          }
+        },
+        "id": "50791157",
+        "location": "Japan",
+        "name": "Google Japan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025349408569823232/qXty_90R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453390,
+          "following_count": 11,
+          "like_count": 792,
+          "listed_count": 4927,
+          "media_count": 5277,
+          "tweet_count": 41000
+        },
+        "url": "https://t.co/ngK1wikzAY",
+        "username": "googlejapan",
+        "verified": true
+      }
+    ]
+  }
+}

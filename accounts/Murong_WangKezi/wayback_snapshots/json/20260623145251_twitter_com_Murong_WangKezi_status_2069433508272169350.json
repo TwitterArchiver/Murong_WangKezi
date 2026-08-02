@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069433502702145536",
+        "3_2069433486650548224",
+        "3_2069433505235587072"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2069433508272169350",
+    "created_at": "2026-06-23T14:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069433508272169350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/THP9Xge5zu",
+          "end": 63,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2069433508272169350/photo/1",
+          "media_key": "3_2069433502702145536",
+          "start": 40,
+          "url": "https://t.co/THP9Xge5zu"
+        },
+        {
+          "display_url": "pic.x.com/THP9Xge5zu",
+          "end": 63,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2069433508272169350/photo/1",
+          "media_key": "3_2069433486650548224",
+          "start": 40,
+          "url": "https://t.co/THP9Xge5zu"
+        },
+        {
+          "display_url": "pic.x.com/THP9Xge5zu",
+          "end": 63,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2069433508272169350/photo/1",
+          "media_key": "3_2069433505235587072",
+          "start": 40,
+          "url": "https://t.co/THP9Xge5zu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069433508272169350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次见这种包装的零食还得剥皮的（而且慕容打不开呜呜），但是它真的好迷你啊ww https://t.co/THP9Xge5zu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2069433502702145536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgazm7akAAQYLh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069433486650548224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgayrIaoAAMKVS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2069433505235587072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgazwXb0AAfP_C.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069433502702145536",
+            "3_2069433486650548224",
+            "3_2069433505235587072"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069433508272169350",
+        "created_at": "2026-06-23T14:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069433508272169350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/THP9Xge5zu",
+              "end": 63,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2069433508272169350/photo/1",
+              "media_key": "3_2069433502702145536",
+              "start": 40,
+              "url": "https://t.co/THP9Xge5zu"
+            },
+            {
+              "display_url": "pic.x.com/THP9Xge5zu",
+              "end": 63,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2069433508272169350/photo/1",
+              "media_key": "3_2069433486650548224",
+              "start": 40,
+              "url": "https://t.co/THP9Xge5zu"
+            },
+            {
+              "display_url": "pic.x.com/THP9Xge5zu",
+              "end": 63,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2069433508272169350/photo/1",
+              "media_key": "3_2069433505235587072",
+              "start": 40,
+              "url": "https://t.co/THP9Xge5zu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069433508272169350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次见这种包装的零食还得剥皮的（而且慕容打不开呜呜），但是它真的好迷你啊ww https://t.co/THP9Xge5zu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 379,
+          "like_count": 8546,
+          "listed_count": 2,
+          "media_count": 389,
+          "tweet_count": 2884
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

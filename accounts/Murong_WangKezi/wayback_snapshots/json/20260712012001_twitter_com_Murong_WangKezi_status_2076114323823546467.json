@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076110129863532545",
+        "13_2076110176843898881",
+        "13_2076112101501018112"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076114323823546467",
+    "created_at": "2026-07-12T01:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T02:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076114323823546467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gbtg2tOory",
+          "end": 30,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2076114323823546467/video/1",
+          "media_key": "13_2076110129863532545",
+          "start": 7,
+          "url": "https://t.co/Gbtg2tOory"
+        },
+        {
+          "display_url": "pic.x.com/Gbtg2tOory",
+          "end": 30,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2076114323823546467/video/1",
+          "media_key": "13_2076110176843898881",
+          "start": 7,
+          "url": "https://t.co/Gbtg2tOory"
+        },
+        {
+          "display_url": "pic.x.com/Gbtg2tOory",
+          "end": 30,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2076114323823546467/video/1",
+          "media_key": "13_2076112101501018112",
+          "start": 7,
+          "url": "https://t.co/Gbtg2tOory"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076114323823546467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一些视频补充 https://t.co/Gbtg2tOory"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10143,
+        "height": 2160,
+        "media_key": "13_2076110129863532545",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076110129863532545/img/l0yNoP3aJBEpmu4u.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076110129863532545/vid/avc1/480x270/E-i0AsGrp76ICbib.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076110129863532545/vid/avc1/640x360/Ya12lpxPYlrOk4SN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076110129863532545/vid/avc1/1280x720/Cnajk0eshBLBYQg5.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076110129863532545/pl/1Nz6_ez2R9i7EdnM.m3u8?tag=14"
+          }
+        ],
+        "width": 3840
+      },
+      {
+        "duration_ms": 5205,
+        "height": 2160,
+        "media_key": "13_2076110176843898881",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076110176843898881/img/S2LZObxRh-0-qDHL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076110176843898881/vid/avc1/480x270/gHjxx_4TuiGe0PSj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076110176843898881/vid/avc1/640x360/tSoYKTnUP0ZKU5h6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076110176843898881/vid/avc1/1280x720/W59PD-sxZiMt3Srl.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076110176843898881/pl/y-AfshzRxU3SiYVp.m3u8?tag=14"
+          }
+        ],
+        "width": 3840
+      },
+      {
+        "duration_ms": 11444,
+        "height": 3840,
+        "media_key": "13_2076112101501018112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076112101501018112/img/fOWR8LPlXtWtHPtO.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076112101501018112/vid/avc1/320x568/CeZv5MT9jy3JA-Gg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076112101501018112/vid/avc1/480x852/7GD7hd1AkCFfqS5W.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076112101501018112/vid/avc1/720x1280/I6GFHxOF4PNCFjn5.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076112101501018112/pl/qehWRMyyGIRNU2JB.m3u8?tag=14"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076110129863532545",
+            "13_2076110176843898881",
+            "13_2076112101501018112"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076114323823546467",
+        "created_at": "2026-07-12T01:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T02:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076114323823546467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gbtg2tOory",
+              "end": 30,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2076114323823546467/video/1",
+              "media_key": "13_2076110129863532545",
+              "start": 7,
+              "url": "https://t.co/Gbtg2tOory"
+            },
+            {
+              "display_url": "pic.x.com/Gbtg2tOory",
+              "end": 30,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2076114323823546467/video/1",
+              "media_key": "13_2076110176843898881",
+              "start": 7,
+              "url": "https://t.co/Gbtg2tOory"
+            },
+            {
+              "display_url": "pic.x.com/Gbtg2tOory",
+              "end": 30,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2076114323823546467/video/1",
+              "media_key": "13_2076112101501018112",
+              "start": 7,
+              "url": "https://t.co/Gbtg2tOory"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076114323823546467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一些视频补充 https://t.co/Gbtg2tOory"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 382,
+          "like_count": 9341,
+          "listed_count": 2,
+          "media_count": 473,
+          "tweet_count": 3448
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

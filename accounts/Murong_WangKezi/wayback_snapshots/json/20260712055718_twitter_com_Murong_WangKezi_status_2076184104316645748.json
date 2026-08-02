@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076183877480255488",
+        "3_2076183896157544449",
+        "3_2076183924263534592",
+        "3_2076183927732269056"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2076184104316645748",
+    "created_at": "2026-07-12T05:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T06:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076184104316645748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IGMh8iC0eW",
+          "end": 29,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2076184104316645748/photo/1",
+          "media_key": "3_2076183877480255488",
+          "start": 6,
+          "url": "https://t.co/IGMh8iC0eW"
+        },
+        {
+          "display_url": "pic.x.com/IGMh8iC0eW",
+          "end": 29,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2076184104316645748/photo/1",
+          "media_key": "3_2076183896157544449",
+          "start": 6,
+          "url": "https://t.co/IGMh8iC0eW"
+        },
+        {
+          "display_url": "pic.x.com/IGMh8iC0eW",
+          "end": 29,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2076184104316645748/photo/1",
+          "media_key": "3_2076183924263534592",
+          "start": 6,
+          "url": "https://t.co/IGMh8iC0eW"
+        },
+        {
+          "display_url": "pic.x.com/IGMh8iC0eW",
+          "end": 29,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2076184104316645748/photo/1",
+          "media_key": "3_2076183927732269056",
+          "start": 6,
+          "url": "https://t.co/IGMh8iC0eW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076184104316645748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "酒店餐厅～ https://t.co/IGMh8iC0eW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2076183877480255488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAWPImakAAwGUH.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2076183896157544449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAWQOLbYAE7KDj.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2076183924263534592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAWR24awAAv5L1.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2076183927732269056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAWSDzbcAAgKiq.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076183877480255488",
+            "3_2076183896157544449",
+            "3_2076183924263534592",
+            "3_2076183927732269056"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076184104316645748",
+        "created_at": "2026-07-12T05:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076184104316645748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGMh8iC0eW",
+              "end": 29,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2076184104316645748/photo/1",
+              "media_key": "3_2076183877480255488",
+              "start": 6,
+              "url": "https://t.co/IGMh8iC0eW"
+            },
+            {
+              "display_url": "pic.x.com/IGMh8iC0eW",
+              "end": 29,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2076184104316645748/photo/1",
+              "media_key": "3_2076183896157544449",
+              "start": 6,
+              "url": "https://t.co/IGMh8iC0eW"
+            },
+            {
+              "display_url": "pic.x.com/IGMh8iC0eW",
+              "end": 29,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2076184104316645748/photo/1",
+              "media_key": "3_2076183924263534592",
+              "start": 6,
+              "url": "https://t.co/IGMh8iC0eW"
+            },
+            {
+              "display_url": "pic.x.com/IGMh8iC0eW",
+              "end": 29,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2076184104316645748/photo/1",
+              "media_key": "3_2076183927732269056",
+              "start": 6,
+              "url": "https://t.co/IGMh8iC0eW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076184104316645748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酒店餐厅～ https://t.co/IGMh8iC0eW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 382,
+          "like_count": 9356,
+          "listed_count": 2,
+          "media_count": 474,
+          "tweet_count": 3458
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

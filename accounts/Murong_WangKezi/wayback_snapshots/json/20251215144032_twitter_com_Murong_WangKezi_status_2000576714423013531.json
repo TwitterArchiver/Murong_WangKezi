@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000080397682737152"
+      ],
+      "media_source_tweet_id": [
+        "2000080405215764954"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2000576714423013531",
+    "created_at": "2025-12-15T14:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T15:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000576714423013531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1967293517274988544",
+          "start": 3,
+          "username": "Ainai_uwu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TVRJtO5Wn3",
+          "end": 129,
+          "expanded_url": "https://x.com/Ainai_uwu/status/2000080405215764954/photo/1",
+          "media_key": "3_2000080397682737152",
+          "start": 106,
+          "url": "https://t.co/TVRJtO5Wn3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000576714423013531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000080405215764954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ainai_uwu: 大家只要关注，还有转发这个推文并且留言奈奈好棒棒！\n就可以参加活动哦！\n会有两位幸运儿得到奖品！\n一等奖日雌x1 \n二等奖土色50mgx1\n活动将会2025/12/25\n公布结果！ https://t.co/TVRJtO5Wn3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2000576714423013531].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2000576714423013531",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2000576714423013531"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1690,
+        "media_key": "3_2000080397682737152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8G2hloaAAAyiXY.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000080397682737152"
+          ]
+        },
+        "author_id": "1967293517274988544",
+        "conversation_id": "2000080405215764954",
+        "created_at": "2025-12-14T05:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000080405215764954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TVRJtO5Wn3",
+              "end": 114,
+              "expanded_url": "https://x.com/Ainai_uwu/status/2000080405215764954/photo/1",
+              "media_key": "3_2000080397682737152",
+              "start": 91,
+              "url": "https://t.co/TVRJtO5Wn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000080405215764954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 542,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "大家只要关注，还有转发这个推文并且留言奈奈好棒棒！\n就可以参加活动哦！\n会有两位幸运儿得到奖品！\n一等奖日雌x1 \n二等奖土色50mgx1\n活动将会2025/12/25\n公布结果！ https://t.co/TVRJtO5Wn3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 281,
+          "like_count": 4702,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1299
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T18:25:26.000Z",
+        "description": "糖果小镇聊天群 https://t.co/HUvftwvRD7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+R_yz2iapzmQ4M…",
+                "end": 31,
+                "expanded_url": "https://t.me/+R_yz2iapzmQ4Mzk1",
+                "start": 8,
+                "url": "https://t.co/HUvftwvRD7"
+              }
+            ]
+          }
+        },
+        "id": "1967293517274988544",
+        "name": "梦爱奈（糖商/全国可发🏳️‍⚧️🍬🍥）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999183222295687168/_tXkqmx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 3,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "username": "Ainai_uwu",
+        "verified": true
+      }
+    ]
+  }
+}

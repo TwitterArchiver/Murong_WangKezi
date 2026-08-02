@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1977232970969981315",
+    "created_at": "2025-10-12T07:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T08:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977275694498689108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1576459441863819264",
+          "start": 0,
+          "username": "jdnyzjsbudjdjd"
+        },
+        {
+          "end": 24,
+          "id": "1741426453265473536",
+          "start": 16,
+          "username": "yywz258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977275694498689108",
+    "in_reply_to_user_id": "1576459441863819264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977253634758074438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jdnyzjsbudjdjd @yywz258 才看懂（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1977232970969981315",
+        "created_at": "2025-10-12T07:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T08:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977275694498689108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1576459441863819264",
+              "start": 0,
+              "username": "jdnyzjsbudjdjd"
+            },
+            {
+              "end": 24,
+              "id": "1741426453265473536",
+              "start": 16,
+              "username": "yywz258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977275694498689108",
+        "in_reply_to_user_id": "1576459441863819264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977253634758074438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jdnyzjsbudjdjd @yywz258 才看懂（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576459441863819264",
+        "conversation_id": "1977232970969981315",
+        "created_at": "2025-10-12T06:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T07:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977253634758074438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1741426453265473536",
+              "start": 0,
+              "username": "yywz258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977253634758074438",
+        "in_reply_to_user_id": "1741426453265473536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977232970969981315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yywz258 那很pass了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 107,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 84,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 226,
+          "like_count": 3176,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 477
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T06:30:05.000Z",
+        "description": "含糖 深柜 社恐",
+        "id": "1576459441863819264",
+        "location": "火星",
+        "name": "mtf小乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803422825195380737/gK2bo1aX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 112,
+          "like_count": 2805,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 4170
+        },
+        "username": "jdnyzjsbudjdjd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T11:50:08.000Z",
+        "description": "Evt a vhensiy dehlli en emce.\n望　その場所に在る者。\n\n    fo你是喜欢你求互fo（。可以称我为男娘，未术trans，5w4，多意识体，精神不稳定，喜欢学新东西，打音游，已戒o戒割，爱好是能和自己做的一切🐱🖐🏻️",
+        "id": "1741426453265473536",
+        "name": "intra_秋雨末叶🏳️‍⚧️",
+        "pinned_tweet_id": "1975576107488584112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973088785144623104/zrzo9D2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 598,
+          "like_count": 1859,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 467
+        },
+        "username": "yywz258",
+        "verified": false
+      }
+    ]
+  }
+}

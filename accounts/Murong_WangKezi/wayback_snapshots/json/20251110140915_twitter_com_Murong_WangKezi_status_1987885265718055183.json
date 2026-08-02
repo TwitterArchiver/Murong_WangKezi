@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1987435825123201530",
+    "created_at": "2025-11-10T14:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T15:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987885265718055183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1673624341227896833",
+          "start": 0,
+          "username": "XiRuZhaJi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987885265718055183",
+    "in_reply_to_user_id": "1673624341227896833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987882952047411604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiRuZhaJi 不太懂哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1987435825123201530",
+        "created_at": "2025-11-10T14:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987885265718055183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1673624341227896833",
+              "start": 0,
+              "username": "XiRuZhaJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987885265718055183",
+        "in_reply_to_user_id": "1673624341227896833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987882952047411604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiRuZhaJi 不太懂哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673624341227896833",
+        "conversation_id": "1987435825123201530",
+        "created_at": "2025-11-10T14:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987882952047411604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987882952047411604",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987435825123201530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 新秩序Novus Ordo不是天教"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 282,
+          "like_count": 4055,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 948
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T09:28:43.000Z",
+        "description": "@xiruermuzi by 雲岫客 我是护旗手，反洋教。復禮修德、庇我中華；天滅美帝、福祉永泰。老外不要关注我，特別犹撒人！Foreign Devils don’t follow me！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "xiruermuzi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xiruermuzi",
+                "end": 23,
+                "expanded_url": "https://x.com/xiruermuzi",
+                "start": 0,
+                "url": "https://t.co/dRwuqviFv8"
+              }
+            ]
+          }
+        },
+        "id": "1673624341227896833",
+        "name": "China’s Dream of Western Confucian Journal 西儒中國夢札記",
+        "pinned_tweet_id": "1960215915154284548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675453707868143617/P3pMtEWy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 697,
+          "like_count": 29363,
+          "listed_count": 4,
+          "media_count": 1789,
+          "tweet_count": 17614
+        },
+        "url": "https://t.co/dRwuqviFv8",
+        "username": "XiRuZhaJi",
+        "verified": false
+      }
+    ]
+  }
+}

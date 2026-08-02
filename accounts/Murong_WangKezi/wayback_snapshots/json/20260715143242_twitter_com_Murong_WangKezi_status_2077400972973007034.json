@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077400958934626304",
+        "3_2077400958951399424",
+        "3_2077400959437991936",
+        "3_2077400958972370944"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2077400972973007034",
+    "created_at": "2026-07-15T14:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T15:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077400972973007034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/COIBKB7AhZ",
+          "end": 28,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2077400972973007034/photo/1",
+          "media_key": "3_2077400958934626304",
+          "start": 5,
+          "url": "https://t.co/COIBKB7AhZ"
+        },
+        {
+          "display_url": "pic.x.com/COIBKB7AhZ",
+          "end": 28,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2077400972973007034/photo/1",
+          "media_key": "3_2077400958951399424",
+          "start": 5,
+          "url": "https://t.co/COIBKB7AhZ"
+        },
+        {
+          "display_url": "pic.x.com/COIBKB7AhZ",
+          "end": 28,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2077400972973007034/photo/1",
+          "media_key": "3_2077400959437991936",
+          "start": 5,
+          "url": "https://t.co/COIBKB7AhZ"
+        },
+        {
+          "display_url": "pic.x.com/COIBKB7AhZ",
+          "end": 28,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2077400972973007034/photo/1",
+          "media_key": "3_2077400958972370944",
+          "start": 5,
+          "url": "https://t.co/COIBKB7AhZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077400972973007034",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "夯爆了😋 https://t.co/COIBKB7AhZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077400958934626304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRpKmVasAAMAo2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077400958951399424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRpKmZaoAAtuHV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077400959437991936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRpKoNbcAAhzR6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077400958972370944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRpKmeaoAAbm-8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077400958934626304",
+            "3_2077400958951399424",
+            "3_2077400959437991936",
+            "3_2077400958972370944"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077400972973007034",
+        "created_at": "2026-07-15T14:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077400972973007034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/COIBKB7AhZ",
+              "end": 28,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2077400972973007034/photo/1",
+              "media_key": "3_2077400958934626304",
+              "start": 5,
+              "url": "https://t.co/COIBKB7AhZ"
+            },
+            {
+              "display_url": "pic.x.com/COIBKB7AhZ",
+              "end": 28,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2077400972973007034/photo/1",
+              "media_key": "3_2077400958951399424",
+              "start": 5,
+              "url": "https://t.co/COIBKB7AhZ"
+            },
+            {
+              "display_url": "pic.x.com/COIBKB7AhZ",
+              "end": 28,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2077400972973007034/photo/1",
+              "media_key": "3_2077400959437991936",
+              "start": 5,
+              "url": "https://t.co/COIBKB7AhZ"
+            },
+            {
+              "display_url": "pic.x.com/COIBKB7AhZ",
+              "end": 28,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2077400972973007034/photo/1",
+              "media_key": "3_2077400958972370944",
+              "start": 5,
+              "url": "https://t.co/COIBKB7AhZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077400972973007034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夯爆了😋 https://t.co/COIBKB7AhZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 382,
+          "like_count": 9523,
+          "listed_count": 2,
+          "media_count": 494,
+          "tweet_count": 3557
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

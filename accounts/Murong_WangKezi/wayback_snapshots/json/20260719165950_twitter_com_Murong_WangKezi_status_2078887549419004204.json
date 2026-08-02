@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2078680687142686759",
+    "created_at": "2026-07-19T16:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078887549419004204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053864757329817600",
+          "start": 0,
+          "username": "today_is_foggy"
+        },
+        {
+          "end": 31,
+          "id": "2063704348195278848",
+          "start": 16,
+          "username": "Rabbit52666625"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078887549419004204",
+    "in_reply_to_user_id": "2053864757329817600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078828804076929078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@today_is_foggy @Rabbit52666625 咬）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2078680687142686759",
+        "created_at": "2026-07-19T16:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078887549419004204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053864757329817600",
+              "start": 0,
+              "username": "today_is_foggy"
+            },
+            {
+              "end": 31,
+              "id": "2063704348195278848",
+              "start": 16,
+              "username": "Rabbit52666625"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078887549419004204",
+        "in_reply_to_user_id": "2053864757329817600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078828804076929078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@today_is_foggy @Rabbit52666625 咬）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053864757329817600",
+        "conversation_id": "2078680687142686759",
+        "created_at": "2026-07-19T13:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078828804076929078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            },
+            {
+              "end": 32,
+              "id": "2063704348195278848",
+              "start": 17,
+              "username": "Rabbit52666625"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078828804076929078",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078755675128451269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi @Rabbit52666625 喵呜？野生慕容，抓！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 382,
+          "like_count": 9658,
+          "listed_count": 2,
+          "media_count": 520,
+          "tweet_count": 3690
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T15:48:30.000Z",
+        "description": "这里是大雾！可以叫咱大雾ww，二次元，笨蛋，无糖，不od、割手，什么都会一点但什么都做不好，只要接纳咱那一定会有反馈的说ww接触过的东西有好多，但都很入门...航空航天 时事政治 摄影 化妆 化学 锻炼健身 番剧游戏 还自己学过一点c和Python...希望有人可以来找咱聊天什么的。",
+        "id": "2053864757329817600",
+        "location": "成都  山东上学",
+        "name": "今天是大雾！",
+        "pinned_tweet_id": "2075249973487104381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073740142737846272/5wS-JDPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 100,
+          "like_count": 1314,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 787
+        },
+        "url": "",
+        "username": "today_is_foggy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T19:29:40.000Z",
+        "description": "台湾mtf🏳️‍⚧️\\HRT3年💊\\喜爱兔子❤️\\有两宝贝女儿💞\\喜欢亲亲抱抱💓\\容易发情❤️‍🔥\\体力非常虚❤️‍🩹\\非常霸气❣️\\喜欢被拍屁屁✋\\喜欢与大陆交流✌️\\別惹我💥\\海鮮愛好者🐟",
+        "id": "2063704348195278848",
+        "name": "🩸嗜·瞹爾䙺娜·兔領主🔪 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2069555647058997277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078358267940790272/rPILBChk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 8,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "Rabbit52666625",
+        "verified": true
+      }
+    ]
+  }
+}

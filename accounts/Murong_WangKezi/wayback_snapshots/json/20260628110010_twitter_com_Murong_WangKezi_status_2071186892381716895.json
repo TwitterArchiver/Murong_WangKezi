@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2070734908763636208",
+    "created_at": "2026-06-28T11:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071186892381716895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1561552708653289472",
+          "start": 0,
+          "username": "Raidencold"
+        },
+        {
+          "end": 22,
+          "id": "1964335711521558531",
+          "start": 12,
+          "username": "bbkk23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071186892381716895",
+    "in_reply_to_user_id": "1561552708653289472",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071150546552025104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raidencold @bbkk23333 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2070734908763636208",
+        "created_at": "2026-06-28T11:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071186892381716895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1561552708653289472",
+              "start": 0,
+              "username": "Raidencold"
+            },
+            {
+              "end": 22,
+              "id": "1964335711521558531",
+              "start": 12,
+              "username": "bbkk23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071186892381716895",
+        "in_reply_to_user_id": "1561552708653289472",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071150546552025104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raidencold @bbkk23333 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561552708653289472",
+        "conversation_id": "2070734908763636208",
+        "created_at": "2026-06-28T08:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071150546552025104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            },
+            {
+              "end": 27,
+              "id": "1964335711521558531",
+              "start": 17,
+              "username": "bbkk23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071150546552025104",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071068715026952207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi @bbkk23333 老婆打我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 380,
+          "like_count": 8909,
+          "listed_count": 2,
+          "media_count": 401,
+          "tweet_count": 3152
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T03:16:15.000Z",
+        "description": "持證含→ （無）糖MTF 05超大龄木桶饭 (天殘黨+反共黨+中國國民黨❂ 🇹🇼)可用語言：日語 繁體中文 簡體中文 intp +le le！！看清楚了，别再看歪了HRT to：2022.12. 7-2026.2.17\n🚪：9.9/50 长驻常州西安",
+        "id": "1561552708653289472",
+        "location": "天御茶室",
+        "name": "雷電~凛🏳️‍⚧️",
+        "pinned_tweet_id": "1928016315505057919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787561051460182016/ypZyjr1F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 624,
+          "like_count": 4153,
+          "listed_count": 0,
+          "media_count": 328,
+          "tweet_count": 3060
+        },
+        "url": "",
+        "username": "Raidencold",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T14:32:23.000Z",
+        "description": "我喜欢你喵🏳️‍⚧️\n网络小宠物这一块，假期24小吋高强度刷推≽^ ⦁ ⩊ ⦁ ^≼",
+        "id": "1964335711521558531",
+        "location": "垃圾桶旁边的纸箱",
+        "name": "沐雨春喵",
+        "pinned_tweet_id": "2069381811596386570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 331,
+          "like_count": 1447,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 914
+        },
+        "url": "",
+        "username": "bbkk23333",
+        "verified": false
+      }
+    ]
+  }
+}

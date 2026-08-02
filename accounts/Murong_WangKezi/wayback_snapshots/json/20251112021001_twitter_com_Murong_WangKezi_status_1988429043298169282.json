@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1987749265473745358",
+    "created_at": "2025-11-12T02:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T03:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988429043298169282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "828947309874417664",
+          "start": 0,
+          "username": "Luminouslucis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988429043298169282",
+    "in_reply_to_user_id": "828947309874417664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988295984116568343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luminouslucis 好的，知道啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1987749265473745358",
+        "created_at": "2025-11-12T02:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T03:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988429043298169282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "828947309874417664",
+              "start": 0,
+              "username": "Luminouslucis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988429043298169282",
+        "in_reply_to_user_id": "828947309874417664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988295984116568343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luminouslucis 好的，知道啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "828947309874417664",
+        "conversation_id": "1987749265473745358",
+        "created_at": "2025-11-11T17:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988295984116568343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988295984116568343",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988237839310745948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 我想最重要的是唤醒她自救的动力，后面的事应该由专业心理医生接手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 281,
+          "like_count": 4096,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 963
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-07T12:43:34.000Z",
+        "description": "我与你感同身受",
+        "id": "828947309874417664",
+        "location": "Hamberge, Deutschland",
+        "name": "NuclearCake",
+        "pinned_tweet_id": "1971556519100760545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945441303694647296/HjOatkbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 467,
+          "like_count": 1130,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 1539
+        },
+        "username": "Luminouslucis",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022986761010597888",
+        "3_2022986761002246144",
+        "3_2022986761014857728",
+        "3_2022986773799034880"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2022986786935537931",
+    "created_at": "2026-02-15T10:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T11:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022986786935537931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703345227279609856",
+          "start": 0,
+          "username": "Oracle49371"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q44Qc4lPAG",
+          "end": 55,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2022986786935537931/photo/1",
+          "media_key": "3_2022986761010597888",
+          "start": 32,
+          "url": "https://t.co/Q44Qc4lPAG"
+        },
+        {
+          "display_url": "pic.x.com/Q44Qc4lPAG",
+          "end": 55,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2022986786935537931/photo/1",
+          "media_key": "3_2022986761002246144",
+          "start": 32,
+          "url": "https://t.co/Q44Qc4lPAG"
+        },
+        {
+          "display_url": "pic.x.com/Q44Qc4lPAG",
+          "end": 55,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2022986786935537931/photo/1",
+          "media_key": "3_2022986761014857728",
+          "start": 32,
+          "url": "https://t.co/Q44Qc4lPAG"
+        },
+        {
+          "display_url": "pic.x.com/Q44Qc4lPAG",
+          "end": 55,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2022986786935537931/photo/1",
+          "media_key": "3_2022986773799034880",
+          "start": 32,
+          "url": "https://t.co/Q44Qc4lPAG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022986786935537931",
+    "in_reply_to_user_id": "1703345227279609856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Oracle49371 100元买的“6TB希捷SSD”内部 https://t.co/Q44Qc4lPAG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2022986761010597888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMXvata0AA3OWD.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2022986761002246144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMXvarbYAA0WcL.jpg",
+        "width": 2731
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2022986761014857728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMXvaub0AAugVd.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2022986773799034880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMXwKWa4AAnuP2.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022986761010597888",
+            "3_2022986761002246144",
+            "3_2022986761014857728",
+            "3_2022986773799034880"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2022986786935537931",
+        "created_at": "2026-02-15T10:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022986786935537931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703345227279609856",
+              "start": 0,
+              "username": "Oracle49371"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q44Qc4lPAG",
+              "end": 55,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2022986786935537931/photo/1",
+              "media_key": "3_2022986761010597888",
+              "start": 32,
+              "url": "https://t.co/Q44Qc4lPAG"
+            },
+            {
+              "display_url": "pic.x.com/Q44Qc4lPAG",
+              "end": 55,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2022986786935537931/photo/1",
+              "media_key": "3_2022986761002246144",
+              "start": 32,
+              "url": "https://t.co/Q44Qc4lPAG"
+            },
+            {
+              "display_url": "pic.x.com/Q44Qc4lPAG",
+              "end": 55,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2022986786935537931/photo/1",
+              "media_key": "3_2022986761014857728",
+              "start": 32,
+              "url": "https://t.co/Q44Qc4lPAG"
+            },
+            {
+              "display_url": "pic.x.com/Q44Qc4lPAG",
+              "end": 55,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2022986786935537931/photo/1",
+              "media_key": "3_2022986773799034880",
+              "start": 32,
+              "url": "https://t.co/Q44Qc4lPAG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022986786935537931",
+        "in_reply_to_user_id": "1703345227279609856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Oracle49371 100元买的“6TB希捷SSD”内部 https://t.co/Q44Qc4lPAG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10（中间数次断药）\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 127,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 104,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2020089001756299412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 334,
+          "like_count": 5886,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1569
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T09:49:40.000Z",
+        "description": "这个人很懒，但是还没有死。大学生，hrt于2025/9/16，获得小证于2025/10/21",
+        "id": "1703345227279609856",
+        "name": "Oracle_F🍥",
+        "pinned_tweet_id": "1998221375111385365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006204727600766976/pykhBTjs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 112,
+          "like_count": 883,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 624
+        },
+        "username": "Oracle49371",
+        "verified": false
+      }
+    ]
+  }
+}

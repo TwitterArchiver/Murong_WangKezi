@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1950964237783965750",
+    "created_at": "2025-08-01T06:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T07:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951171092900360685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1674994147718209537",
+          "start": 0,
+          "username": "Kouqi2023"
+        },
+        {
+          "end": 21,
+          "id": "1639816523190763521",
+          "start": 11,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951171092900360685",
+    "in_reply_to_user_id": "1674994147718209537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951008985815065012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kouqi2023 @ggdxfulan 是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1950964237783965750",
+        "created_at": "2025-08-01T06:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T07:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951171092900360685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1674994147718209537",
+              "start": 0,
+              "username": "Kouqi2023"
+            },
+            {
+              "end": 21,
+              "id": "1639816523190763521",
+              "start": 11,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951171092900360685",
+        "in_reply_to_user_id": "1674994147718209537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951008985815065012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kouqi2023 @ggdxfulan 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674994147718209537",
+        "conversation_id": "1950964237783965750",
+        "created_at": "2025-07-31T19:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T20:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951008985815065012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951008985815065012",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950964237783965750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan 自己闻不到，别人能闻到，包括顺男（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "中国大陆 | 成分极其复杂\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 39,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 63
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T04:11:45.000Z",
+        "description": "♂的  含🍥 mtx 大龄  死肥宅  165cm/50kg  二次元莎软  社恐选手 INTJ→INFJ→INFP  精神状态不稳定（多重人格）已摆烂  同类互fo必回  坐标：苏州",
+        "id": "1674994147718209537",
+        "location": "距离你-0.00018km",
+        "name": "蔻琪🍥",
+        "pinned_tweet_id": "1839878665288724847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910233547337797632/_7GJ0JVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 448,
+          "like_count": 3456,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1065
+        },
+        "username": "Kouqi2023",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "纯1、药娘攻、抖s、反差、MtX(半个男同)，喜欢欺负人",
+        "id": "1639816523190763521",
+        "location": "距离你50m",
+        "name": "乖乖哒二小姐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929849322272968704/hQan_chB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8264,
+          "following_count": 433,
+          "like_count": 24264,
+          "listed_count": 19,
+          "media_count": 2756,
+          "tweet_count": 9158
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

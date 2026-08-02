@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2082275328974799036",
+    "created_at": "2026-07-29T07:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082367290964955354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1377858206882496517",
+          "start": 0,
+          "username": "ZYXPover"
+        },
+        {
+          "end": 25,
+          "id": "2059017066435211264",
+          "start": 10,
+          "username": "ispmmrybrgz6iv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082367290964955354",
+    "in_reply_to_user_id": "1377858206882496517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082345460761755887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZYXPover @ispmmrybrgz6iv 羡慕老师好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2082275328974799036",
+        "created_at": "2026-07-29T07:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082367290964955354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1377858206882496517",
+              "start": 0,
+              "username": "ZYXPover"
+            },
+            {
+              "end": 25,
+              "id": "2059017066435211264",
+              "start": 10,
+              "username": "ispmmrybrgz6iv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082367290964955354",
+        "in_reply_to_user_id": "1377858206882496517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082345460761755887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZYXPover @ispmmrybrgz6iv 羡慕老师好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1377858206882496517",
+        "conversation_id": "2082275328974799036",
+        "created_at": "2026-07-29T06:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082345460761755887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059017066435211264",
+              "start": 0,
+              "username": "ispmmrybrgz6iv"
+            },
+            {
+              "end": 32,
+              "id": "1870315714638385152",
+              "start": 16,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082345460761755887",
+        "in_reply_to_user_id": "2059017066435211264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082343314410590438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ispmmrybrgz6iv @Murong_WangKezi 那是综合，我期末分55，纯靠伟大的数院老师捞起来的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 382,
+          "like_count": 9998,
+          "listed_count": 2,
+          "media_count": 576,
+          "tweet_count": 3990
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-02T05:39:53.000Z",
+        "description": "文不能测字 武不能防身",
+        "id": "1377858206882496517",
+        "location": "陕西",
+        "name": "ZYXPover",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969424589043482630/YB8V4KPl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 157,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "ZYXPover",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T21:02:37.000Z",
+        "description": "mtf|🍥26.1.14|无证含糖|理想主义者|infp|喜欢音乐|",
+        "id": "2059017066435211264",
+        "name": "小张🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080062626848190464/ePa9XxxG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 20,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "ispmmrybrgz6iv",
+        "verified": false
+      }
+    ]
+  }
+}

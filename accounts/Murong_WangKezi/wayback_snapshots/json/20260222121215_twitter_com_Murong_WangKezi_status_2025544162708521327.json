@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1492240250147512324",
+          "name": "Day of cat (JP)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1492240250147512324",
+          "name": "Day of cat (JP)"
+        }
+      }
+    ],
+    "conversation_id": "2025544162708521327",
+    "created_at": "2026-02-22T12:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T13:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025544162708521327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/subwayjp/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/subwayjp/status/2025344793585287191",
+          "start": 5,
+          "url": "https://t.co/JEBZno9bRP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025544162708521327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025344793585287191",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想吃呜呜 https://t.co/JEBZno9bRP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2018271343675072514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJXGAQaYAI72mM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1492240250147512324",
+              "name": "Day of cat (JP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1492240250147512324",
+              "name": "Day of cat (JP)"
+            }
+          }
+        ],
+        "conversation_id": "2025544162708521327",
+        "created_at": "2026-02-22T12:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T13:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025544162708521327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/subwayjp/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/subwayjp/status/2025344793585287191",
+              "start": 5,
+              "url": "https://t.co/JEBZno9bRP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025544162708521327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025344793585287191",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想吃呜呜 https://t.co/JEBZno9bRP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018271343675072514"
+          ]
+        },
+        "author_id": "84503328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1492240250147512324",
+              "name": "Day of cat (JP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026319219",
+              "name": "Subway"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026319219",
+              "name": "Subway"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1492240250147512324",
+              "name": "Day of cat (JP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2025344793585287191",
+        "created_at": "2026-02-21T23:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T00:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025344793585287191"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "猫の日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/icigjypZJq",
+              "end": 91,
+              "expanded_url": "https://x.com/subwayjp/status/2025344793585287191/photo/1",
+              "media_key": "3_2018271343675072514",
+              "start": 68,
+              "url": "https://t.co/icigjypZJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025344793585287191",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 950,
+          "impression_count": 551495,
+          "like_count": 14880,
+          "quote_count": 392,
+          "reply_count": 83,
+          "retweet_count": 2997
+        },
+        "reply_settings": "everyone",
+        "text": "今日は2月22日 #猫の日🐱🐾\n\nこちらは猫耳型のパンが特徴の\nオリジナルサンド\n「ニャブウェイ」です🐈\n\n※販売予定はございません😿 https://t.co/icigjypZJq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10（中间数次断药）\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 127,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 104,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2020089001756299412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 337,
+          "like_count": 6158,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 1608
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-23T04:18:46.000Z",
+        "description": "話せる公式「サブウェイ🥪」です😎\n#サブウェイ の投稿を探して、みなさんに話しかけに行っています！\n--------------------",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 17,
+                "tag": "サブウェイ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "subway.co.jp/customer/",
+                "end": 23,
+                "expanded_url": "https://www.subway.co.jp/customer/",
+                "start": 0,
+                "url": "https://t.co/30DINMpSt9"
+              }
+            ]
+          }
+        },
+        "id": "84503328",
+        "location": "店舗に関するお問い合わせはコチラ✉",
+        "name": "サブウェイ",
+        "pinned_tweet_id": "2024620009839088055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1322565849069232131/LPcbCwEJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126705,
+          "following_count": 28125,
+          "like_count": 156355,
+          "listed_count": 4921,
+          "media_count": 21366312,
+          "tweet_count": 21528569
+        },
+        "url": "https://t.co/30DINMpSt9",
+        "username": "subwayjp",
+        "verified": true
+      }
+    ]
+  }
+}

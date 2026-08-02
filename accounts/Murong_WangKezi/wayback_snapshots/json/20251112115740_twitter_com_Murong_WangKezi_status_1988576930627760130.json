@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1988400599139053652",
+    "created_at": "2025-11-12T11:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T12:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988576930627760130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1503722074686242817",
+          "start": 0,
+          "username": "moe_hacker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988576930627760130",
+    "in_reply_to_user_id": "1503722074686242817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988545478850396403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moe_hacker 第一次知道nothing手机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1988400599139053652",
+        "created_at": "2025-11-12T11:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988576930627760130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1503722074686242817",
+              "start": 0,
+              "username": "moe_hacker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988576930627760130",
+        "in_reply_to_user_id": "1503722074686242817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988545478850396403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moe_hacker 第一次知道nothing手机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503722074686242817",
+        "conversation_id": "1988400599139053652",
+        "created_at": "2025-11-12T09:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T10:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988545478850396403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988545478850396403",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988400599139053652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 举手然后血液回流就会暂时显白，但用过的小米/nothing手机拍人就是死黑🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 281,
+          "like_count": 4128,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 975
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-15T13:17:59.000Z",
+        "description": "Github@Moe-hacker, 箱崎萌/沨鸾 | English/中文 | 人间体19岁男生 | 摄影,数码,编程,和一些个人感悟 | Nothing, but just as it be.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hakozaki.moe",
+                "end": 23,
+                "expanded_url": "https://hakozaki.moe",
+                "start": 0,
+                "url": "https://t.co/TkkgxyCl43"
+              }
+            ]
+          }
+        },
+        "id": "1503722074686242817",
+        "name": "Moe Hakozaki",
+        "pinned_tweet_id": "1986831077084909821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985677088570163200/jeQqHmtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 185,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 712
+        },
+        "url": "https://t.co/TkkgxyCl43",
+        "username": "moe_hacker",
+        "verified": false
+      }
+    ]
+  }
+}

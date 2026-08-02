@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1994637109525975233",
+    "created_at": "2025-11-29T05:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994642009244815474"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994642009244815474",
+    "in_reply_to_user_id": "1870315714638385152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994638797817221242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在咱只能是偶尔偷偷用家长手机和外界联系，有的时候也可以找路人借手机打电话（不过只能用几分钟，毕竟咱也不敢一直借路人的设备嘛），或者是邮寄信件。\n电脑的话，感觉他们没有要去修的意思。而且他们说不让慕容用手机的原因是要让咱和那边分开一段时间，要慕容以学习为重什么的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1994637109525975233",
+        "created_at": "2025-11-29T05:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994642009244815474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994642009244815474",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994638797817221242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在咱只能是偶尔偷偷用家长手机和外界联系，有的时候也可以找路人借手机打电话（不过只能用几分钟，毕竟咱也不敢一直借路人的设备嘛），或者是邮寄信件。\n电脑的话，感觉他们没有要去修的意思。而且他们说不让慕容用手机的原因是要让咱和那边分开一段时间，要慕容以学习为重什么的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1994637109525975233",
+        "created_at": "2025-11-29T05:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994638797817221242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994638797817221242",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994637109525975233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "于是（中间不重要的内容省略）开始吵架（中间大概有几个小时。摔了点其他东西，挨打了w），我妈说她把电脑砸了就好了，于是她就真的那么干了。\n然后咱的主要通讯工具就没了ww，当时好绝望的说……如果见不到大家了那么全部的情感寄托就没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 277,
+          "like_count": 4249,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 1077
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

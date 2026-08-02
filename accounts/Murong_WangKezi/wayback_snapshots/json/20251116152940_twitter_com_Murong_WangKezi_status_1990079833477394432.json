@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990079733208657920"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990079833477394432",
+    "created_at": "2025-11-16T15:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T16:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990079833477394432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8NmgfGadn6",
+          "end": 61,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/1990079833477394432/photo/1",
+          "media_key": "3_1990079733208657920",
+          "start": 38,
+          "url": "https://t.co/8NmgfGadn6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990079833477394432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于把那些人ban完了吗，现在私信请求里没有那些广告和“约吗”的垃圾信息了 https://t.co/8NmgfGadn6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1680,
+        "media_key": "3_1990079733208657920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54u-TSbMAAaWIP.jpg",
+        "width": 2520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990079733208657920"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990079833477394432",
+        "created_at": "2025-11-16T15:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990079833477394432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NmgfGadn6",
+              "end": 61,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/1990079833477394432/photo/1",
+              "media_key": "3_1990079733208657920",
+              "start": 38,
+              "url": "https://t.co/8NmgfGadn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990079833477394432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于把那些人ban完了吗，现在私信请求里没有那些广告和“约吗”的垃圾信息了 https://t.co/8NmgfGadn6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 282,
+          "like_count": 4185,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1030
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

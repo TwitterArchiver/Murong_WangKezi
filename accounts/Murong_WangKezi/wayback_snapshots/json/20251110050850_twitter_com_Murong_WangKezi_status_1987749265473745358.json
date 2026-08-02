@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1987749265473745358",
+    "created_at": "2025-11-10T05:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T06:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987749265473745358"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987749265473745358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实有的时候感觉一些精神障碍患者或者是一些持有创伤导致的特征的人还挺可怜的。\n咱认识一个人，她不太会和别人说话，经常在群里发哭的表情包。然后就是划手手什么的\n因为大家都不怎么能和她交流，所以渐渐的就没人理她了，她就更在群里哭\n可是这只是她的障碍的影响，又不是她本来就想这样子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1987749265473745358",
+        "created_at": "2025-11-10T05:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T06:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987749265473745358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987749265473745358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实有的时候感觉一些精神障碍患者或者是一些持有创伤导致的特征的人还挺可怜的。\n咱认识一个人，她不太会和别人说话，经常在群里发哭的表情包。然后就是划手手什么的\n因为大家都不怎么能和她交流，所以渐渐的就没人理她了，她就更在群里哭\n可是这只是她的障碍的影响，又不是她本来就想这样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 282,
+          "like_count": 4021,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 928
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

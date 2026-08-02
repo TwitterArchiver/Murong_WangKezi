@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051335163934806016",
+        "3_2051335163897114624",
+        "3_2051335163930673152"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2051335264510091638",
+    "created_at": "2026-05-04T16:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T17:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051335264510091638"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/15wubbqIJd",
+          "end": 53,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2051335264510091638/photo/1",
+          "media_key": "3_2051335163934806016",
+          "start": 30,
+          "url": "https://t.co/15wubbqIJd"
+        },
+        {
+          "display_url": "pic.x.com/15wubbqIJd",
+          "end": 53,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2051335264510091638/photo/1",
+          "media_key": "3_2051335163897114624",
+          "start": 30,
+          "url": "https://t.co/15wubbqIJd"
+        },
+        {
+          "display_url": "pic.x.com/15wubbqIJd",
+          "end": 53,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2051335264510091638/photo/1",
+          "media_key": "3_2051335163930673152",
+          "start": 30,
+          "url": "https://t.co/15wubbqIJd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051335264510091638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "西安电子科技大学雁塔校区\n我跑这么远过来还不让我进是吧ww https://t.co/15wubbqIJd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2051335163934806016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfOdpGaEAAfOuu.jpg",
+        "width": 2731
+      },
+      {
+        "height": 2184,
+        "media_key": "3_2051335163897114624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfOdo9a8AAky_4.jpg",
+        "width": 3276
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2051335163930673152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfOdpFbAAAg3op.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051335163934806016",
+            "3_2051335163897114624",
+            "3_2051335163930673152"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2051335264510091638",
+        "created_at": "2026-05-04T16:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051335264510091638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/15wubbqIJd",
+              "end": 53,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2051335264510091638/photo/1",
+              "media_key": "3_2051335163934806016",
+              "start": 30,
+              "url": "https://t.co/15wubbqIJd"
+            },
+            {
+              "display_url": "pic.x.com/15wubbqIJd",
+              "end": 53,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2051335264510091638/photo/1",
+              "media_key": "3_2051335163897114624",
+              "start": 30,
+              "url": "https://t.co/15wubbqIJd"
+            },
+            {
+              "display_url": "pic.x.com/15wubbqIJd",
+              "end": 53,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2051335264510091638/photo/1",
+              "media_key": "3_2051335163930673152",
+              "start": 30,
+              "url": "https://t.co/15wubbqIJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051335264510091638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西安电子科技大学雁塔校区\n我跑这么远过来还不让我进是吧ww https://t.co/15wubbqIJd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10（中间数次断药）\nfo得有自己发的内容，没有发帖或者全是转贴的、成分不对的不给fo\n（如果你很想要可以私信喵）\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2034612481734463789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 376,
+          "like_count": 7732,
+          "listed_count": 2,
+          "media_count": 260,
+          "tweet_count": 2387
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

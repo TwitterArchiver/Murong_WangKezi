@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1979482265672634743",
+    "created_at": "2025-10-18T09:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T10:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979482265672634743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1354157392959660038",
+          "start": 3,
+          "username": "translate_cn"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Watched a great talk today about web/technology accessibility, and the speaker pointed out that yes, accessibility is important for people with permanent disabilities, and we should definitely care...",
+          "display_url": "vaspider.tumblr.com/post/729338276…",
+          "end": 118,
+          "expanded_url": "https://vaspider.tumblr.com/post/729338276359634944/dzamie-delphinidin4-watched-a-great-talk-today",
+          "images": [
+            {
+              "height": 629,
+              "url": "https://pbs.twimg.com/news_img/1975858830077534208/YXyfQtrv?format=png&name=orig",
+              "width": 358
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1975858830077534208/YXyfQtrv?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 95,
+          "status": 200,
+          "title": "The Wizard House",
+          "unwound_url": "https://vaspider.tumblr.com/post/729338276359634944/dzamie-delphinidin4-watched-a-great-talk-today",
+          "url": "https://t.co/DlM0wj8UjV"
+        },
+        {
+          "display_url": "t.co/giWmeYF",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/giWmeYF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979482265672634743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806861650529796119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @translate_cn: 无障碍的便利措施可以帮助到每个人。因为即使你没有长期的身心障碍，你也可能会在某个情况或某个场景下陷入短期或暂时的有障碍状况，并需要某些便利措施的帮助。\n\nhttps://t.co/DlM0wj8UjV https://t.co/giWmeYF…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1806861648613064704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRNDGKPbwAAZVX7.jpg",
+        "width": 1059
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1979482265672634743",
+        "created_at": "2025-10-18T09:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T10:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979482265672634743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1354157392959660038",
+              "start": 3,
+              "username": "translate_cn"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Watched a great talk today about web/technology accessibility, and the speaker pointed out that yes, accessibility is important for people with permanent disabilities, and we should definitely care...",
+              "display_url": "vaspider.tumblr.com/post/729338276…",
+              "end": 118,
+              "expanded_url": "https://vaspider.tumblr.com/post/729338276359634944/dzamie-delphinidin4-watched-a-great-talk-today",
+              "images": [
+                {
+                  "height": 629,
+                  "url": "https://pbs.twimg.com/news_img/1975858830077534208/YXyfQtrv?format=png&name=orig",
+                  "width": 358
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1975858830077534208/YXyfQtrv?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 95,
+              "status": 200,
+              "title": "The Wizard House",
+              "unwound_url": "https://vaspider.tumblr.com/post/729338276359634944/dzamie-delphinidin4-watched-a-great-talk-today",
+              "url": "https://t.co/DlM0wj8UjV"
+            },
+            {
+              "display_url": "t.co/giWmeYF",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/giWmeYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979482265672634743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806861650529796119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @translate_cn: 无障碍的便利措施可以帮助到每个人。因为即使你没有长期的身心障碍，你也可能会在某个情况或某个场景下陷入短期或暂时的有障碍状况，并需要某些便利措施的帮助。\n\nhttps://t.co/DlM0wj8UjV https://t.co/giWmeYF…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1806861648613064704"
+          ]
+        },
+        "author_id": "1354157392959660038",
+        "conversation_id": "1806861650529796119",
+        "created_at": "2024-06-29T01:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T02:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806861650529796119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Watched a great talk today about web/technology accessibility, and the speaker pointed out that yes, accessibility is important for people with permanent disabilities, and we should definitely care...",
+              "display_url": "vaspider.tumblr.com/post/729338276…",
+              "end": 100,
+              "expanded_url": "https://vaspider.tumblr.com/post/729338276359634944/dzamie-delphinidin4-watched-a-great-talk-today",
+              "images": [
+                {
+                  "height": 629,
+                  "url": "https://pbs.twimg.com/news_img/1975858830077534208/YXyfQtrv?format=png&name=orig",
+                  "width": 358
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1975858830077534208/YXyfQtrv?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 77,
+              "status": 200,
+              "title": "The Wizard House",
+              "unwound_url": "https://vaspider.tumblr.com/post/729338276359634944/dzamie-delphinidin4-watched-a-great-talk-today",
+              "url": "https://t.co/DlM0wj8UjV"
+            },
+            {
+              "display_url": "pic.x.com/giWmeYFpOf",
+              "end": 124,
+              "expanded_url": "https://x.com/translate_cn/status/1806861650529796119/photo/1",
+              "media_key": "3_1806861648613064704",
+              "start": 101,
+              "url": "https://t.co/giWmeYFpOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806861650529796119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 10866,
+          "like_count": 126,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "无障碍的便利措施可以帮助到每个人。因为即使你没有长期的身心障碍，你也可能会在某个情况或某个场景下陷入短期或暂时的有障碍状况，并需要某些便利措施的帮助。\n\nhttps://t.co/DlM0wj8UjV https://t.co/giWmeYFpOf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 234,
+          "like_count": 3475,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 585
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T20:01:30.000Z",
+        "description": "这边是个人账号哦～ \n\n欢迎关注！欢迎贴贴！\n\n想要看我日常生活推的朋友请私信\n\n有意参与翻译的朋友请留言",
+        "id": "1354157392959660038",
+        "name": "推特翻译",
+        "pinned_tweet_id": "1856026041489498490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1354668835484225540/azcPVoB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16212,
+          "following_count": 639,
+          "like_count": 911,
+          "listed_count": 97,
+          "media_count": 9141,
+          "tweet_count": 9723
+        },
+        "username": "translate_cn",
+        "verified": false
+      }
+    ]
+  }
+}

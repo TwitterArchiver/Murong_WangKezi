@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2068703341576949826",
+    "created_at": "2026-06-21T14:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068703341576949826"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068703341576949826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚慕容妈在给慕容吹头发，那个古董吹风机冒火星子了好恐怖\n那个吹风机已经用了很久了。慕容很小的时候(大概四五岁)用那个吹干练书法的布(干燥的时候是白色沾水会变成黑色)的时候就看到里面有什么东西被烧红了，自从那以后慕容就不敢用那东西了。不过虽然给家长说了他们不管还要用，现在终于愿意换了w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2068703341576949826",
+        "created_at": "2026-06-21T14:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068703341576949826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068703341576949826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚慕容妈在给慕容吹头发，那个古董吹风机冒火星子了好恐怖\n那个吹风机已经用了很久了。慕容很小的时候(大概四五岁)用那个吹干练书法的布(干燥的时候是白色沾水会变成黑色)的时候就看到里面有什么东西被烧红了，自从那以后慕容就不敢用那东西了。不过虽然给家长说了他们不管还要用，现在终于愿意换了w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 377,
+          "like_count": 8478,
+          "listed_count": 2,
+          "media_count": 388,
+          "tweet_count": 2820
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

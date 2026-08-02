@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075143849102729217",
+        "3_2075143855654273024",
+        "3_2075143861119410176"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2075143866731159766",
+    "created_at": "2026-07-09T09:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075143866731159766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MZoQfV8BSz",
+          "end": 37,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2075143866731159766/photo/1",
+          "media_key": "3_2075143849102729217",
+          "start": 14,
+          "url": "https://t.co/MZoQfV8BSz"
+        },
+        {
+          "display_url": "pic.x.com/MZoQfV8BSz",
+          "end": 37,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2075143866731159766/photo/1",
+          "media_key": "3_2075143855654273024",
+          "start": 14,
+          "url": "https://t.co/MZoQfV8BSz"
+        },
+        {
+          "display_url": "pic.x.com/MZoQfV8BSz",
+          "end": 37,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2075143866731159766/photo/1",
+          "media_key": "3_2075143861119410176",
+          "start": 14,
+          "url": "https://t.co/MZoQfV8BSz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075143866731159766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "陕历博门票预约竞争过于激烈 https://t.co/MZoQfV8BSz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2664,
+        "media_key": "3_2075143849102729217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxkVg-a4AEOCjw.jpg",
+        "width": 1200
+      },
+      {
+        "height": 968,
+        "media_key": "3_2075143855654273024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxkV5YbgAArtVj.jpg",
+        "width": 1200
+      },
+      {
+        "height": 969,
+        "media_key": "3_2075143861119410176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxkWNva4AAJFhu.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075143849102729217",
+            "3_2075143855654273024",
+            "3_2075143861119410176"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2075143866731159766",
+        "created_at": "2026-07-09T09:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075143866731159766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZoQfV8BSz",
+              "end": 37,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2075143866731159766/photo/1",
+              "media_key": "3_2075143849102729217",
+              "start": 14,
+              "url": "https://t.co/MZoQfV8BSz"
+            },
+            {
+              "display_url": "pic.x.com/MZoQfV8BSz",
+              "end": 37,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2075143866731159766/photo/1",
+              "media_key": "3_2075143855654273024",
+              "start": 14,
+              "url": "https://t.co/MZoQfV8BSz"
+            },
+            {
+              "display_url": "pic.x.com/MZoQfV8BSz",
+              "end": 37,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2075143866731159766/photo/1",
+              "media_key": "3_2075143861119410176",
+              "start": 14,
+              "url": "https://t.co/MZoQfV8BSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075143866731159766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "陕历博门票预约竞争过于激烈 https://t.co/MZoQfV8BSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 381,
+          "like_count": 9269,
+          "listed_count": 2,
+          "media_count": 425,
+          "tweet_count": 3366
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1975097230853112264",
+    "created_at": "2025-10-06T09:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T10:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975126201212825869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1743964186064060416",
+          "start": 0,
+          "username": "DDr4_2133"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975126201212825869",
+    "in_reply_to_user_id": "1743964186064060416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975119770275152015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDr4_2133 知道了，谢谢你……\n下次再也不干吞了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1975097230853112264",
+        "created_at": "2025-10-06T09:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975126201212825869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1743964186064060416",
+              "start": 0,
+              "username": "DDr4_2133"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975126201212825869",
+        "in_reply_to_user_id": "1743964186064060416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975119770275152015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDr4_2133 知道了，谢谢你……\n下次再也不干吞了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743964186064060416",
+        "conversation_id": "1975097230853112264",
+        "created_at": "2025-10-06T08:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975119770275152015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975119770275152015",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975097230853112264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 盐酸干的坏事\n之前我干吞盐酸舍曲林粘食道上了，疼了半小时"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10晚上五点半\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 112,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 89,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 205,
+          "like_count": 2866,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 417
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T11:54:07.000Z",
+        "description": "男娘猫猫，mtx 头像是主力机 玩钢丝、PUBG、碧蓝航线、粥 喜看书（历史、纪实文学、日轻、社科） 欢迎找我聊天，可以当树洞",
+        "id": "1743964186064060416",
+        "location": "上海",
+        "name": "U.N.Owen Was her？",
+        "pinned_tweet_id": "1951457227644215335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915762502174228480/WUx-cROO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 948,
+          "like_count": 3869,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 376
+        },
+        "username": "DDr4_2133",
+        "verified": false
+      }
+    ]
+  }
+}

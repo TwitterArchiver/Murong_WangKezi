@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2015639073659187427",
+    "created_at": "2026-01-26T04:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T05:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015639073659187427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647229461769891842",
+          "start": 3,
+          "username": "DrilL019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015639073659187427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013903360320037192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DrilL019: 现请求：\n因我和我的行为而屏蔽我账号的朋友们，如有可能，恳请您在告别前 选择 通知我。您可能厌恶我的品行，但这不妨碍您行使仁慈的权利。感谢您的注视和理解，祝您一切顺利。\n此请求将长期置顶。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2015639073659187427",
+        "created_at": "2026-01-26T04:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T05:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015639073659187427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647229461769891842",
+              "start": 3,
+              "username": "DrilL019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015639073659187427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013903360320037192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DrilL019: 现请求：\n因我和我的行为而屏蔽我账号的朋友们，如有可能，恳请您在告别前 选择 通知我。您可能厌恶我的品行，但这不妨碍您行使仁慈的权利。感谢您的注视和理解，祝您一切顺利。\n此请求将长期置顶。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647229461769891842",
+        "conversation_id": "2013903360320037192",
+        "created_at": "2026-01-21T09:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T10:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013903360320037192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drill019/statu…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/drill019/status/2013902045540221043",
+              "start": 95,
+              "url": "https://t.co/jW2ZtZEKoA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013903360320037192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013902045540221043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现请求：\n因我和我的行为而屏蔽我账号的朋友们，如有可能，恳请您在告别前 选择 通知我。您可能厌恶我的品行，但这不妨碍您行使仁慈的权利。感谢您的注视和理解，祝您一切顺利。\n此请求将长期置顶。 https://t.co/jW2ZtZEKoA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2012544087677604124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 323,
+          "like_count": 5296,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1419
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "安得此身脫拘攣 舟載諸友長周旋｜Student 🇨🇳 发推少 主页不再转发好看的",
+        "id": "1647229461769891842",
+        "name": "DrilL019-B",
+        "pinned_tweet_id": "2013903360320037192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 354,
+          "like_count": 4290,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1753
+        },
+        "username": "DrilL019",
+        "verified": false
+      }
+    ]
+  }
+}

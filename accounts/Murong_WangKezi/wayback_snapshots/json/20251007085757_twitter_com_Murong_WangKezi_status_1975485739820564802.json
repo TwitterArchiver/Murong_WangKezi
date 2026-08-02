@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975037763347992576",
+        "3_1975037763335397377"
+      ],
+      "media_source_tweet_id": [
+        "1975037777109754069",
+        "1975037777109754069"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "1975485739820564802",
+    "created_at": "2025-10-07T08:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T09:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975485739820564802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1734492845958983680",
+          "start": 3,
+          "username": "Ruby0125210"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tcxyQVqOWO",
+          "end": 87,
+          "expanded_url": "https://x.com/Ruby0125210/status/1975037777109754069/photo/1",
+          "media_key": "3_1975037763347992576",
+          "start": 64,
+          "url": "https://t.co/tcxyQVqOWO"
+        },
+        {
+          "display_url": "pic.x.com/tcxyQVqOWO",
+          "end": 87,
+          "expanded_url": "https://x.com/Ruby0125210/status/1975037777109754069/photo/1",
+          "media_key": "3_1975037763335397377",
+          "start": 64,
+          "url": "https://t.co/tcxyQVqOWO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975485739820564802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975037777109754069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ruby0125210: 因为要交作业登了我妈的钉钉\n看到这些……\n想死了……\n好烦……\n好恶心……\n为什么要这样…… https://t.co/tcxyQVqOWO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_1975037763347992576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2i-Ya5W0AAKh85.jpg",
+        "width": 1048
+      },
+      {
+        "height": 619,
+        "media_key": "3_1975037763335397377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2i-Ya2WoAE9e68.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975037763347992576",
+            "3_1975037763335397377"
+          ],
+          "media_source_tweet_id": [
+            "1975037777109754069",
+            "1975037777109754069"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "1975485739820564802",
+        "created_at": "2025-10-07T08:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T09:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975485739820564802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1734492845958983680",
+              "start": 3,
+              "username": "Ruby0125210"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tcxyQVqOWO",
+              "end": 87,
+              "expanded_url": "https://x.com/Ruby0125210/status/1975037777109754069/photo/1",
+              "media_key": "3_1975037763347992576",
+              "start": 64,
+              "url": "https://t.co/tcxyQVqOWO"
+            },
+            {
+              "display_url": "pic.x.com/tcxyQVqOWO",
+              "end": 87,
+              "expanded_url": "https://x.com/Ruby0125210/status/1975037777109754069/photo/1",
+              "media_key": "3_1975037763335397377",
+              "start": 64,
+              "url": "https://t.co/tcxyQVqOWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975485739820564802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975037777109754069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ruby0125210: 因为要交作业登了我妈的钉钉\n看到这些……\n想死了……\n好烦……\n好恶心……\n为什么要这样…… https://t.co/tcxyQVqOWO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975037763347992576",
+            "3_1975037763335397377"
+          ]
+        },
+        "author_id": "1734492845958983680",
+        "conversation_id": "1975037777109754069",
+        "created_at": "2025-10-06T03:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T04:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975037777109754069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tcxyQVqOWO",
+              "end": 70,
+              "expanded_url": "https://x.com/Ruby0125210/status/1975037777109754069/photo/1",
+              "media_key": "3_1975037763347992576",
+              "start": 47,
+              "url": "https://t.co/tcxyQVqOWO"
+            },
+            {
+              "display_url": "pic.x.com/tcxyQVqOWO",
+              "end": 70,
+              "expanded_url": "https://x.com/Ruby0125210/status/1975037777109754069/photo/1",
+              "media_key": "3_1975037763335397377",
+              "start": 47,
+              "url": "https://t.co/tcxyQVqOWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975037777109754069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 407447,
+          "like_count": 960,
+          "quote_count": 9,
+          "reply_count": 154,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "因为要交作业登了我妈的钉钉\n看到这些……\n想死了……\n好烦……\n好恶心……\n为什么要这样…… https://t.co/tcxyQVqOWO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 107,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 84,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 212,
+          "like_count": 3005,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 432
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T08:38:32.000Z",
+        "description": "08年/无证不含糖🍥/渴望变成女孩子/intp/什么也不懂的ばか/同位体：@Sapphire0125210/欢迎同类互fo/关注啦就不要取消啦/🚪50加好友/不线下/希望被大家喜欢/希望被投喂（会掉落特殊素材哦）  不要上来就给咱发你那牛子照！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "Sapphire0125210"
+              }
+            ]
+          }
+        },
+        "id": "1734492845958983680",
+        "location": "Backrooms",
+        "name": "Ruby",
+        "pinned_tweet_id": "1901953967057465735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849073045052223488/aWZq_Mqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 482,
+          "like_count": 2909,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 726
+        },
+        "username": "Ruby0125210",
+        "verified": false
+      }
+    ]
+  }
+}

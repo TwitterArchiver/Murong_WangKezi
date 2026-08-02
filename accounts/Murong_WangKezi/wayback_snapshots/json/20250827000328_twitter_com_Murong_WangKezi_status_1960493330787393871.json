@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960493311216771072"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "1960447099235131763",
+    "created_at": "2025-08-27T00:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T01:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960493330787393871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795785939438215168",
+          "start": 0,
+          "username": "EMeowSys"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vNbtmfvPsp",
+          "end": 38,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/1960493330787393871/photo/1",
+          "media_key": "3_1960493311216771072",
+          "start": 15,
+          "url": "https://t.co/vNbtmfvPsp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960493330787393871",
+    "in_reply_to_user_id": "1795785939438215168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960447099235131763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EMeowSys 错别字喵 https://t.co/vNbtmfvPsp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 190,
+        "media_key": "3_1960493311216771072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzUSR4ea4AAzipb.jpg",
+        "width": 1046
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1960447088891977728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzToPY5a4AA1vlJ.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960493311216771072"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "1960447099235131763",
+        "created_at": "2025-08-27T00:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T01:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960493330787393871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795785939438215168",
+              "start": 0,
+              "username": "EMeowSys"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vNbtmfvPsp",
+              "end": 38,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/1960493330787393871/photo/1",
+              "media_key": "3_1960493311216771072",
+              "start": 15,
+              "url": "https://t.co/vNbtmfvPsp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960493330787393871",
+        "in_reply_to_user_id": "1795785939438215168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960447099235131763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EMeowSys 错别字喵 https://t.co/vNbtmfvPsp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960447088891977728"
+          ]
+        },
+        "author_id": "1795785939438215168",
+        "conversation_id": "1960447099235131763",
+        "created_at": "2025-08-26T20:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T21:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960447099235131763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TqK8LiqeIj",
+              "end": 93,
+              "expanded_url": "https://x.com/EMeowSys/status/1960447099235131763/photo/1",
+              "media_key": "3_1960447088891977728",
+              "start": 70,
+              "url": "https://t.co/TqK8LiqeIj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960447099235131763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "赛博猫窝首炸（\n原因是snapshots相关钩子写grub.cfg时掉电 导致grub选项损坏）\n为什么掉电 不知道 只能归咎与 硬件问题 https://t.co/TqK8LiqeIj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10晚上五点半\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 81,
+          "like_count": 651,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T11:55:18.000Z",
+        "description": "这里易喵系统/末影猫/BG5CYK\n自发型/创伤型多意识体\nCN/EN/JP学习中\n社交渴望\n墙内活跃\n二次元/业余无线电/轨道交通/程序设计/Minecraft",
+        "id": "1795785939438215168",
+        "location": "虚空中的易喵系统",
+        "name": "易喵系统(末影猫Project)",
+        "pinned_tweet_id": "1871807716202791352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795786104316272640/IXVNkPY1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 1515,
+          "like_count": 4745,
+          "listed_count": 4,
+          "media_count": 299,
+          "tweet_count": 2931
+        },
+        "username": "EMeowSys",
+        "verified": false
+      }
+    ]
+  }
+}

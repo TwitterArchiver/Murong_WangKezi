@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071142076985798656"
+      ],
+      "media_source_tweet_id": [
+        "2071142087832322197"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2071187914860732492",
+    "created_at": "2026-06-28T11:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071187914860732492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1202911371521744898",
+          "start": 3,
+          "username": "HulunSi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VYCq4GHwJr",
+          "end": 111,
+          "expanded_url": "https://x.com/HulunSi/status/2071142087832322197/photo/1",
+          "media_key": "3_2071142076985798656",
+          "start": 88,
+          "url": "https://t.co/VYCq4GHwJr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071187914860732492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071142087832322197",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HulunSi: 学校里某教学楼，专门采购了几台有着很大的触摸显示屏的windows电脑，但只用来开着某个放在本地的网页当可交互的幻灯片用。\n\n感觉有点大炮打蚊子了。 https://t.co/VYCq4GHwJr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2071142076985798656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4svuIacAAV3jZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071142076985798656"
+          ],
+          "media_source_tweet_id": [
+            "2071142087832322197"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2071187914860732492",
+        "created_at": "2026-06-28T11:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071187914860732492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1202911371521744898",
+              "start": 3,
+              "username": "HulunSi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VYCq4GHwJr",
+              "end": 111,
+              "expanded_url": "https://x.com/HulunSi/status/2071142087832322197/photo/1",
+              "media_key": "3_2071142076985798656",
+              "start": 88,
+              "url": "https://t.co/VYCq4GHwJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071187914860732492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071142087832322197",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HulunSi: 学校里某教学楼，专门采购了几台有着很大的触摸显示屏的windows电脑，但只用来开着某个放在本地的网页当可交互的幻灯片用。\n\n感觉有点大炮打蚊子了。 https://t.co/VYCq4GHwJr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071142076985798656"
+          ]
+        },
+        "author_id": "1202911371521744898",
+        "conversation_id": "2071142087832322197",
+        "created_at": "2026-06-28T08:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071142087832322197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VYCq4GHwJr",
+              "end": 98,
+              "expanded_url": "https://x.com/HulunSi/status/2071142087832322197/photo/1",
+              "media_key": "3_2071142076985798656",
+              "start": 75,
+              "url": "https://t.co/VYCq4GHwJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071142087832322197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校里某教学楼，专门采购了几台有着很大的触摸显示屏的windows电脑，但只用来开着某个放在本地的网页当可交互的幻灯片用。\n\n感觉有点大炮打蚊子了。 https://t.co/VYCq4GHwJr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 380,
+          "like_count": 8920,
+          "listed_count": 2,
+          "media_count": 401,
+          "tweet_count": 3169
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-06T11:23:42.000Z",
+        "description": "23级计科本科在读/AMAB/友跨🏳️‍⚧️/🌈/infp 非常社恐几乎不会主动社交如果有事还请积极主动来找我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/HuLunTunTao",
+                "end": 23,
+                "expanded_url": "https://github.com/HuLunTunTao",
+                "start": 0,
+                "url": "https://t.co/ldvKax9SKq"
+              }
+            ]
+          }
+        },
+        "id": "1202911371521744898",
+        "location": "🏫北京海淀 🏠广东",
+        "name": "惠通",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1362356059856232448/smupo3Ly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 224,
+          "like_count": 270,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 119
+        },
+        "url": "https://t.co/ldvKax9SKq",
+        "username": "HulunSi",
+        "verified": false
+      }
+    ]
+  }
+}

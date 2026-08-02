@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2080291759029137791",
+    "created_at": "2026-07-23T14:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T15:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080295010269122739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1700547797026476032",
+          "start": 0,
+          "username": "haitao_li24917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080295010269122739",
+    "in_reply_to_user_id": "1700547797026476032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080293171120996567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haitao_li24917 傲娇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 834,
+        "media_key": "3_2080293163302809600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6vnDNWcAAGCTX.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2080291759029137791",
+        "created_at": "2026-07-23T14:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080295010269122739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1700547797026476032",
+              "start": 0,
+              "username": "haitao_li24917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080295010269122739",
+        "in_reply_to_user_id": "1700547797026476032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080293171120996567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haitao_li24917 傲娇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080293163302809600"
+          ]
+        },
+        "author_id": "1700547797026476032",
+        "conversation_id": "2080291759029137791",
+        "created_at": "2026-07-23T14:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080293171120996567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/31luk3AxUb",
+              "end": 51,
+              "expanded_url": "https://x.com/haitao_li24917/status/2080293171120996567/photo/1",
+              "media_key": "3_2080293163302809600",
+              "start": 28,
+              "url": "https://t.co/31luk3AxUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080293171120996567",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080291759029137791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 我还是那句话\n苹果： https://t.co/31luk3AxUb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 382,
+          "like_count": 9789,
+          "listed_count": 2,
+          "media_count": 541,
+          "tweet_count": 3809
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-09T16:32:54.000Z",
+        "description": "彩笔写代码的\n社会闲散人员",
+        "id": "1700547797026476032",
+        "location": "Hamilton, Ontario",
+        "name": "AAA带虫炒饭批发李工",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997510214426189824/I1BQ9C0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 331,
+          "like_count": 10495,
+          "listed_count": 1,
+          "media_count": 421,
+          "tweet_count": 1665
+        },
+        "url": "",
+        "username": "haitao_li24917",
+        "verified": false
+      }
+    ]
+  }
+}

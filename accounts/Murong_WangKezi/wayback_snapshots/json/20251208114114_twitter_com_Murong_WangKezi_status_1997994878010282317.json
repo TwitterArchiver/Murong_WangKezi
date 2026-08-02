@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1997994878010282317",
+    "created_at": "2025-12-08T11:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T12:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997994878010282317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678530197153521665",
+          "start": 3,
+          "username": "SkrMiryth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997994878010282317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996498288074494096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SkrMiryth: 其实。。。我觉得自己挺fw的 \n但是我xm别人的同时\n居然也有人xm我🤐\n（其实感觉别人xm我像是一种有目地的恭维）（但我是fw😭）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1997994878010282317",
+        "created_at": "2025-12-08T11:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T12:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997994878010282317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678530197153521665",
+              "start": 3,
+              "username": "SkrMiryth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997994878010282317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996498288074494096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SkrMiryth: 其实。。。我觉得自己挺fw的 \n但是我xm别人的同时\n居然也有人xm我🤐\n（其实感觉别人xm我像是一种有目地的恭维）（但我是fw😭）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678530197153521665",
+        "conversation_id": "1996498288074494096",
+        "created_at": "2025-12-04T08:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T09:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996498288074494096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996498288074494096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实。。。我觉得自己挺fw的 \n但是我xm别人的同时\n居然也有人xm我🤐\n（其实感觉别人xm我像是一种有目地的恭维）（但我是fw😭）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1994637109525975233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 281,
+          "like_count": 4531,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1216
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T22:22:44.000Z",
+        "description": "ENFP/猥琐猪头肉or可爱的男孩/稀有的光遇玩家/永远喜欢风神大人巴巴托斯！/背叛抛弃褪尽 努力让自己相信才有光明",
+        "id": "1678530197153521665",
+        "name": "Skr.Miryth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994998149073833993/O8aVi2cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 84,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 36
+        },
+        "username": "SkrMiryth",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1996178383949156520",
+    "created_at": "2025-12-03T11:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T12:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996178383949156520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1581226356326617088",
+          "start": 3,
+          "username": "Furina_8620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996178383949156520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995110653548540360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Furina_8620: 不对不对，地球game不是这么玩的，你怎么一直在和我挑起文化/种族/性别/国家对立啊？你不应该和我一起构建和平世界，和我吟唱同住地球村，然后一起探讨世界大同，人人平等，人类和平，社会应该怎样才能进步，君子和而不同吗？现在是什么意思啊🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1996178383949156520",
+        "created_at": "2025-12-03T11:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996178383949156520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1581226356326617088",
+              "start": 3,
+              "username": "Furina_8620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996178383949156520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995110653548540360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Furina_8620: 不对不对，地球game不是这么玩的，你怎么一直在和我挑起文化/种族/性别/国家对立啊？你不应该和我一起构建和平世界，和我吟唱同住地球村，然后一起探讨世界大同，人人平等，人类和平，社会应该怎样才能进步，君子和而不同吗？现在是什么意思啊🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581226356326617088",
+        "conversation_id": "1995110653548540360",
+        "created_at": "2025-11-30T12:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995110653548540360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995110653548540360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不对不对，地球game不是这么玩的，你怎么一直在和我挑起文化/种族/性别/国家对立啊？你不应该和我一起构建和平世界，和我吟唱同住地球村，然后一起探讨世界大同，人人平等，人类和平，社会应该怎样才能进步，君子和而不同吗？现在是什么意思啊🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1994637109525975233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 278,
+          "like_count": 4367,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1148
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T10:12:10.000Z",
+        "description": "迷子東北亞鐵路航空歷史學家旅行家/遠視主義/音樂爱好者&鋼琴业余十级/時代症候/AuADHD&MTF",
+        "id": "1581226356326617088",
+        "location": "黑塔空间站",
+        "name": "迷子萬里通",
+        "pinned_tweet_id": "1964345147820310669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982762757121261568/CUZYnYq__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 295,
+          "like_count": 5209,
+          "listed_count": 1,
+          "media_count": 328,
+          "tweet_count": 1181
+        },
+        "username": "Furina_8620",
+        "verified": false
+      }
+    ]
+  }
+}

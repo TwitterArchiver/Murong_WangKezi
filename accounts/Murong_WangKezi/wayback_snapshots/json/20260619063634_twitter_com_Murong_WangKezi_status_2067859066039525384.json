@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2067859066039525384",
+    "created_at": "2026-06-19T06:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067859066039525384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1564789812615598080",
+          "start": 3,
+          "username": "Billowblock"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067859066039525384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044239781786464324",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Billowblock: 让我睡不着觉的不应该是导师的臭脸，发不出去的文章和没结果的实验吗？舍友成宿打呼噜算什么，为什么老娘都熬到硕士了还要忍受这些东西？\n一晚上只睡了不到四个小时，中间被呼噜声吵醒三次，凌晨四点之后就再也睡不着了。\n早上心脏好难受，胸闷，耳鸣，头疼。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2067859066039525384",
+        "created_at": "2026-06-19T06:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067859066039525384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1564789812615598080",
+              "start": 3,
+              "username": "Billowblock"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067859066039525384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044239781786464324",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Billowblock: 让我睡不着觉的不应该是导师的臭脸，发不出去的文章和没结果的实验吗？舍友成宿打呼噜算什么，为什么老娘都熬到硕士了还要忍受这些东西？\n一晚上只睡了不到四个小时，中间被呼噜声吵醒三次，凌晨四点之后就再也睡不着了。\n早上心脏好难受，胸闷，耳鸣，头疼。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564789812615598080",
+        "conversation_id": "2044239781786464324",
+        "created_at": "2026-04-15T02:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T03:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044239781786464324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044239781786464324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 792,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "让我睡不着觉的不应该是导师的臭脸，发不出去的文章和没结果的实验吗？舍友成宿打呼噜算什么，为什么老娘都熬到硕士了还要忍受这些东西？\n一晚上只睡了不到四个小时，中间被呼噜声吵醒三次，凌晨四点之后就再也睡不着了。\n早上心脏好难受，胸闷，耳鸣，头疼。\n抱着大尕子哭哭哭哭哭，还要上早八！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2034612481734463789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 377,
+          "like_count": 8394,
+          "listed_count": 2,
+          "media_count": 374,
+          "tweet_count": 2760
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T01:39:07.000Z",
+        "description": "且视他人之疑目如盏盏鬼火，大胆地去走你的夜路。",
+        "id": "1564789812615598080",
+        "location": "大连/西安（学校）",
+        "name": "湛荏染",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907646702535979010/3hZudPp1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 265,
+          "like_count": 5453,
+          "listed_count": 4,
+          "media_count": 310,
+          "tweet_count": 1560
+        },
+        "url": "",
+        "username": "Billowblock",
+        "verified": false
+      }
+    ]
+  }
+}

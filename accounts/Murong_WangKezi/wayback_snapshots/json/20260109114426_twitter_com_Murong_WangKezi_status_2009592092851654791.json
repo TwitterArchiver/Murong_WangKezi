@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2009592092851654791",
+    "created_at": "2026-01-09T11:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T12:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009592092851654791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818812853471920131",
+          "start": 3,
+          "username": "chen989524"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009592092851654791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009288945754890299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chen989524: 讨厌在别人旁边抽烟的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2009592092851654791",
+        "created_at": "2026-01-09T11:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009592092851654791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818812853471920131",
+              "start": 3,
+              "username": "chen989524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009592092851654791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009288945754890299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chen989524: 讨厌在别人旁边抽烟的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818812853471920131",
+        "conversation_id": "2009288945754890299",
+        "created_at": "2026-01-08T15:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T16:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009288945754890299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009288945754890299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌在别人旁边抽烟的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 315,
+          "like_count": 5080,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1390
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T00:56:02.000Z",
+        "description": "何意味/mtf/出厂日期2006.8.24/2025.11.18无证含糖/181 65kg/自恨/家长党/重度焦虑中/苦逼大学生/已出柜/重女/双性恋/全世界最好的姐姐 @shengge1212",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "shengge1212"
+              }
+            ]
+          }
+        },
+        "id": "1818812853471920131",
+        "location": "月球",
+        "name": "达不溜w🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818813109576122368/u-iNi3CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 54,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 341
+        },
+        "username": "chen989524",
+        "verified": false
+      }
+    ]
+  }
+}

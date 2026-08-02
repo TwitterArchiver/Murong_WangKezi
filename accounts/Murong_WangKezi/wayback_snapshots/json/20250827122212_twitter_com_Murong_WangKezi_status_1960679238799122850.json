@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1960679067310809429",
+    "created_at": "2025-08-27T12:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T13:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960679238799122850"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1960679238799122850",
+    "in_reply_to_user_id": "1870315714638385152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960679067310809429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第二部分\n好奇怪，难道这是我的问题嘛？她的意思难道是要为了省几百块钱要我装出没问题的样子嘛？而且医生也说了，如果有裸露神经不做根冠治疗的话直接补就会一直疼……肯定也用不了……为什么就这么莫名被骂了啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1960679067310809429",
+        "created_at": "2025-08-27T12:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960679238799122850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960679238799122850",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960679067310809429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第二部分\n好奇怪，难道这是我的问题嘛？她的意思难道是要为了省几百块钱要我装出没问题的样子嘛？而且医生也说了，如果有裸露神经不做根冠治疗的话直接补就会一直疼……肯定也用不了……为什么就这么莫名被骂了啊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1960679067310809429",
+        "created_at": "2025-08-27T12:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960679067310809429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960679067310809429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分两个帖子(在回复)\n今天中午我妈带我去补牙。医生说如果碰的时候疼就说明有可能损坏的位置已经接近到神经了，如果有裸露神经的话就需要做根冠治疗(会更贵一点)因为当时损坏的位置一碰就是很痛，一碰就忍不住躲开。然后我妈就说先不弄了，花了10块检查费。出了诊所就骂我“傻逼”（啊没错，就是原词）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10晚上五点半\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1960620409554133334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 92,
+          "like_count": 835,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

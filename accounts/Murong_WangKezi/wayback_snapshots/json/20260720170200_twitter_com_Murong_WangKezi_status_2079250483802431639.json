@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2079004432247996836",
+    "created_at": "2026-07-20T17:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079250483802431639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053864757329817600",
+          "start": 0,
+          "username": "today_is_foggy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079250483802431639",
+    "in_reply_to_user_id": "2053864757329817600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079004432247996836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@today_is_foggy 和我一样（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2079004378120531968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNobd4RbMAAwGck.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2079004395019337728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNobe3OagAA61z_.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2079004406692118528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNobfitbAAAHXRT.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2079004421758074880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNobga1bQAABj-x.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2079004432247996836",
+        "created_at": "2026-07-20T17:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079250483802431639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053864757329817600",
+              "start": 0,
+              "username": "today_is_foggy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079250483802431639",
+        "in_reply_to_user_id": "2053864757329817600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079004432247996836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@today_is_foggy 和我一样（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079004378120531968",
+            "3_2079004395019337728",
+            "3_2079004406692118528",
+            "3_2079004421758074880"
+          ]
+        },
+        "author_id": "2053864757329817600",
+        "conversation_id": "2079004432247996836",
+        "created_at": "2026-07-20T00:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079004432247996836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhwPrb0zK7",
+              "end": 30,
+              "expanded_url": "https://x.com/today_is_foggy/status/2079004432247996836/photo/1",
+              "media_key": "3_2079004378120531968",
+              "start": 7,
+              "url": "https://t.co/bhwPrb0zK7"
+            },
+            {
+              "display_url": "pic.x.com/bhwPrb0zK7",
+              "end": 30,
+              "expanded_url": "https://x.com/today_is_foggy/status/2079004432247996836/photo/1",
+              "media_key": "3_2079004395019337728",
+              "start": 7,
+              "url": "https://t.co/bhwPrb0zK7"
+            },
+            {
+              "display_url": "pic.x.com/bhwPrb0zK7",
+              "end": 30,
+              "expanded_url": "https://x.com/today_is_foggy/status/2079004432247996836/photo/1",
+              "media_key": "3_2079004406692118528",
+              "start": 7,
+              "url": "https://t.co/bhwPrb0zK7"
+            },
+            {
+              "display_url": "pic.x.com/bhwPrb0zK7",
+              "end": 30,
+              "expanded_url": "https://x.com/today_is_foggy/status/2079004432247996836/photo/1",
+              "media_key": "3_2079004421758074880",
+              "start": 7,
+              "url": "https://t.co/bhwPrb0zK7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079004432247996836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炊烟，寺庙。 https://t.co/bhwPrb0zK7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 382,
+          "like_count": 9691,
+          "listed_count": 2,
+          "media_count": 522,
+          "tweet_count": 3715
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T15:48:30.000Z",
+        "description": "这里是大雾！可以叫咱大雾ww，二次元，笨蛋，无糖，不od、割手，什么都会一点但什么都做不好，只要接纳咱那一定会有反馈的说ww接触过的东西有好多，但都很入门...航空航天 时事政治 摄影 化妆 化学 锻炼健身 番剧游戏 还自己学过一点c和Python...希望有人可以来找咱聊天什么的。",
+        "id": "2053864757329817600",
+        "location": "成都  山东上学",
+        "name": "今天是大雾！",
+        "pinned_tweet_id": "2075249973487104381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073740142737846272/5wS-JDPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 100,
+          "like_count": 1335,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 808
+        },
+        "url": "",
+        "username": "today_is_foggy",
+        "verified": false
+      }
+    ]
+  }
+}

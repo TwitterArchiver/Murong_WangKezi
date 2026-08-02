@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057816870481498112"
+      ],
+      "media_source_tweet_id": [
+        "2057816910482604268"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2058215218912907716",
+    "created_at": "2026-05-23T15:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058215218912907716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2015262397678993408",
+          "start": 3,
+          "username": "wishtcday"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZAZz8FgTPr",
+          "end": 44,
+          "expanded_url": "https://x.com/wishtcday/status/2057816910482604268/photo/1",
+          "media_key": "3_2057816870481498112",
+          "start": 21,
+          "url": "https://t.co/ZAZz8FgTPr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058215218912907716",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1620
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057816910482604268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wishtcday: 站台四象限 https://t.co/ZAZz8FgTPr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1175,
+        "media_key": "3_2057816870481498112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7VinnbEAAEMh0.jpg",
+        "width": 621
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057816870481498112"
+          ],
+          "media_source_tweet_id": [
+            "2057816910482604268"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2058215218912907716",
+        "created_at": "2026-05-23T15:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058215218912907716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2015262397678993408",
+              "start": 3,
+              "username": "wishtcday"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZAZz8FgTPr",
+              "end": 44,
+              "expanded_url": "https://x.com/wishtcday/status/2057816910482604268/photo/1",
+              "media_key": "3_2057816870481498112",
+              "start": 21,
+              "url": "https://t.co/ZAZz8FgTPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058215218912907716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1620
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057816910482604268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wishtcday: 站台四象限 https://t.co/ZAZz8FgTPr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057816870481498112"
+          ]
+        },
+        "author_id": "2015262397678993408",
+        "conversation_id": "2057816910482604268",
+        "created_at": "2026-05-22T13:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057816910482604268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZAZz8FgTPr",
+              "end": 29,
+              "expanded_url": "https://x.com/wishtcday/status/2057816910482604268/photo/1",
+              "media_key": "3_2057816870481498112",
+              "start": 6,
+              "url": "https://t.co/ZAZz8FgTPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057816910482604268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1046,
+          "impression_count": 212745,
+          "like_count": 18737,
+          "quote_count": 25,
+          "reply_count": 204,
+          "retweet_count": 1620
+        },
+        "reply_settings": "everyone",
+        "text": "站台四象限 https://t.co/ZAZz8FgTPr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2034612481734463789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 377,
+          "like_count": 7943,
+          "listed_count": 2,
+          "media_count": 282,
+          "tweet_count": 2492
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T03:16:29.000Z",
+        "description": "西楚人氏，家父马斯克，\n咸鱼梦想家，记录过程，狂吹结果\n推特冷启动教主，单日曝光1500w\n同胞兄弟：@ListenerEight",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "ListenerEight"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zhongwentwitter",
+                "end": 23,
+                "expanded_url": "http://t.me/zhongwentwitter",
+                "start": 0,
+                "url": "https://t.co/Acn9qoIpSU"
+              }
+            ]
+          }
+        },
+        "id": "2015262397678993408",
+        "location": "Mars",
+        "name": "Cboy",
+        "pinned_tweet_id": "2038922618020192469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019344705507737600/dA70UEw7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6989,
+          "following_count": 884,
+          "like_count": 10423,
+          "listed_count": 16,
+          "media_count": 654,
+          "tweet_count": 9141
+        },
+        "url": "https://t.co/Acn9qoIpSU",
+        "username": "wishtcday",
+        "verified": true
+      }
+    ]
+  }
+}

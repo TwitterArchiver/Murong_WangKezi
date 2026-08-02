@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067276246493622272",
+        "3_2067276246602723328"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2067276250079805619",
+    "created_at": "2026-06-17T16:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067276250079805619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ibd4da4CHL",
+          "end": 45,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2067276250079805619/photo/1",
+          "media_key": "3_2067276246493622272",
+          "start": 22,
+          "url": "https://t.co/Ibd4da4CHL"
+        },
+        {
+          "display_url": "pic.x.com/Ibd4da4CHL",
+          "end": 45,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2067276250079805619/photo/1",
+          "media_key": "3_2067276246602723328",
+          "start": 22,
+          "url": "https://t.co/Ibd4da4CHL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067276250079805619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第三题很明显选天坛，这当然是我们西安的啦～ https://t.co/Ibd4da4CHL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067276246493622272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBwyxTa8AA3M4C.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067276246602723328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBwyxtbsAA5Zzo.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067276246493622272",
+            "3_2067276246602723328"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2067276250079805619",
+        "created_at": "2026-06-17T16:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067276250079805619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ibd4da4CHL",
+              "end": 45,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2067276250079805619/photo/1",
+              "media_key": "3_2067276246493622272",
+              "start": 22,
+              "url": "https://t.co/Ibd4da4CHL"
+            },
+            {
+              "display_url": "pic.x.com/Ibd4da4CHL",
+              "end": 45,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2067276250079805619/photo/1",
+              "media_key": "3_2067276246602723328",
+              "start": 22,
+              "url": "https://t.co/Ibd4da4CHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067276250079805619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第三题很明显选天坛，这当然是我们西安的啦～ https://t.co/Ibd4da4CHL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2034612481734463789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 377,
+          "like_count": 8350,
+          "listed_count": 2,
+          "media_count": 371,
+          "tweet_count": 2710
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

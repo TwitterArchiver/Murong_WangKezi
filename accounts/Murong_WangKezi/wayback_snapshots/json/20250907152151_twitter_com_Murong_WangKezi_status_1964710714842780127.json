@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1964710714842780127",
+    "created_at": "2025-09-07T15:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T16:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964710714842780127"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1964710714842780127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "统计了一下家里有的精神药品，应该就这些了。\n*有盒装的有散的，真不好翻。还有输入法只记住了我常用的药名，输入陌生药名好麻烦\n\n阿普挫仑\n米氮平\n碳酸锂\n喹硫平\n度洛西汀\n奥氮平\n盐酸文拉法辛胶囊\n劳拉西泮\n盐酸安非他酮缓释片 ii\n枸橼酸坦度螺酮胶囊\n枸橼酸坦度螺酮片\n(目前只有最后一个是给我开的)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1964710714842780127",
+        "created_at": "2025-09-07T15:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T16:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964710714842780127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964710714842780127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "统计了一下家里有的精神药品，应该就这些了。\n*有盒装的有散的，真不好翻。还有输入法只记住了我常用的药名，输入陌生药名好麻烦\n\n阿普挫仑\n米氮平\n碳酸锂\n喹硫平\n度洛西汀\n奥氮平\n盐酸文拉法辛胶囊\n劳拉西泮\n盐酸安非他酮缓释片 ii\n枸橼酸坦度螺酮胶囊\n枸橼酸坦度螺酮片\n(目前只有最后一个是给我开的)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10晚上五点半\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 112,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 89,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961732905568539083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 157,
+          "like_count": 1256,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 266
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2063174703351832721",
+    "created_at": "2026-06-06T08:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T09:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063174703351832721"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063174703351832721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "西安市气象台2026年06月05日23时45分发布暴雨黄色预警信号：预计未来6小时内新城区、碑林区、莲湖区、雁塔区、灞桥区、未央区、阎良区、临潼区、长安区、高陵区、鄠邑区、周至县、蓝田县、西咸新区局地有短时暴雨，最大小时雨强20-40毫米，个别点累计降雨量将达50毫米以上，请注意防范。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2063174703351832721",
+        "created_at": "2026-06-06T08:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063174703351832721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063174703351832721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西安市气象台2026年06月05日23时45分发布暴雨黄色预警信号：预计未来6小时内新城区、碑林区、莲湖区、雁塔区、灞桥区、未央区、阎良区、临潼区、长安区、高陵区、鄠邑区、周至县、蓝田县、西咸新区局地有短时暴雨，最大小时雨强20-40毫米，个别点累计降雨量将达50毫米以上，请注意防范。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2034612481734463789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 374,
+          "like_count": 8102,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 2566
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

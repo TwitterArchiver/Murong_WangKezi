@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2071141774727454991",
+    "created_at": "2026-06-28T12:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071212198740070736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1980483857863655424",
+          "start": 0,
+          "username": "KamisatoSeele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071212198740070736",
+    "in_reply_to_user_id": "1980483857863655424",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071194698035896669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KamisatoSeele ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2071141774727454991",
+        "created_at": "2026-06-28T12:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071212198740070736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1980483857863655424",
+              "start": 0,
+              "username": "KamisatoSeele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071212198740070736",
+        "in_reply_to_user_id": "1980483857863655424",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071194698035896669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KamisatoSeele ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980483857863655424",
+        "conversation_id": "2071141774727454991",
+        "created_at": "2026-06-28T11:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071194698035896669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071194698035896669",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071141774727454991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 380,
+          "like_count": 8923,
+          "listed_count": 2,
+          "media_count": 404,
+          "tweet_count": 3175
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T03:58:50.000Z",
+        "description": "无证 | MtF | \n我们的存在就是对恶意最大的反抗！",
+        "id": "1980483857863655424",
+        "location": "神里家",
+        "name": "Shizuku Kamisato",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071074851805380608/s3YqEjBO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 150,
+          "like_count": 1032,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 584
+        },
+        "url": "",
+        "username": "KamisatoSeele",
+        "verified": false
+      }
+    ]
+  }
+}

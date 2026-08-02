@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1977360344822456469",
+    "created_at": "2025-10-12T13:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T14:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977360344822456469"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1977360344822456469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很奇怪，为什么明明知道每个人的喜好不一样，那为什么还要坐一桌吃同一顿饭呢？\n各人吃各人的饭，做自己的事情多好，为什么要用家庭这个东西把一些性格和喜好相差很大的人强制绑定在一起。这样没有矛盾才怪呢！\n（*气鼓鼓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1977360344822456469",
+        "created_at": "2025-10-12T13:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T14:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977360344822456469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977360344822456469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很奇怪，为什么明明知道每个人的喜好不一样，那为什么还要坐一桌吃同一顿饭呢？\n各人吃各人的饭，做自己的事情多好，为什么要用家庭这个东西把一些性格和喜好相差很大的人强制绑定在一起。这样没有矛盾才怪呢！\n（*气鼓鼓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 107,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 84,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 226,
+          "like_count": 3220,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 480
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

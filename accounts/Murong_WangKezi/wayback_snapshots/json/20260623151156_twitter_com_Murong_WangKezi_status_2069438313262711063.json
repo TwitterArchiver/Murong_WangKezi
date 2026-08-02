@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2069024111700103663",
+    "created_at": "2026-06-23T15:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T16:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069438313262711063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2046283772455485440",
+          "start": 0,
+          "username": "AubreyCamilleuu"
+        },
+        {
+          "end": 31,
+          "id": "2006004702975254534",
+          "start": 17,
+          "username": "super1112hugh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069438313262711063",
+    "in_reply_to_user_id": "2046283772455485440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069436705833357749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AubreyCamilleuu @super1112hugh 哇哦，大家都好有趣ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2069024111700103663",
+        "created_at": "2026-06-23T15:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069438313262711063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046283772455485440",
+              "start": 0,
+              "username": "AubreyCamilleuu"
+            },
+            {
+              "end": 31,
+              "id": "2006004702975254534",
+              "start": 17,
+              "username": "super1112hugh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069438313262711063",
+        "in_reply_to_user_id": "2046283772455485440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069436705833357749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AubreyCamilleuu @super1112hugh 哇哦，大家都好有趣ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046283772455485440",
+        "conversation_id": "2069024111700103663",
+        "created_at": "2026-06-23T15:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069436705833357749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2006004702975254534",
+              "start": 0,
+              "username": "super1112hugh"
+            },
+            {
+              "end": 31,
+              "id": "1870315714638385152",
+              "start": 15,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069436705833357749",
+        "in_reply_to_user_id": "2006004702975254534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069304139822329978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@super1112hugh @Murong_WangKezi 我是因为顺女同学给我分享了一本书叫《好想做个女孩子》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 379,
+          "like_count": 8555,
+          "listed_count": 2,
+          "media_count": 390,
+          "tweet_count": 2892
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T17:44:16.000Z",
+        "description": "你要当个不闻窗外事的痴女孩",
+        "id": "2046283772455485440",
+        "name": "沅子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069385662277754880/WVsxZWOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 166,
+          "like_count": 1045,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "AubreyCamilleuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T14:09:39.000Z",
+        "description": "amab,一个03年的小透明mtf,深柜transition中,希望把x当成一个分享生活和感想的树洞吧，喵～",
+        "id": "2006004702975254534",
+        "name": "Julioa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052021567157096449/zc9P5PzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 62,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "super1112hugh",
+        "verified": false
+      }
+    ]
+  }
+}

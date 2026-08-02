@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078375526289539072"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2078375529150111938",
+    "created_at": "2026-07-18T07:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078375529150111938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9dfiA28mbH",
+          "end": 169,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2078375529150111938/photo/1",
+          "media_key": "3_2078375526289539072",
+          "start": 146,
+          "url": "https://t.co/9dfiA28mbH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078375529150111938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们家的天然气管道\n上面的黄色管道连接了热水器,下方的管道连接至燃气灶\n然而管道自闭阀在两个用气端中间,它只能关闭燃气灶的天然气而无法影响热水器\n有一次闻到过燃气泄露的味道,结果发现是与热水器连接的管道在漏气,拧了拧那个黄色阀门之后好了再没有管……\n我也提醒过他们这样不安全,但是0个人在乎 https://t.co/9dfiA28mbH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078375526289539072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNffh4pagAAJFWZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078375526289539072"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2078375529150111938",
+        "created_at": "2026-07-18T07:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078375529150111938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9dfiA28mbH",
+              "end": 169,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2078375529150111938/photo/1",
+              "media_key": "3_2078375526289539072",
+              "start": 146,
+              "url": "https://t.co/9dfiA28mbH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078375529150111938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们家的天然气管道\n上面的黄色管道连接了热水器,下方的管道连接至燃气灶\n然而管道自闭阀在两个用气端中间,它只能关闭燃气灶的天然气而无法影响热水器\n有一次闻到过燃气泄露的味道,结果发现是与热水器连接的管道在漏气,拧了拧那个黄色阀门之后好了再没有管……\n我也提醒过他们这样不安全,但是0个人在乎 https://t.co/9dfiA28mbH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 382,
+          "like_count": 9588,
+          "listed_count": 2,
+          "media_count": 512,
+          "tweet_count": 3633
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

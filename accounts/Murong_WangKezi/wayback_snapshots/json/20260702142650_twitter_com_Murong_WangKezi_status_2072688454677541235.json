@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2072688454677541235",
+    "created_at": "2026-07-02T14:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072688454677541235"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072688454677541235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "慕容在骑自行车的时候如果穿长袖会习惯用袖子裹住手\n嗯可能是感觉外面的共享单车比较脏，握把上面经常会有粘粘的东西（不知道是不是被晒化的材料）会很不舒服。有的车直接骑手上会发红还会特别特别痒也不知道是怎么回事……\n虽然这样衣服袖子那里会脏但是也没办法了呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2072688454677541235",
+        "created_at": "2026-07-02T14:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072688454677541235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072688454677541235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "慕容在骑自行车的时候如果穿长袖会习惯用袖子裹住手\n嗯可能是感觉外面的共享单车比较脏，握把上面经常会有粘粘的东西（不知道是不是被晒化的材料）会很不舒服。有的车直接骑手上会发红还会特别特别痒也不知道是怎么回事……\n虽然这样衣服袖子那里会脏但是也没办法了呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 381,
+          "like_count": 9103,
+          "listed_count": 2,
+          "media_count": 408,
+          "tweet_count": 3253
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

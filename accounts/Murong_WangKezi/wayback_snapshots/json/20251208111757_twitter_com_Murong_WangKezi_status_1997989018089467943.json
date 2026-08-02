@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1997180893006602460",
+    "created_at": "2025-12-08T11:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T12:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997989018089467943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1543982488019963905",
+          "start": 0,
+          "username": "XPz7qZexOZH76pb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997989018089467943",
+    "in_reply_to_user_id": "1543982488019963905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997698253497004222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XPz7qZexOZH76pb 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1997180893006602460",
+        "created_at": "2025-12-08T11:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T12:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997989018089467943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1543982488019963905",
+              "start": 0,
+              "username": "XPz7qZexOZH76pb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997989018089467943",
+        "in_reply_to_user_id": "1543982488019963905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997698253497004222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XPz7qZexOZH76pb 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543982488019963905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1717672666507730944",
+              "name": "Apple Event"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1997180893006602460",
+        "created_at": "2025-12-07T16:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T17:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997698253497004222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ],
+          "urls": [
+            {
+              "description": "不想换屏了，太小了看着费眼睛，干脆拆掉, 视频播放量 49776、弹幕量 17、点赞数 257、投硬币枚数 62、收藏人数 276、转发人数 140, 视频作者 蒸氣鴨, 作者简介 随机舞蹈主办 | 舞蹈MV拍摄｜活动策划｜摄影摄像｜合作：LH-NRUWQYLP，相关视频：笔记本改台式，十年前的旧笔记本，拯救一下还能玩游戏？，老旧笔记本不要扔 改造亚克力外壳 好看又好用，［改装］笔记本电脑改装成平板电脑，边框是怎么拆开的？，笔记本屏坏不要丢掉了，花几块钱买一根LED灯条，换上去就能点亮，自制 笔记本改造台式透明机箱，[NAS]旧笔记本不要丢，简单改造一下，竟然成为家里中重要的一部分，用报废闲置的手机、平板改装多功能便携显示器，让他继续发光发热！，这网友改装电脑的方法我只能用丧心病狂来形容，太牛了",
+              "display_url": "b23.tv/yJP938G",
+              "end": 83,
+              "expanded_url": "https://b23.tv/yJP938G",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/1997698265824075776/N_dAcfHF?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/1997698265824075776/N_dAcfHF?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 60,
+              "status": 200,
+              "title": "我的笔记本电脑屏幕坏了之后变身为mini主机_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1ML4y1z7uo/?buvid=XY466764B34AB3AE465EB800B736F3C46B0F7&from_spmid=playlist.playlist-detail.0.0&is_story_h5=false&mid=rES%2FjNkgOroCAyJqm7qRiQ%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=6b6716b4-53c4-4a26-b73f-f8a85dafc89f&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1765123272&unique_k=yJP938G&up_id=39286665",
+              "url": "https://t.co/j6V18ClTiV"
+            },
+            {
+              "description": "笔记本电脑黑屏碎裂屏幕，外接显示器怎么盲按操作小技巧, 视频播放量 20284、弹幕量 2、点赞数 190、投硬币枚数 33、收藏人数 371、转发人数 220, 视频作者 安美特官方帐号, 作者简介 用服务谱写生活，用品质创造财富，相关视频：电脑开机黑屏，外接显示器显示。，笔记本外接显示器合上盖子怎么能让外接显示器继续工作，笔记本外接显示器直接黑屏是啥原因 求解，笔记本外接显示器最优解，笔记本外接屏幕无信号特殊情况解决方案，笔记本电源键亮的，却黑屏，一分钟教你搞定外接显示器无信号！，笔记本外接显示器不能仅第二屏幕显示怎么办，用HDMI连接线的话，一定要修改这个设置，dp线无信号笨方法",
+              "display_url": "b23.tv/QLD4MVt",
+              "end": 140,
+              "expanded_url": "https://b23.tv/QLD4MVt",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/1997698266012762112/kr0EkjXl?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/1997698266012762112/kr0EkjXl?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 117,
+              "status": 200,
+              "title": "笔记本电脑黑屏碎裂屏幕，外接显示器怎么盲按操作小技巧_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1JC411G7BA/?buvid=XY466764B34AB3AE465EB800B736F3C46B0F7&from_spmid=playlist.playlist-detail.0.0&is_story_h5=false&mid=rES%2FjNkgOroCAyJqm7qRiQ%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=d6936549-762d-4c3b-a6f6-e95a34abc471&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1765123283&unique_k=QLD4MVt&up_id=1943826907",
+              "url": "https://t.co/PJFVOKZkdg"
+            },
+            {
+              "description": "本期百元计划，我们来看看目前二手市场里最具性价比的 MacBook Pro...或许，叫 MacBook Pro mini....这种无头骑士在今天用起来究竟怎么样呢？, 视频播放量 58943、弹幕量 151、点赞数 489、投硬币枚数 24、收藏人数 240、转发人数 51, 视频作者 硬件狐, 作者简介 拆解新科技，这里是硬件狐（原用名：键盘侠说），相关视频：千万别把iPad装到无头Mac上，否则。。。，我花509元捡了台M1的Mac，如果iPhone真的设计成这样，今年会不会卖的更好？，MacminiM4最强组合，男生买东西的价值观，第二款，400元高配小屏手机，骁龙8gen2搭配8+256内存的小屏手机，库克：这把高端局，1600拿下7840H！未来几年内，轻薄本里最强钉子户！，M4 macbook air买家已经开始后悔了，华强北内存行情崩盘，某top级别DIY商家找不到人接手，只能抛盘！",
+              "display_url": "b23.tv/Gj0BlQV",
+              "end": 200,
+              "expanded_url": "https://b23.tv/Gj0BlQV",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/1997698263060041729/v_W3zOuw?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/1997698263060041729/v_W3zOuw?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 177,
+              "status": 200,
+              "title": "2025年，可能是最具性价比的MacBook Pro..._哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1WuyEBNEMZ/?buvid=XY466764B34AB3AE465EB800B736F3C46B0F7&from_spmid=default-value&is_story_h5=false&mid=rES%2FjNkgOroCAyJqm7qRiQ%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=6925861e-0db2-449c-8414-525ce654a486&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1765122843&unique_k=Gj0BlQV&up_id=5910565",
+              "url": "https://t.co/iUDfdsqmeV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997698253497004222",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997180893006602460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 可以参考一下这几个链接喵，【我的笔记本电脑屏幕坏了之后变身为mini主机-哔哩哔哩】 https://t.co/j6V18ClTiV【笔记本电脑黑屏碎裂屏幕，外接显示器怎么盲按操作小技巧-哔哩哔哩】 https://t.co/PJFVOKZkdg【2025年，可能是最具性价比的MacBook Pro...-哔哩哔哩】 https://t.co/iUDfdsqmeV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "是超级粘人的小母猫喵~\nMtF HRT:2025.8.10\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 119,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 96,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1994637109525975233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 279,
+          "like_count": 4504,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1200
+        },
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T15:38:41.000Z",
+        "description": "一个在上班的xyn(也许是xnn吧)\n普通的我，未含糖，mtf/hrt未开始，工作原因不常在线。将来的我想做一个安静的xnn/xyn，最终的目标是想变成自己内心的另一个她。现在由于工作原因无法吃糖。\n小号@LiFeng88725",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "LiFeng88725"
+              }
+            ]
+          }
+        },
+        "id": "1543982488019963905",
+        "name": "秋风 🍁🍥🏳️‍⚧️🍭🍬一直陪伴在你身边",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991527620484427783/O5xvpGxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 1501,
+          "like_count": 533,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 412
+        },
+        "username": "XPz7qZexOZH76pb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2069024111700103663",
+    "created_at": "2026-06-23T11:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069381703022588380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1718235184322285568",
+          "start": 0,
+          "username": "quimiuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069381703022588380",
+    "in_reply_to_user_id": "1718235184322285568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069129299580662014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quimiuu 啊\n那是不是说小时候就有过女性化的表达"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2069024111700103663",
+        "created_at": "2026-06-23T11:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069381703022588380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1718235184322285568",
+              "start": 0,
+              "username": "quimiuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069381703022588380",
+        "in_reply_to_user_id": "1718235184322285568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069129299580662014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quimiuu 啊\n那是不是说小时候就有过女性化的表达"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718235184322285568",
+        "conversation_id": "2069024111700103663",
+        "created_at": "2026-06-22T18:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069129299580662014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069129299580662014",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069024111700103663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 從小就在一句句「娘娘腔」「不像個男的」中潛移默化了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 378,
+          "like_count": 8529,
+          "listed_count": 2,
+          "media_count": 388,
+          "tweet_count": 2867
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T11:58:46.000Z",
+        "description": "是秋米～(*/ω＼*)\n日本語を勉強している。\n於2006年出廠的一批非標件中的殘次品｜無糖MTX｜家長送矯治學校党😢｜流亡/離家出走｜左人（大概💦）｜术力口｜沃沃头｜計算機……技能點點散了💥\n愛哭，有點孤獨，也很想很想要和大家互動，可是一直都不太會、也不太敢説話😶\n希望沒有造成困擾🙏",
+        "id": "1718235184322285568",
+        "location": "秋",
+        "name": "秋米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065553080410869760/lJUCwvI-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 137,
+          "like_count": 1358,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "quimiuu",
+        "verified": false
+      }
+    ]
+  }
+}

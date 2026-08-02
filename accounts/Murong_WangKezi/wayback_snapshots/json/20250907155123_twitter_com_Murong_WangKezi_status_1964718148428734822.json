@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "1964718148428734822",
+    "created_at": "2025-09-07T15:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T16:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964718148428734822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 65,
+          "id": "1647170304844914689",
+          "start": 49,
+          "username": "DustSwallo15805"
+        },
+        {
+          "end": 76,
+          "id": "1808483222801821696",
+          "start": 66,
+          "username": "XUYI_FREE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964718148428734822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有一批明信片没送出去，那就给以下两位老师吧~\n（其实根本就没多少人，现在是参加的全给了QwQ）\n@DustSwallo15805\n@XUYI_FREE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "1964718148428734822",
+        "created_at": "2025-09-07T15:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T16:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964718148428734822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 65,
+              "id": "1647170304844914689",
+              "start": 49,
+              "username": "DustSwallo15805"
+            },
+            {
+              "end": 76,
+              "id": "1808483222801821696",
+              "start": 66,
+              "username": "XUYI_FREE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964718148428734822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有一批明信片没送出去，那就给以下两位老师吧~\n（其实根本就没多少人，现在是参加的全给了QwQ）\n@DustSwallo15805\n@XUYI_FREE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10晚上五点半\n中国大陆 | 成分极其复杂 | 同类互fo\n会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩https://t.co/K3w9OvNmFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Murong_Muli",
+                "end": 112,
+                "expanded_url": "https://t.me/Murong_Muli",
+                "start": 89,
+                "url": "https://t.co/K3w9OvNmFs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Murong-WangKez…",
+                "end": 23,
+                "expanded_url": "https://github.com/Murong-WangKezi/Murong-WangKezi.github.io",
+                "start": 0,
+                "url": "https://t.co/HZWZ00wkiD"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961732905568539083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 157,
+          "like_count": 1262,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/HZWZ00wkiD",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象顺男｜永远不会翻车｜铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|欢迎找我交换明信片喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1964711873150095716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 437,
+          "like_count": 35370,
+          "listed_count": 2,
+          "media_count": 463,
+          "tweet_count": 2228
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T12:49:55.000Z",
+        "description": "欢迎大家和我交朋友（快来吧 🏳️‍⚧️🏳️‍🌈",
+        "id": "1808483222801821696",
+        "name": "椿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897721243299991553/uEw-GyJv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 139,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 95
+        },
+        "username": "XUYI_FREE",
+        "verified": false
+      }
+    ]
+  }
+}

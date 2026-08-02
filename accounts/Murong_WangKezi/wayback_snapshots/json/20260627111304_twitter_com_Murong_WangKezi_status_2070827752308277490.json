@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070827742099283969"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2070827752308277490",
+    "created_at": "2026-06-27T11:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070827752308277490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qeofTjV9cm",
+          "end": 162,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2070827752308277490/photo/1",
+          "media_key": "3_2070827742099283969",
+          "start": 139,
+          "url": "https://t.co/qeofTjV9cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070827752308277490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "慕容挺喜欢尝试新东西的，不过似乎对一个食物的印象和第一次吃时候的状态有关系？\n过了好久终于吃上这个蜜雪冰城薄荷味冰淇淋了ww\n感觉还好，但不过个人不是很喜欢吃薄荷味，所以其实也不怎么好吃\n薄荷奶绿太贵了就没有尝试（毕竟也不喜欢吃薄荷味，不然就浪费了……），想知道这个是什么味道 https://t.co/qeofTjV9cm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2070827742099283969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0O3BbaIAEITr1.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070827742099283969"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070827752308277490",
+        "created_at": "2026-06-27T11:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070827752308277490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qeofTjV9cm",
+              "end": 162,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2070827752308277490/photo/1",
+              "media_key": "3_2070827742099283969",
+              "start": 139,
+              "url": "https://t.co/qeofTjV9cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070827752308277490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "慕容挺喜欢尝试新东西的，不过似乎对一个食物的印象和第一次吃时候的状态有关系？\n过了好久终于吃上这个蜜雪冰城薄荷味冰淇淋了ww\n感觉还好，但不过个人不是很喜欢吃薄荷味，所以其实也不怎么好吃\n薄荷奶绿太贵了就没有尝试（毕竟也不喜欢吃薄荷味，不然就浪费了……），想知道这个是什么味道 https://t.co/qeofTjV9cm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 380,
+          "like_count": 8752,
+          "listed_count": 2,
+          "media_count": 400,
+          "tweet_count": 3025
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}
