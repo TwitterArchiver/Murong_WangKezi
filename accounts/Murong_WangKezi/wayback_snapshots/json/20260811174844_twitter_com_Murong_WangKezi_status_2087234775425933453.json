@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2087225161141694903",
+    "created_at": "2026-08-11T17:48:44.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T18:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087234775425933453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1994720929709174784",
+          "start": 0,
+          "username": "bth95147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087234775425933453",
+    "in_reply_to_user_id": "1994720929709174784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087230393519075496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bth95147 豪！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2087225161141694903",
+        "created_at": "2026-08-11T17:48:44.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087234775425933453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1994720929709174784",
+              "start": 0,
+              "username": "bth95147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087234775425933453",
+        "in_reply_to_user_id": "1994720929709174784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087230393519075496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bth95147 豪！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994720929709174784",
+        "conversation_id": "2087225161141694903",
+        "created_at": "2026-08-11T17:31:19.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087230393519075496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087230393519075496",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087225161141694903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 好！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n亲友互fo 欢迎扩列～\n摄影作品二次使用请写明作者。\nNGL:https://t.co/3Qm6RekLRx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/murong",
+                "end": 134,
+                "expanded_url": "https://ngl.link/murong",
+                "start": 111,
+                "url": "https://t.co/3Qm6RekLRx"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "is_identity_verified": false,
+        "location": "中国，陕西省西安市",
+        "most_recent_tweet_id": "2087234775425933453",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870315714638385152/1746972180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 122,
+          "like_count": 10464,
+          "listed_count": 2,
+          "media_count": 667,
+          "tweet_count": 4367
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-29T10:53:09.000Z",
+        "description": "Golang | Chemistry | 🏳️‍⚧️🍥\n主人的小鱼干 @NanoCatfish 🐟\n提问箱 https://t.co/0j9zGBlULL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "NanoCatfish"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ask-bth.neko.surf",
+                "end": 77,
+                "expanded_url": "http://ask-bth.neko.surf",
+                "start": 54,
+                "url": "https://t.co/0j9zGBlULL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bth95147.github.io",
+                "end": 23,
+                "expanded_url": "http://bth95147.github.io",
+                "start": 0,
+                "url": "https://t.co/VQlRoNUK3l"
+              }
+            ]
+          }
+        },
+        "id": "1994720929709174784",
+        "is_identity_verified": true,
+        "location": "SD",
+        "most_recent_tweet_id": "2087232545176039481",
+        "name": "𝘽𝙩𝙃",
+        "pinned_tweet_id": "2066796313690374173",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994720929709174784/1782550033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070789036810346496/wdKPDiy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 361,
+          "like_count": 660,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 532
+        },
+        "url": "https://t.co/VQlRoNUK3l",
+        "username": "bth95147",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

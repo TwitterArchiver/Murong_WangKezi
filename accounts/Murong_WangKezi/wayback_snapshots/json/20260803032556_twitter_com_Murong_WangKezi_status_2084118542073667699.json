@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2083785887293600225",
+    "created_at": "2026-08-03T03:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084118542073667699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943179782478532608",
+          "start": 0,
+          "username": "yexinstory"
+        },
+        {
+          "end": 28,
+          "id": "1869440990970556416",
+          "start": 12,
+          "username": "SnowfairySerina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084118542073667699",
+    "in_reply_to_user_id": "1943179782478532608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084016327262671162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yexinstory @SnowfairySerina 嗯喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2083785887293600225",
+        "created_at": "2026-08-03T03:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084118542073667699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943179782478532608",
+              "start": 0,
+              "username": "yexinstory"
+            },
+            {
+              "end": 28,
+              "id": "1869440990970556416",
+              "start": 12,
+              "username": "SnowfairySerina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084118542073667699",
+        "in_reply_to_user_id": "1943179782478532608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084016327262671162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yexinstory @SnowfairySerina 嗯喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943179782478532608",
+        "conversation_id": "2083785887293600225",
+        "created_at": "2026-08-02T20:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084016327262671162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "SnowfairySerina"
+            },
+            {
+              "end": 33,
+              "id": "1870315714638385152",
+              "start": 17,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084016327262671162",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083800038430355695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowfairySerina @Murong_WangKezi 主要是鞋不好买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 383,
+          "like_count": 10099,
+          "listed_count": 2,
+          "media_count": 602,
+          "tweet_count": 4112
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T05:25:55.000Z",
+        "description": "枫糖小猫”@konekoutena生活号，本号不键政，欢迎朋友们一起交流：YouTube频道。https://t.co/aUfl1aaDom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "konekoutena"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena",
+                "end": 70,
+                "expanded_url": "https://youtube.com/@konekoutena",
+                "start": 47,
+                "url": "https://t.co/aUfl1aaDom"
+              }
+            ]
+          }
+        },
+        "id": "1943179782478532608",
+        "name": "枫糖小小猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083515073272938496/t3AAXCSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 85,
+          "like_count": 50,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 189
+        },
+        "url": "",
+        "username": "yexinstory",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "跨女同//心灵认同是一片飘落世间的云//行可行之处，伴旅人之舟。在数字荒原里，种下星空绿洲。//@eztakesin 我最好的搭档！神秘花园：🇪🇨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "eztakesin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/novel/show.php…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+                "start": 0,
+                "url": "https://t.co/3DFuJVsHdD"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "摄平星系 星空合众国 格维克之境",
+        "name": "✨🌈摇光星辰⭐云深不知处🏳️‍⚧️✨",
+        "pinned_tweet_id": "2083601524052414505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969068756061323264/fJoUuOUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 1134,
+          "like_count": 4018,
+          "listed_count": 6,
+          "media_count": 703,
+          "tweet_count": 5803
+        },
+        "url": "https://t.co/3DFuJVsHdD",
+        "username": "SnowfairySerina",
+        "verified": false
+      }
+    ]
+  }
+}

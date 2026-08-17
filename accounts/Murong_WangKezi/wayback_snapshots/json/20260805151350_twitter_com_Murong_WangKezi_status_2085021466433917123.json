@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085021409596882944"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2085021466433917123",
+    "created_at": "2026-08-05T15:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T16:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085021466433917123"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UHic0q9Yd2",
+          "end": 30,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2085021466433917123/video/1",
+          "media_key": "13_2085021409596882944",
+          "start": 7,
+          "url": "https://t.co/UHic0q9Yd2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085021466433917123",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "臂力惊人ww https://t.co/UHic0q9Yd2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34791,
+        "height": 1280,
+        "media_key": "13_2085021409596882944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085021409596882944/img/C5JGsW0J0xVHfIL_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085021409596882944/vid/avc1/320x568/Eg3xLdHC6Y9UKfYt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085021409596882944/vid/avc1/480x852/L-auNZZm4gfIIFTd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085021409596882944/vid/avc1/720x1280/QZnzUWtIB1-txjr1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085021409596882944/pl/Rb5XL9BuE-xi7rV6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085021409596882944"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2085021466433917123",
+        "created_at": "2026-08-05T15:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085021466433917123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UHic0q9Yd2",
+              "end": 30,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2085021466433917123/video/1",
+              "media_key": "13_2085021409596882944",
+              "start": 7,
+              "url": "https://t.co/UHic0q9Yd2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085021466433917123",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "臂力惊人ww https://t.co/UHic0q9Yd2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n互fo请私信～\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 386,
+          "like_count": 10166,
+          "listed_count": 2,
+          "media_count": 615,
+          "tweet_count": 4165
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2083724847000236385",
+    "created_at": "2026-08-02T01:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083724851936669835"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083724851936669835",
+    "in_reply_to_user_id": "1870315714638385152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083724849277731158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "慕容主动获取知识的途径以文本为主，想要学什么就去找相关的文章读。对我来说文本很好的一点是我可以自己调整阅读速度而不是像视频那样基本只能按照创作者的既定节奏观看。使用AI也可以很好的帮助你的学习！哪里不会问哪里）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2083724847000236385",
+        "created_at": "2026-08-02T01:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083724851936669835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083724851936669835",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083724849277731158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "慕容主动获取知识的途径以文本为主，想要学什么就去找相关的文章读。对我来说文本很好的一点是我可以自己调整阅读速度而不是像视频那样基本只能按照创作者的既定节奏观看。使用AI也可以很好的帮助你的学习！哪里不会问哪里）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2083724847000236385",
+        "created_at": "2026-08-02T01:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083724849277731158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083724849277731158",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083724847000236385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并且很多女性向跨群里经常有人转发有关其他跨女的视频，视频里她们都看起来好pass/美丽/可爱，虽然她们愿意展示自己是好文明，不过对于这种题材的作品我总是好奇心很强想看看讲了什么，由此浪费时间且大部分并不能学到什么知识（还会让自己羡慕和GD……）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 382,
+          "like_count": 10067,
+          "listed_count": 2,
+          "media_count": 598,
+          "tweet_count": 4079
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

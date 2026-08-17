@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083725027548254208"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2083725033621643517",
+    "created_at": "2026-08-02T01:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083725033621643517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jCsQpAR974",
+          "end": 35,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2083725033621643517/photo/1",
+          "media_key": "3_2083725027548254208",
+          "start": 12,
+          "url": "https://t.co/jCsQpAR974"
+        },
+        {
+          "display_url": "x.com/Murong_WangKez…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Murong_WangKezi/status/2083724847000236385",
+          "start": 36,
+          "url": "https://t.co/3qI2f1j1KL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083725033621643517",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083724847000236385",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恐怖ww（-1149） https://t.co/jCsQpAR974 https://t.co/3qI2f1j1KL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1730,
+        "media_key": "3_2083725027548254208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrg31ya0AA9nan.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083725027548254208"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2083725033621643517",
+        "created_at": "2026-08-02T01:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083725033621643517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jCsQpAR974",
+              "end": 35,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2083725033621643517/photo/1",
+              "media_key": "3_2083725027548254208",
+              "start": 12,
+              "url": "https://t.co/jCsQpAR974"
+            },
+            {
+              "display_url": "x.com/Murong_WangKez…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Murong_WangKezi/status/2083724847000236385",
+              "start": 36,
+              "url": "https://t.co/3qI2f1j1KL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083725033621643517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083724847000236385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恐怖ww（-1149） https://t.co/jCsQpAR974 https://t.co/3qI2f1j1KL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2083724847000236385",
+        "created_at": "2026-08-02T01:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083724847000236385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083724847000236385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在闲时无脑刷短视频真的会让自己变笨……\n最初慕容并不怎么刷短视频（用电脑无聊可能会刷），后来习惯吃饭的时候看视频下饭，不小心导致自己在不吃饭的时候闲下来也会打开某个粉色app（听歌不算ww\n因为看到了BV1bH3E6cEmi（具体哪里变傻可以去看看），很多都中了……因此改改吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 382,
+          "like_count": 10067,
+          "listed_count": 2,
+          "media_count": 599,
+          "tweet_count": 4080
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      }
+    ]
+  }
+}

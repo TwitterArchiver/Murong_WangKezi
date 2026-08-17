@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2084235430258672004",
+    "created_at": "2026-08-04T06:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T07:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084520113211076994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055548066904604672",
+          "start": 0,
+          "username": "shishi_lms"
+        },
+        {
+          "end": 20,
+          "id": "1515137106540040196",
+          "start": 12,
+          "username": "jia0712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084520113211076994",
+    "in_reply_to_user_id": "2055548066904604672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084473881247846766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shishi_lms @jia0712 是这样\n我问过AI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2084235430258672004",
+        "created_at": "2026-08-04T06:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084520113211076994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055548066904604672",
+              "start": 0,
+              "username": "shishi_lms"
+            },
+            {
+              "end": 20,
+              "id": "1515137106540040196",
+              "start": 12,
+              "username": "jia0712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084520113211076994",
+        "in_reply_to_user_id": "2055548066904604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084473881247846766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shishi_lms @jia0712 是这样\n我问过AI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055548066904604672",
+        "conversation_id": "2084235430258672004",
+        "created_at": "2026-08-04T02:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084473881247846766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            },
+            {
+              "end": 25,
+              "id": "1515137106540040196",
+              "start": 17,
+              "username": "jia0712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084473881247846766",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084471593426980893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi @jia0712 我怀疑e2可能确实会导致，我单雌hrt也有虾线55"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（中间数次断药）\n互fo请私信喵~\n业余摄影 | 会写Python和一点C++  | 偶尔发癫 | Minecraft |\n欢迎随时找咱玩喵~\n摄影作品二次使用请写明作者。",
+        "id": "1870315714638385152",
+        "location": "中国，陕西省西安市",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 386,
+          "like_count": 10114,
+          "listed_count": 2,
+          "media_count": 604,
+          "tweet_count": 4120
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T07:17:23.000Z",
+        "description": "原号@shigemeteor\n姐姐@sjxa1111\n感觉又快被封了（估计是连坐先改个个人资料",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "shigemeteor"
+              },
+              {
+                "end": 26,
+                "start": 17,
+                "username": "sjxa1111"
+              }
+            ]
+          }
+        },
+        "id": "2055548066904604672",
+        "name": "Shi Shi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055548148605706240/q_WjKtEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "shishi_lms",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T01:16:59.000Z",
+        "description": "灯火阑珊，你在彼岸。",
+        "id": "1515137106540040196",
+        "location": "河南",
+        "name": "羽儿🏳️‍⚧️",
+        "pinned_tweet_id": "2059467420197412990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909592899773513729/1gf62jTX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 77,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 606
+        },
+        "url": "",
+        "username": "jia0712",
+        "verified": false
+      }
+    ]
+  }
+}
