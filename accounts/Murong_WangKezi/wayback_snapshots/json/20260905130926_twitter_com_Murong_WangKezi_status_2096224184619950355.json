@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2095451743291126264",
+    "created_at": "2026-09-05T13:09:26.000Z",
+    "display_text_range": [
+      22,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T14:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096224184619950355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1977766579799785473",
+          "start": 0,
+          "username": "SL1melol"
+        },
+        {
+          "end": 21,
+          "id": "1838832774691815424",
+          "start": 10,
+          "username": "ItzOnyxCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096224184619950355",
+    "in_reply_to_user_id": "1977766579799785473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096145905024106816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SL1melol @ItzOnyxCat 结合了夏天和冬天的缺点😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2095451743291126264",
+        "created_at": "2026-09-05T13:09:26.000Z",
+        "display_text_range": [
+          22,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096224184619950355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1977766579799785473",
+              "start": 0,
+              "username": "SL1melol"
+            },
+            {
+              "end": 21,
+              "id": "1838832774691815424",
+              "start": 10,
+              "username": "ItzOnyxCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096224184619950355",
+        "in_reply_to_user_id": "1977766579799785473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096145905024106816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SL1melol @ItzOnyxCat 结合了夏天和冬天的缺点😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977766579799785473",
+        "conversation_id": "2095451743291126264",
+        "created_at": "2026-09-05T07:58:22.000Z",
+        "display_text_range": [
+          29,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096145905024106816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1838832774691815424",
+              "start": 0,
+              "username": "ItzOnyxCat"
+            },
+            {
+              "end": 28,
+              "id": "1870315714638385152",
+              "start": 12,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096145905024106816",
+        "in_reply_to_user_id": "1838832774691815424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096066201554452486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ItzOnyxCat @Murong_WangKezi 也就最低温度低 太阳照样晒"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shaanxi, China",
+              "geo": {
+                "coordinates": [
+                  109.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shaanxi"
+            }
+          ]
+        },
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n亲友互fo 欢迎扩列～\n清水推～ 欢迎来找语言文字差错ww\n作品二次使用请写明作者。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "is_identity_verified": false,
+        "location": "Xi'an, Shaanxi Province, China",
+        "most_recent_tweet_id": "2096224184619950355",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2093342957562978762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870315714638385152/1746972180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 129,
+          "like_count": 11368,
+          "listed_count": 2,
+          "media_count": 813,
+          "tweet_count": 5083
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-13T16:01:23.000Z",
+        "description": "slime@nekorua.com\n一个普通人罢了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sl1me.lol",
+                "end": 23,
+                "expanded_url": "http://sl1me.lol",
+                "start": 0,
+                "url": "https://t.co/fXx8kHnMDv"
+              }
+            ]
+          }
+        },
+        "id": "1977766579799785473",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096145905024106816",
+        "name": "SL1melol",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1977766579799785473/1788414405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091723158156120064/Odx6oLJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 46,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/fXx8kHnMDv",
+        "username": "SL1melol",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-25T06:48:19.000Z",
+        "description": "一只小猫猫喵，猫喜欢玩Minecraft，会一些编程喵，最喜欢的语言是Java的说，至于猫的性别...猫是MtF喵，小证含糖哦，所以把猫当成女孩子就好啦",
+        "id": "1838832774691815424",
+        "is_identity_verified": false,
+        "location": "中国河北省石家庄",
+        "most_recent_tweet_id": "2096066201554452486",
+        "name": "猫猫球球喵喵🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1993603749034787214",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1838832774691815424/1772628042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039914282897604608/5QRtzGiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 47,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "ItzOnyxCat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

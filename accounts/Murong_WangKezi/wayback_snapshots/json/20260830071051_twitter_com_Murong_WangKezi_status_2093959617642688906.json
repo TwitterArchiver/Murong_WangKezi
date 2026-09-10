@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2093959617642688906",
+    "created_at": "2026-08-30T07:10:51.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T08:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093959617642688906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758187783787847680",
+          "start": 3,
+          "username": "Julyo0109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093959617642688906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093402227172135371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Julyo0109: 真的很害怕在我哭的时候有人看见，「哭是懦弱」「你这算什么你哭什么」「你有什么好哭的」「不准哭！3..2..」好像我的眼泪有什么魔力，所有人一看见我的眼泪，心底里便生出莫大的好奇和不屑，一边要不懈地追问到底为什么哭一边又对我破碎的不成句子的回答表达出…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2093959617642688906",
+        "created_at": "2026-08-30T07:10:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T08:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093959617642688906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758187783787847680",
+              "start": 3,
+              "username": "Julyo0109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093959617642688906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093402227172135371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Julyo0109: 真的很害怕在我哭的时候有人看见，「哭是懦弱」「你这算什么你哭什么」「你有什么好哭的」「不准哭！3..2..」好像我的眼泪有什么魔力，所有人一看见我的眼泪，心底里便生出莫大的好奇和不屑，一边要不懈地追问到底为什么哭一边又对我破碎的不成句子的回答表达出…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758187783787847680",
+        "conversation_id": "2093402227172135371",
+        "created_at": "2026-08-28T18:15:59.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T19:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093402227172135371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093402227172135371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "真的很害怕在我哭的时候有人看见，「哭是懦弱」「你这算什么你哭什么」「你有什么好哭的」「不准哭！3..2..」好像我的眼泪有什么魔力，所有人一看见我的眼泪，心底里便生出莫大的好奇和不屑，一边要不懈地追问到底为什么哭一边又对我破碎的不成句子的回答表达出自己的恶意..可我真的只是控制不住而已.."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shaanxi, China",
+              "geo": {
+                "coordinates": [
+                  109.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shaanxi"
+            }
+          ]
+        },
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n亲友互fo 欢迎扩列～\n清水推～ 欢迎来找语言文字差错ww\n作品二次使用请写明作者。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "is_identity_verified": false,
+        "location": "Xi'an, Shaanxi Province, China",
+        "most_recent_tweet_id": "2093959617642688906",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870315714638385152/1746972180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 130,
+          "like_count": 11210,
+          "listed_count": 2,
+          "media_count": 764,
+          "tweet_count": 4903
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T17:54:12.000Z",
+        "description": "HRT Apr.27.2026 | 紫餐 | 神经病 | 想要成为温柔友好的人 | 互fo互fo！ | 日语学习中 | 不合格贝斯手",
+        "id": "1758187783787847680",
+        "is_identity_verified": false,
+        "location": "にゃがみ原市",
+        "most_recent_tweet_id": "2093953480545484842",
+        "name": "午夜午夜雨落下",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758187783787847680/1787569927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990785591546662912/w0FL0aIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 190,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "Julyo0109",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2093575430758678608",
+    "created_at": "2026-08-29T05:44:14.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T06:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093575430758678608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1545801302617116672",
+          "start": 3,
+          "username": "Minecraftxfj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093575430758678608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079079843845767481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minecraftxfj: 人类一直都在用技术对抗死亡，比如说把人刻在石头上，画在画上，写书，拍遗照，VR 还原等等，相比于此，我觉得蒸馏属于是一种“侵入式”的方法，蒸馏只能在她留下的信息中去捕捉表面的模式，却永远缺失真正的主体性、内在体验和一些难以言说的部分。\n\nAI…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2093575430758678608",
+        "created_at": "2026-08-29T05:44:14.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T06:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093575430758678608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1545801302617116672",
+              "start": 3,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093575430758678608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079079843845767481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minecraftxfj: 人类一直都在用技术对抗死亡，比如说把人刻在石头上，画在画上，写书，拍遗照，VR 还原等等，相比于此，我觉得蒸馏属于是一种“侵入式”的方法，蒸馏只能在她留下的信息中去捕捉表面的模式，却永远缺失真正的主体性、内在体验和一些难以言说的部分。\n\nAI…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2079079843845767481",
+        "created_at": "2026-07-20T05:43:56.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079079843845767481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2078948633635061786",
+              "start": 147,
+              "url": "https://t.co/glYWzZgIY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079079843845767481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "人类一直都在用技术对抗死亡，比如说把人刻在石头上，画在画上，写书，拍遗照，VR 还原等等，相比于此，我觉得蒸馏属于是一种“侵入式”的方法，蒸馏只能在她留下的信息中去捕捉表面的模式，却永远缺失真正的主体性、内在体验和一些难以言说的部分。\n\nAI 没有肉体，AI 没有在现实生活中真的见到她，AI 也没有心灵，AI 目前还难以揣摩部分人类话语中隐含的真正情感，这样的人只会变成一些冷冰冰的数据。\n\nAI会有幻觉、被更新、被训练偏差。它可能把逝者简化成基于数据的刻板印象，或被强加于作者自己的愿望（这句话没有恶意），变成一个表演她的工具，而不是真实的她，这是对人性复杂性的一种不尊重。\n\n她的逝去，我们怀念，我们哀悼，哀悼本身是就是一种尊重死亡的方式。\n\n借用《原神》胡桃的一句话：“阴阳有序，命运无常。死亡难以预测，却也有它的规矩。记住了，无论何时何地，无论有何原因，人都不该轻易挑衅‘死’，唯有认识它、尊重它，才能明白活着的价值。”\n\n活着的时候好好活着，当活着的职责履行完了，你还能见到你想见的人，不也是一件好事吗？\n\n----------\n依旧是有感而发，无 AI 生成内容，不映射现实生活，不指向具体个人，不代表个人立场，理性分享观点，你杠我就是你对👍"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1992,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078948633635061786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类一直都在用技术对抗死亡，比如说把人刻在石头上，画在画上，写书，拍遗照，VR 还原等等，相比于此，我觉得蒸馏属于是一种“侵入式”的方法，蒸馏只能在她留下的信息中去捕捉表面的模式，却永远缺失真正的主体性、内在体验和一些难以言说的部分。\n\nAI 没有肉体，AI 没有在现实生活中真的见到她，AI https://t.co/glYWzZgIY0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n亲友互fo 欢迎扩列～\n清水推～ 欢迎来找语言文字差错ww\n作品二次使用请写明作者。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "is_identity_verified": false,
+        "location": "中国，陕西省西安市",
+        "most_recent_tweet_id": "2093575430758678608",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870315714638385152/1746972180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 130,
+          "like_count": 11156,
+          "listed_count": 2,
+          "media_count": 756,
+          "tweet_count": 4862
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 109,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2093573278128570796",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 1419,
+          "like_count": 2206,
+          "listed_count": 2,
+          "media_count": 592,
+          "tweet_count": 6154
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

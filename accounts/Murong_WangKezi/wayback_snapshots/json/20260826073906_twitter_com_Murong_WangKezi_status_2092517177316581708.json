@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2092517171024818336",
+    "created_at": "2026-08-26T07:39:06.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T08:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092517177316581708"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2092517177316581708",
+    "in_reply_to_user_id": "1870315714638385152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092517174111776935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得舒服的指甲长度应该是从游离线伸出几厘米的啊（等到指甲磨损和生长达成平衡状态之后就不会明显变长了）\n并且在日常使用磨出来的指甲非常平滑，倒着皮肤上滑动完全不会疼\n但刚剪完的就很粗糙会刮的疼的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2092517171024818336",
+        "created_at": "2026-08-26T07:39:06.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092517177316581708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092517177316581708",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092517174111776935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得舒服的指甲长度应该是从游离线伸出几厘米的啊（等到指甲磨损和生长达成平衡状态之后就不会明显变长了）\n并且在日常使用磨出来的指甲非常平滑，倒着皮肤上滑动完全不会疼\n但刚剪完的就很粗糙会刮的疼的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2092517171024818336",
+        "created_at": "2026-08-26T07:39:06.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092517174111776935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092517174111776935",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092517171024818336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首先是不适应手的长度导致打字之类的精细操作总是按错 好烦\n其次指甲太短导致拿东西的时候总是刮到东西（指甲刮到东西会引起强迫行为必须用指腹再抚摸一下被刮到的物品）\n并且容易刮到东西还会给脏东西趁虚而入的机会，看着难受抠掉又疼水还冲不掉\n到底是谁觉得短指甲干净卫生的啊我咬死你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n亲友互fo 欢迎扩列～\n清水推 如果你发现了我之前划手手的帖子请告诉我\n摄影作品二次使用请写明作者。\nNGL:https://t.co/3Qm6RekLRx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/murong",
+                "end": 158,
+                "expanded_url": "https://ngl.link/murong",
+                "start": 135,
+                "url": "https://t.co/3Qm6RekLRx"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "is_identity_verified": false,
+        "location": "中国，陕西省西安市",
+        "most_recent_tweet_id": "2092517177316581708",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870315714638385152/1746972180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 127,
+          "like_count": 11014,
+          "listed_count": 2,
+          "media_count": 742,
+          "tweet_count": 4791
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
