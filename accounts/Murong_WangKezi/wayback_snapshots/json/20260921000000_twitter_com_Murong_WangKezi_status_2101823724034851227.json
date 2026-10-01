@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091462087688220672"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2101823724034851227",
+    "created_at": "2026-09-21T00:00:00.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T01:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101823724034851227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "youtubeSuzanne Vega - Tom's Diner, 视频播放量 32773、弹幕量 33、点赞数 691、投硬币枚数 88、收藏人数 895、转发人数 194, 视频作者 taorock1, 作者简介 ，相关视频：采样同一首歌对比《ATTITUDE》《centuries》《degenere》，致爱丽丝，我们翻唱的《Tom's Diner》完整版已经上线，你听了吗！！！ 👯‍♀️，消失但被采样播放数十亿的人，采样名曲和采样源，被频繁采样的神曲|Tom's Diner，莫得感情乐队，终于找到高清原版了，Suzanne Vega 的经典民谣 Tom's Diner，但用我们的和声来演绎 ☕️，IVE的新歌 ATTITUDE 原来采样了这首歌，在百万豪装录音棚大声听 回家的诱惑ost 李佳璐《无法原谅》【Hi-res】",
+          "display_url": "bilibili.com/video/BV1dB4y1…",
+          "end": 94,
+          "expanded_url": "https://www.bilibili.com/video/BV1dB4y1c7UF/",
+          "start": 71,
+          "status": 200,
+          "title": "Suzanne Vega - Tom's Diner_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1dB4y1c7UF/",
+          "url": "https://t.co/l4lCBXY7zf"
+        },
+        {
+          "display_url": "pic.x.com/jyJJbavGpd",
+          "end": 118,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2101823724034851227/photo/1",
+          "media_key": "3_2091462087688220672",
+          "start": 95,
+          "url": "https://t.co/jyJJbavGpd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101823724034851227",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091462087688220672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Day 2 ｜ Tom's Diner\n其实我对我「小时候」没什么印象，但是这首歌我会唱ww\n似乎是从差评君讲mp3算法的视频了解到的这首歌\nhttps://t.co/l4lCBXY7zf https://t.co/jyJJbavGpd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1197,
+        "media_key": "3_2091462087688220672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZdsA3acAAtnh5.jpg",
+        "width": 1314
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091462087688220672"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2101823724034851227",
+        "created_at": "2026-09-21T00:00:00.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101823724034851227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "youtubeSuzanne Vega - Tom's Diner, 视频播放量 32773、弹幕量 33、点赞数 691、投硬币枚数 88、收藏人数 895、转发人数 194, 视频作者 taorock1, 作者简介 ，相关视频：采样同一首歌对比《ATTITUDE》《centuries》《degenere》，致爱丽丝，我们翻唱的《Tom's Diner》完整版已经上线，你听了吗！！！ 👯‍♀️，消失但被采样播放数十亿的人，采样名曲和采样源，被频繁采样的神曲|Tom's Diner，莫得感情乐队，终于找到高清原版了，Suzanne Vega 的经典民谣 Tom's Diner，但用我们的和声来演绎 ☕️，IVE的新歌 ATTITUDE 原来采样了这首歌，在百万豪装录音棚大声听 回家的诱惑ost 李佳璐《无法原谅》【Hi-res】",
+              "display_url": "bilibili.com/video/BV1dB4y1…",
+              "end": 94,
+              "expanded_url": "https://www.bilibili.com/video/BV1dB4y1c7UF/",
+              "start": 71,
+              "status": 200,
+              "title": "Suzanne Vega - Tom's Diner_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1dB4y1c7UF/",
+              "url": "https://t.co/l4lCBXY7zf"
+            },
+            {
+              "display_url": "pic.x.com/jyJJbavGpd",
+              "end": 118,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2101823724034851227/photo/1",
+              "media_key": "3_2091462087688220672",
+              "start": 95,
+              "url": "https://t.co/jyJJbavGpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101823724034851227",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091462087688220672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Day 2 ｜ Tom's Diner\n其实我对我「小时候」没什么印象，但是这首歌我会唱ww\n似乎是从差评君讲mp3算法的视频了解到的这首歌\nhttps://t.co/l4lCBXY7zf https://t.co/jyJJbavGpd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shaanxi, China",
+              "geo": {
+                "coordinates": [
+                  109.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shaanxi"
+            }
+          ]
+        },
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n亲友互fo 欢迎扩列～\n清水推～ 欢迎来找语言文字差错ww\n作品二次使用请写明作者。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "is_identity_verified": false,
+        "location": "Xi'an, Shaanxi Province, China",
+        "most_recent_tweet_id": "2101823724034851227",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2093342957562978762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870315714638385152/1746972180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 130,
+          "like_count": 11522,
+          "listed_count": 2,
+          "media_count": 887,
+          "tweet_count": 5318
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

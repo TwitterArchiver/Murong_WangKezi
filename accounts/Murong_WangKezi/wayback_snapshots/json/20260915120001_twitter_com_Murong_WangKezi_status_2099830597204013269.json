@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2099830596692287889",
+    "created_at": "2026-09-15T12:00:01.000Z",
+    "display_text_range": [
+      0,
+      147
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T13:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099830597204013269"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2099830597204013269",
+    "in_reply_to_user_id": "1870315714638385152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099830596931404007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "4. 落实周末作业：规划好写作业时间，督促孩子独立认真完成，杜绝拖拉、敷衍、抄袭，更不要集中在周日晚上突击赶工，家长及时检查，不要只是询问。\n周末做好习惯管控，持续巩固一周在校养成的良好状态，家校同频共管，助力孩子稳步成长。[庆祝][庆祝][庆祝]\n\n收到请回复:\n“＊＊家长坚决落实周末管控”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2099830596692287889",
+        "created_at": "2026-09-15T12:00:01.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099830597204013269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099830597204013269",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099830596931404007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "4. 落实周末作业：规划好写作业时间，督促孩子独立认真完成，杜绝拖拉、敷衍、抄袭，更不要集中在周日晚上突击赶工，家长及时检查，不要只是询问。\n周末做好习惯管控，持续巩固一周在校养成的良好状态，家校同频共管，助力孩子稳步成长。[庆祝][庆祝][庆祝]\n\n收到请回复:\n“＊＊家长坚决落实周末管控”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2099830596692287889",
+        "created_at": "2026-09-15T12:00:01.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099830596931404007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099830596931404007",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099830596692287889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2. 保持规律作息：尽量维持上学日作息，不熬夜、不赖床，保障充足睡眠，避免作息紊乱。\n3. 规范外出活动：孩子外出须告知家长去向、同行伙伴及回家时间，远离危险区域，文明活动，注意人身安全。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shaanxi, China",
+              "geo": {
+                "coordinates": [
+                  109.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shaanxi"
+            }
+          ]
+        },
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n亲友互fo 欢迎扩列～\n清水推～ 欢迎来找语言文字差错ww\n作品二次使用请写明作者。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "is_identity_verified": false,
+        "location": "Xi'an, Shaanxi Province, China",
+        "most_recent_tweet_id": "2099830597204013269",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2093342957562978762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870315714638385152/1746972180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 129,
+          "like_count": 11461,
+          "listed_count": 2,
+          "media_count": 864,
+          "tweet_count": 5211
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

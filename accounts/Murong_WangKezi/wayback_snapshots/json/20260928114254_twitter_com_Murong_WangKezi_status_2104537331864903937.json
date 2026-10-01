@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2104238211346354272",
+    "created_at": "2026-09-28T11:42:54.000Z",
+    "display_text_range": [
+      14,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T12:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104537331864903937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104537331864903937",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104238211346354272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 星眠srs的时候发的帖子咱都有在看，这个是真的好佳能啊！\n好温暖！世界上怎么会有这么好的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2104238211346354272",
+        "created_at": "2026-09-28T11:42:54.000Z",
+        "display_text_range": [
+          14,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104537331864903937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104537331864903937",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104238211346354272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 星眠srs的时候发的帖子咱都有在看，这个是真的好佳能啊！\n好温暖！世界上怎么会有这么好的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "2104238211346354272",
+        "created_at": "2026-09-27T15:54:19.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104238211346354272"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104238211346354272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "和病友小姐姐甲，病友小姐姐乙与护士姐姐聊天。\n病友甲：我看看你哪年生的。（看腕带）\n病友甲：诶，你的腕带怎么是蓝色的？\n病友乙：（前几天就知道我做性别重置）原来你入院时候登记的性别是男性的啊。\n病友甲：那你来做的是——\n我：性别重置。\n病友乙：她现在是女生！\n病友甲：诶！那你以前是男生吗？\n护士姐姐：不是的，她生来就是女生，只是不幸……\n病友甲：啊啊啊我懂这个，就是生错了身体的性别！\n护士姐姐：像她们这种人，很多都比生下来就是女生的女生还女。心思特别细腻，温柔，而且才华横溢。我见到好多，都是在某个领域特别特别擅长的。\n病友甲：完全看不出来啊！你说话声音好温柔啊。你会用激素吗？\n我：一直都在用的。\n病友甲：你长得真的好漂亮啊。眼睛真漂亮。\n我：哈哈哈，我戴了美瞳。\n病友甲：不是不是，你眼睛的形状就很漂亮。诶呀你这冷白皮我梦寐以求的，你脸好小。\n护士姐姐：骨相美啊。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 20009,
+          "like_count": 331,
+          "quote_count": 8,
+          "reply_count": 33,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "和病友小姐姐甲，病友小姐姐乙与护士姐姐聊天。\n病友甲：我看看你哪年生的。（看腕带）\n病友甲：诶，你的腕带怎么是蓝色的？\n病友乙：（前几天就知道我做性别重置）原来你入院时候登记的性别是男性的啊。\n病友甲：那你来做的是——\n我：性别重置。\n病友乙：她现在是女生！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shaanxi, China",
+              "geo": {
+                "coordinates": [
+                  109.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shaanxi"
+            }
+          ]
+        },
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n亲友互fo 欢迎扩列～\n清水推～ 欢迎来找语言文字差错ww\nCC BY-NC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "is_identity_verified": false,
+        "location": "Xi'an, Shaanxi Province, China",
+        "most_recent_tweet_id": "2104537331864903937",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2093342957562978762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870315714638385152/1746972180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 130,
+          "like_count": 11946,
+          "listed_count": 1,
+          "media_count": 922,
+          "tweet_count": 5461
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "梦想是成为女侠客。\n“我曾淋我来时雪，亦将长歌去时晖……”\n星眠的生活号，不定期推音乐＆美术作品。可以问我虚拟歌姬与音乐制作相关的事情，这方面我了解的比较多。古风狂热爱好者，音乐策划&末流词作，汉服袍子。隐居宣州，长三角随机出没。没更新推文是因为我现实里活得很好。\n头像画师：飞鸟壹号机；主页头图：Z6",
+        "id": "1907031442103943168",
+        "is_identity_verified": false,
+        "location": "修仙界",
+        "most_recent_tweet_id": "2104499297480052860",
+        "name": "星眠子",
+        "pinned_tweet_id": "2103698817036243164",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907031442103943168/1744992762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4706,
+          "following_count": 3322,
+          "like_count": 4454,
+          "listed_count": 6,
+          "media_count": 1050,
+          "tweet_count": 11345
+        },
+        "url": "",
+        "username": "hoshinemu123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

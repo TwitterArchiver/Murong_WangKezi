@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090364836043804672"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2101098952401551535",
+    "created_at": "2026-09-19T00:00:01.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T01:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101098952401551535"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "《疯狂动物城》主题曲作词 : Mikkel Erickson/Sia/Tor Erik Hermansen作曲 : Mikkel Erickson/Sia/Tor Erik Hermansen音响：天朗皇家西敏寺功放：麦景图 录音MIC：U87 2支, 纽曼149 2支 录音设备：SSL+ Protools, 视频播放量 304198、弹幕量 129、点赞数 5887、投硬币枚数 878、收藏人数 6903、转发人数 348, 视频作者 JLRS日落fm, 作者简介 这里暂时还是以欧美音乐为主，评论区点歌就行哈，基本我都看！合作请私信！，相关视频：《疯狂动物城2》主题曲「Zoo」夏奇拉Shakira｜百万级录音棚试听，4K超清【疯狂动物城】主题曲《try everything》电影原声，Disney&Shakira《Zoo（《疯狂动物城2》主题曲）》百万豪装录音棚大声听，【4K珍藏】世界杯名曲《Waka Waka》！梦回那个夏天！，“夏天的专属神曲！”—《Señorita》，Shakira《Try Everything（《疯狂动物城》主题曲）》百万豪装录音棚大声听，【𝐇𝐢-𝐑𝐞𝐬无损音质】｜《Try Everything》- Shakira -‘𝙈𝙑视听’，【Shakira】疯狂动物城2主题曲《Zoo》来啦！感觉下一秒就在“Waka Waka”，百万级装备试听 Marry You - Bruno Mars 【Hi-Res】，【Mr.mo】Immortals【超能陆战队主题曲】",
+          "display_url": "bilibili.com/video/BV15u4y1…",
+          "end": 95,
+          "expanded_url": "https://www.bilibili.com/video/BV15u4y1y7Wi/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2101098970130874368/5TZKNotP?format=jpg&name=orig",
+              "width": 1008
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2101098970130874368/5TZKNotP?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 72,
+          "status": 200,
+          "title": "百万级装备试听《疯狂动物城》Try Everything - Shakira 夏奇拉【Hi-Res】_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV15u4y1y7Wi/",
+          "url": "https://t.co/BrdE0Ydjcg"
+        },
+        {
+          "display_url": "pic.x.com/X1us2YrcG6",
+          "end": 119,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2101098952401551535/photo/1",
+          "media_key": "3_2090364836043804672",
+          "start": 96,
+          "url": "https://t.co/X1us2YrcG6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101098952401551535",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090364836043804672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Day 30 ｜ Try Everything\n好像不太有吧，所以请大家听《疯狂动物城》第一部的音乐\n另外发现找歌其实也挺累的qwq 轻敌了诶\nhttps://t.co/BrdE0Ydjcg https://t.co/X1us2YrcG6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2090364836043804672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJ3vj9b0AArPez.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090364836043804672"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2101098952401551535",
+        "created_at": "2026-09-19T00:00:01.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T01:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101098952401551535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "《疯狂动物城》主题曲作词 : Mikkel Erickson/Sia/Tor Erik Hermansen作曲 : Mikkel Erickson/Sia/Tor Erik Hermansen音响：天朗皇家西敏寺功放：麦景图 录音MIC：U87 2支, 纽曼149 2支 录音设备：SSL+ Protools, 视频播放量 304198、弹幕量 129、点赞数 5887、投硬币枚数 878、收藏人数 6903、转发人数 348, 视频作者 JLRS日落fm, 作者简介 这里暂时还是以欧美音乐为主，评论区点歌就行哈，基本我都看！合作请私信！，相关视频：《疯狂动物城2》主题曲「Zoo」夏奇拉Shakira｜百万级录音棚试听，4K超清【疯狂动物城】主题曲《try everything》电影原声，Disney&Shakira《Zoo（《疯狂动物城2》主题曲）》百万豪装录音棚大声听，【4K珍藏】世界杯名曲《Waka Waka》！梦回那个夏天！，“夏天的专属神曲！”—《Señorita》，Shakira《Try Everything（《疯狂动物城》主题曲）》百万豪装录音棚大声听，【𝐇𝐢-𝐑𝐞𝐬无损音质】｜《Try Everything》- Shakira -‘𝙈𝙑视听’，【Shakira】疯狂动物城2主题曲《Zoo》来啦！感觉下一秒就在“Waka Waka”，百万级装备试听 Marry You - Bruno Mars 【Hi-Res】，【Mr.mo】Immortals【超能陆战队主题曲】",
+              "display_url": "bilibili.com/video/BV15u4y1…",
+              "end": 95,
+              "expanded_url": "https://www.bilibili.com/video/BV15u4y1y7Wi/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2101098970130874368/5TZKNotP?format=jpg&name=orig",
+                  "width": 1008
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2101098970130874368/5TZKNotP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 72,
+              "status": 200,
+              "title": "百万级装备试听《疯狂动物城》Try Everything - Shakira 夏奇拉【Hi-Res】_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV15u4y1y7Wi/",
+              "url": "https://t.co/BrdE0Ydjcg"
+            },
+            {
+              "display_url": "pic.x.com/X1us2YrcG6",
+              "end": 119,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2101098952401551535/photo/1",
+              "media_key": "3_2090364836043804672",
+              "start": 96,
+              "url": "https://t.co/X1us2YrcG6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101098952401551535",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090364836043804672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Day 30 ｜ Try Everything\n好像不太有吧，所以请大家听《疯狂动物城》第一部的音乐\n另外发现找歌其实也挺累的qwq 轻敌了诶\nhttps://t.co/BrdE0Ydjcg https://t.co/X1us2YrcG6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shaanxi, China",
+              "geo": {
+                "coordinates": [
+                  109.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shaanxi"
+            }
+          ]
+        },
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n亲友互fo 欢迎扩列～\n清水推～ 欢迎来找语言文字差错ww\n作品二次使用请写明作者。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "is_identity_verified": false,
+        "location": "Xi'an, Shaanxi Province, China",
+        "most_recent_tweet_id": "2101098952401551535",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2093342957562978762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870315714638385152/1746972180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 130,
+          "like_count": 11539,
+          "listed_count": 2,
+          "media_count": 876,
+          "tweet_count": 5296
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

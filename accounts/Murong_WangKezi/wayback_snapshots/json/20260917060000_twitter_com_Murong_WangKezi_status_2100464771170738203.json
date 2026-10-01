@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099890755921903617"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2100464771170738203",
+    "created_at": "2026-09-17T06:00:00.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T07:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100464771170738203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ONwWQE8zXg",
+          "end": 51,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2100464771170738203/photo/1",
+          "media_key": "3_2099890755921903617",
+          "start": 28,
+          "url": "https://t.co/ONwWQE8zXg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100464771170738203",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099890755921903617"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "近期与慕容互寄将会有很大概率掉落这些兵马俑相关物料哦～ https://t.co/ONwWQE8zXg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2099890755921903617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRPhE3aAAEpYq4.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099890755921903617"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2100464771170738203",
+        "created_at": "2026-09-17T06:00:00.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100464771170738203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ONwWQE8zXg",
+              "end": 51,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2100464771170738203/photo/1",
+              "media_key": "3_2099890755921903617",
+              "start": 28,
+              "url": "https://t.co/ONwWQE8zXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100464771170738203",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099890755921903617"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "近期与慕容互寄将会有很大概率掉落这些兵马俑相关物料哦～ https://t.co/ONwWQE8zXg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shaanxi, China",
+              "geo": {
+                "coordinates": [
+                  109.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shaanxi"
+            }
+          ]
+        },
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n亲友互fo 欢迎扩列～\n清水推～ 欢迎来找语言文字差错ww\n作品二次使用请写明作者。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "is_identity_verified": false,
+        "location": "Xi'an, Shaanxi Province, China",
+        "most_recent_tweet_id": "2100464771170738203",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2093342957562978762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870315714638385152/1746972180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 130,
+          "like_count": 11481,
+          "listed_count": 2,
+          "media_count": 867,
+          "tweet_count": 5232
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

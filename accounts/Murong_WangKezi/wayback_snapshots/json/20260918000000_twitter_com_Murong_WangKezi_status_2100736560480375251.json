@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090363326211751936"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2100736560480375251",
+    "created_at": "2026-09-18T00:00:00.000Z",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T01:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100736560480375251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "8月27日起至9月30日，带上话题 #歌曲平行线# ，参与Vicetone, Willim缪维霖和黄霄雲的合作单曲《Wish You Were Here》翻唱、重混、鬼畜、饭制歌曲MV等不限形式的二创挑战，即有机会赢取签名照、艺人评论翻牌哦！, 视频播放量 205577、弹幕量 394、点赞数 10202、投硬币枚数 5287、收藏人数 4716、转发人数 876, 视频作者 VicetoneMusic, 作者简介 荷兰DJ双人组Vicetone官方号，相关视频：【黄霄雲丶Vicetone】电音英文版《平行线Wish You Were here》，【黄霄雲】唱跳V神的《Wish You Were Here》，【黄霄雲×Vicetone】电音中文版《平行线 (Wish You Were Here)》，你可能不认识vicetone 但你一定听过他们做的电音，当Vicetone遇上周杰伦的歌曲，全球史诗级顶级战歌神曲《The Mass》，中译《弥撒》热血沸腾的曲调震撼到灵魂颤抖！，【黄霄雲】翻唱《Lydia》，『返场』华语金曲致敬经典(Hi-Res音质)，Vicetone描述他们认为中国的粉丝最喜欢的歌曲，世界名曲《寂静岭2》经典配乐《Promise》，前奏一响就沦陷了！，《Sad Sometimes》MV-黄霄雲，Alan Walker，CORSAK",
+          "display_url": "bilibili.com/video/BV1dQ4y1…",
+          "end": 88,
+          "expanded_url": "https://www.bilibili.com/video/BV1dQ4y1y7K4/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2100736565865746432/P-Q4DI3K?format=jpg&name=orig",
+              "width": 1008
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2100736565865746432/P-Q4DI3K?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 65,
+          "status": 200,
+          "title": "【黄霄雲 x Vicetone x Willim缪维霖】平行线 Wish You Were Here 全新MV_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1dQ4y1y7K4/",
+          "url": "https://t.co/tBVFPG6Sbn"
+        },
+        {
+          "display_url": "pic.x.com/5LuUArVA7n",
+          "end": 112,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2100736560480375251/photo/1",
+          "media_key": "3_2090363326211751936",
+          "start": 89,
+          "url": "https://t.co/5LuUArVA7n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100736560480375251",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090363326211751936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Day 29 ｜ 平行线 Wish You Were Here\n我不知道为什么会有这首歌，但是确实是有的\n是小时候不小心听到的（\nhttps://t.co/tBVFPG6Sbn https://t.co/5LuUArVA7n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2090363326211751936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJ2XrZbAAABR1n.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090363326211751936"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2100736560480375251",
+        "created_at": "2026-09-18T00:00:00.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100736560480375251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "8月27日起至9月30日，带上话题 #歌曲平行线# ，参与Vicetone, Willim缪维霖和黄霄雲的合作单曲《Wish You Were Here》翻唱、重混、鬼畜、饭制歌曲MV等不限形式的二创挑战，即有机会赢取签名照、艺人评论翻牌哦！, 视频播放量 205577、弹幕量 394、点赞数 10202、投硬币枚数 5287、收藏人数 4716、转发人数 876, 视频作者 VicetoneMusic, 作者简介 荷兰DJ双人组Vicetone官方号，相关视频：【黄霄雲丶Vicetone】电音英文版《平行线Wish You Were here》，【黄霄雲】唱跳V神的《Wish You Were Here》，【黄霄雲×Vicetone】电音中文版《平行线 (Wish You Were Here)》，你可能不认识vicetone 但你一定听过他们做的电音，当Vicetone遇上周杰伦的歌曲，全球史诗级顶级战歌神曲《The Mass》，中译《弥撒》热血沸腾的曲调震撼到灵魂颤抖！，【黄霄雲】翻唱《Lydia》，『返场』华语金曲致敬经典(Hi-Res音质)，Vicetone描述他们认为中国的粉丝最喜欢的歌曲，世界名曲《寂静岭2》经典配乐《Promise》，前奏一响就沦陷了！，《Sad Sometimes》MV-黄霄雲，Alan Walker，CORSAK",
+              "display_url": "bilibili.com/video/BV1dQ4y1…",
+              "end": 88,
+              "expanded_url": "https://www.bilibili.com/video/BV1dQ4y1y7K4/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2100736565865746432/P-Q4DI3K?format=jpg&name=orig",
+                  "width": 1008
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2100736565865746432/P-Q4DI3K?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 65,
+              "status": 200,
+              "title": "【黄霄雲 x Vicetone x Willim缪维霖】平行线 Wish You Were Here 全新MV_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1dQ4y1y7K4/",
+              "url": "https://t.co/tBVFPG6Sbn"
+            },
+            {
+              "display_url": "pic.x.com/5LuUArVA7n",
+              "end": 112,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2100736560480375251/photo/1",
+              "media_key": "3_2090363326211751936",
+              "start": 89,
+              "url": "https://t.co/5LuUArVA7n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100736560480375251",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090363326211751936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Day 29 ｜ 平行线 Wish You Were Here\n我不知道为什么会有这首歌，但是确实是有的\n是小时候不小心听到的（\nhttps://t.co/tBVFPG6Sbn https://t.co/5LuUArVA7n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shaanxi, China",
+              "geo": {
+                "coordinates": [
+                  109.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shaanxi"
+            }
+          ]
+        },
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n亲友互fo 欢迎扩列～\n清水推～ 欢迎来找语言文字差错ww\n作品二次使用请写明作者。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "is_identity_verified": false,
+        "location": "Xi'an, Shaanxi Province, China",
+        "most_recent_tweet_id": "2100736560480375251",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2093342957562978762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870315714638385152/1746972180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 130,
+          "like_count": 11498,
+          "listed_count": 2,
+          "media_count": 869,
+          "tweet_count": 5255
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090359699401236480"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "2099649403191517313",
+    "created_at": "2026-09-15T00:00:01.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T01:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099649403191517313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "2014音乐会24bit/96kHz音频4K@60FPS, 视频播放量 22918276、弹幕量 202380、点赞数 1033211、投硬币枚数 287601、收藏人数 892387、转发人数 207172, 视频作者 老treee, 作者简介 在学校拍一些视频修一些视频，相关视频：永恒不朽的经典《We are the world》，每次听都是震撼心灵的盛宴，完整版！《诀别书》交响乐现场，它来了！ 短短4分08秒，却像看完了一整部电影～，久石让在巴黎现场演奏《让子弹飞》插曲《太阳照常升起》，这是《菊次郎的夏天》中情感内涵最丰富的一首配乐，久石让真的太懂北野武了！，“每一个降调都是我诀别的前兆”||《诀别书》，『4k60FPS』坂本龙一《Rain》一首被滥用的神曲！值得用心倾听，被称全球最好听歌曲之一《Far Away From Home》，前奏一响就沦陷，【𝟒𝐊/𝟔𝟎𝐅𝐏𝐒】久石让《天空之城》千人大合唱现场 全站最高画质 顶级视听享受，当下最火的俄语歌《Колыбельная》，战争是残酷的，和平来之不易！，千万级别教堂风琴【星际穿越】主题曲 No Time for Caution 你起鸡皮疙瘩了吗？",
+          "display_url": "bilibili.com/video/BV1oK411…",
+          "end": 70,
+          "expanded_url": "https://www.bilibili.com/video/BV1oK411q7mp/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2099649417036836865/pmQc3X7R?format=jpg&name=orig",
+              "width": 1008
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2099649417036836865/pmQc3X7R?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 47,
+          "status": 200,
+          "title": "『4K60p·Hi-Res』坂本龍一《圣诞快乐劳伦斯先生/Merry Christmas Mr.Lawrence》祝大家圣诞快乐!_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1oK411q7mp/",
+          "url": "https://t.co/H80LQF9TBr"
+        },
+        {
+          "display_url": "pic.x.com/2Nm8Ye7wPK",
+          "end": 94,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2099649403191517313/photo/1",
+          "media_key": "3_2090359699401236480",
+          "start": 71,
+          "url": "https://t.co/2Nm8Ye7wPK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099649403191517313",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090359699401236480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Day 25 ｜ 圣诞快乐劳伦斯先生/Merry Christmas Mr.Lawrence\nhttps://t.co/H80LQF9TBr https://t.co/2Nm8Ye7wPK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2090359699401236480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJzEkeaYAApKC_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090359699401236480"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2099649403191517313",
+        "created_at": "2026-09-15T00:00:01.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T01:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099649403191517313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "2014音乐会24bit/96kHz音频4K@60FPS, 视频播放量 22918276、弹幕量 202380、点赞数 1033211、投硬币枚数 287601、收藏人数 892387、转发人数 207172, 视频作者 老treee, 作者简介 在学校拍一些视频修一些视频，相关视频：永恒不朽的经典《We are the world》，每次听都是震撼心灵的盛宴，完整版！《诀别书》交响乐现场，它来了！ 短短4分08秒，却像看完了一整部电影～，久石让在巴黎现场演奏《让子弹飞》插曲《太阳照常升起》，这是《菊次郎的夏天》中情感内涵最丰富的一首配乐，久石让真的太懂北野武了！，“每一个降调都是我诀别的前兆”||《诀别书》，『4k60FPS』坂本龙一《Rain》一首被滥用的神曲！值得用心倾听，被称全球最好听歌曲之一《Far Away From Home》，前奏一响就沦陷，【𝟒𝐊/𝟔𝟎𝐅𝐏𝐒】久石让《天空之城》千人大合唱现场 全站最高画质 顶级视听享受，当下最火的俄语歌《Колыбельная》，战争是残酷的，和平来之不易！，千万级别教堂风琴【星际穿越】主题曲 No Time for Caution 你起鸡皮疙瘩了吗？",
+              "display_url": "bilibili.com/video/BV1oK411…",
+              "end": 70,
+              "expanded_url": "https://www.bilibili.com/video/BV1oK411q7mp/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2099649417036836865/pmQc3X7R?format=jpg&name=orig",
+                  "width": 1008
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2099649417036836865/pmQc3X7R?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 47,
+              "status": 200,
+              "title": "『4K60p·Hi-Res』坂本龍一《圣诞快乐劳伦斯先生/Merry Christmas Mr.Lawrence》祝大家圣诞快乐!_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1oK411q7mp/",
+              "url": "https://t.co/H80LQF9TBr"
+            },
+            {
+              "display_url": "pic.x.com/2Nm8Ye7wPK",
+              "end": 94,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2099649403191517313/photo/1",
+              "media_key": "3_2090359699401236480",
+              "start": 71,
+              "url": "https://t.co/2Nm8Ye7wPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099649403191517313",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090359699401236480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Day 25 ｜ 圣诞快乐劳伦斯先生/Merry Christmas Mr.Lawrence\nhttps://t.co/H80LQF9TBr https://t.co/2Nm8Ye7wPK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shaanxi, China",
+              "geo": {
+                "coordinates": [
+                  109.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shaanxi"
+            }
+          ]
+        },
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n亲友互fo 欢迎扩列～\n清水推～ 欢迎来找语言文字差错ww\n作品二次使用请写明作者。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "is_identity_verified": false,
+        "location": "Xi'an, Shaanxi Province, China",
+        "most_recent_tweet_id": "2099649403191517313",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2093342957562978762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870315714638385152/1746972180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 128,
+          "like_count": 11452,
+          "listed_count": 2,
+          "media_count": 864,
+          "tweet_count": 5196
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
