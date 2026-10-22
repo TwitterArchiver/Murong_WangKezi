@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870315714638385152",
+    "conversation_id": "2105900587623547133",
+    "created_at": "2026-10-02T06:00:00.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T07:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105900587623547133"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2105900587623547133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我妈总说我头发硬，其实我发现并没有很硬\n我对比了我同学和表姐的，感觉并没有差很多\n是因为头发短所以会更容易感觉硬。触觉上更容易感觉扎（我在和身边顺比较的时候就是抓住头发末端的一部分感受是否扎人），而视觉上由于头发可以承受其自重而不垂下去看起来也会更硬（之前有刘海的时候还是扎）。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870315714638385152",
+        "conversation_id": "2105900587623547133",
+        "created_at": "2026-10-02T06:00:00.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105900587623547133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105900587623547133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈总说我头发硬，其实我发现并没有很硬\n我对比了我同学和表姐的，感觉并没有差很多\n是因为头发短所以会更容易感觉硬。触觉上更容易感觉扎（我在和身边顺比较的时候就是抓住头发末端的一部分感受是否扎人），而视觉上由于头发可以承受其自重而不垂下去看起来也会更硬（之前有刘海的时候还是扎）。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n亲友互fo 欢迎扩列～\n清水推～ 欢迎来找语言文字差错ww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "is_identity_verified": false,
+        "location": "Xi'an, Shaanxi Province, China",
+        "most_recent_tweet_id": "2105900587623547133",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2105579849285066878",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870315714638385152/1790846082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105631841965510656/stjakeDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 133,
+          "like_count": 12115,
+          "listed_count": 1,
+          "media_count": 938,
+          "tweet_count": 5517
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

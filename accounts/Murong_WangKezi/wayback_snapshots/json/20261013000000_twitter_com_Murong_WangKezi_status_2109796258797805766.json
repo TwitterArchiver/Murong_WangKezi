@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091491518691565568"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1338342919460200449",
+          "name": "G.E.M."
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1338342919460200449",
+          "name": "G.E.M."
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "C-Pop",
+          "id": "1098263006213881856",
+          "name": "C-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1338342919460200449",
+          "name": "G.E.M."
+        }
+      }
+    ],
+    "conversation_id": "2109796258797805766",
+    "created_at": "2026-10-13T00:00:00.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T01:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109796258797805766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "《唯一》是邓紫棋演唱的歌曲，由潘云安、邓紫棋创作词曲，该曲改编翻唱自告五人，收录于邓紫棋2023年发行的音乐EP《T.I.M.E.》。录音设备：话筒：Neumann M149 tube Pair调音台：SSL Duality Delta Pro Station工作站：PT音箱：Barefoot MM12[侵删], 视频播放量 14025134、弹幕量 23853、点赞数 117733、投硬币枚数 34571、收藏人数 252901、转发人数 18914, 视频作者 JLRS-LeoFM, 作者简介 欢迎Hi-Fi&汽车&专业音响试听、国乐、合唱团、音乐改编、原创音乐、同期录音、全景声混录等声音相关的一切合作！，相关视频：在百万豪装录音棚大声听 邓紫棋《多远都要在一起》【Hi-res】，【𝐇𝐢-𝐑𝐞𝐬无损音质】｜《海屿你》- 马_Crabbit -‘即便是青春的懵懂 但是我们渐行渐远’，在百万豪装录音棚大声听 AGA《孤雏》【Hi-res】，【One Last Kiss｜宇多田光】百万级录音棚听《One Last Kiss》《新·福音战士剧场版:│▌》【Hi-Res】，邓紫棋《红蔷薇白玫瑰》百万豪装录音棚大声听，『4K60p·Hi-Res』坂本龍一《圣诞快乐劳伦斯先生/Merry Christmas Mr.Lawrence》祝大家圣诞快乐!，《谁》“在你眼中 我是谁”，在百万豪装录音棚大声听 陈粒《虚拟》【Hi-res】，在百万豪装录音棚大声听 林俊杰《关键词》【Hi-res】，【官方MV】G.E.M.邓紫棋《句号》",
+          "display_url": "bilibili.com/video/BV1HH4y1…",
+          "end": 66,
+          "expanded_url": "https://www.bilibili.com/video/BV1HH4y1o7Ue/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2109796269136715777/kvoqgc3a?format=jpg&name=orig",
+              "width": 1008
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2109796269136715777/kvoqgc3a?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 43,
+          "status": 200,
+          "title": "在百万豪装录音棚大声听 邓紫棋《唯一》【Hi-res】_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1HH4y1o7Ue/",
+          "url": "https://t.co/fnHny54B0P"
+        },
+        {
+          "display_url": "pic.x.com/DaLd0FLhtd",
+          "end": 90,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2109796258797805766/photo/1",
+          "media_key": "3_2091491518691565568",
+          "start": 67,
+          "url": "https://t.co/DaLd0FLhtd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109796258797805766",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091491518691565568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Day 24 ｜ 唯一\n邓紫棋的歌听的好震撼！\n（或许米哈游的音乐会我更想去qwq）\nhttps://t.co/fnHny54B0P https://t.co/DaLd0FLhtd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1197,
+        "media_key": "3_2091491518691565568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZ4dH5aYAAhv6e.jpg",
+        "width": 1314
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091491518691565568"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          }
+        ],
+        "conversation_id": "2109796258797805766",
+        "created_at": "2026-10-13T00:00:00.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109796258797805766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "《唯一》是邓紫棋演唱的歌曲，由潘云安、邓紫棋创作词曲，该曲改编翻唱自告五人，收录于邓紫棋2023年发行的音乐EP《T.I.M.E.》。录音设备：话筒：Neumann M149 tube Pair调音台：SSL Duality Delta Pro Station工作站：PT音箱：Barefoot MM12[侵删], 视频播放量 14025134、弹幕量 23853、点赞数 117733、投硬币枚数 34571、收藏人数 252901、转发人数 18914, 视频作者 JLRS-LeoFM, 作者简介 欢迎Hi-Fi&汽车&专业音响试听、国乐、合唱团、音乐改编、原创音乐、同期录音、全景声混录等声音相关的一切合作！，相关视频：在百万豪装录音棚大声听 邓紫棋《多远都要在一起》【Hi-res】，【𝐇𝐢-𝐑𝐞𝐬无损音质】｜《海屿你》- 马_Crabbit -‘即便是青春的懵懂 但是我们渐行渐远’，在百万豪装录音棚大声听 AGA《孤雏》【Hi-res】，【One Last Kiss｜宇多田光】百万级录音棚听《One Last Kiss》《新·福音战士剧场版:│▌》【Hi-Res】，邓紫棋《红蔷薇白玫瑰》百万豪装录音棚大声听，『4K60p·Hi-Res』坂本龍一《圣诞快乐劳伦斯先生/Merry Christmas Mr.Lawrence》祝大家圣诞快乐!，《谁》“在你眼中 我是谁”，在百万豪装录音棚大声听 陈粒《虚拟》【Hi-res】，在百万豪装录音棚大声听 林俊杰《关键词》【Hi-res】，【官方MV】G.E.M.邓紫棋《句号》",
+              "display_url": "bilibili.com/video/BV1HH4y1…",
+              "end": 66,
+              "expanded_url": "https://www.bilibili.com/video/BV1HH4y1o7Ue/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2109796269136715777/kvoqgc3a?format=jpg&name=orig",
+                  "width": 1008
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2109796269136715777/kvoqgc3a?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 43,
+              "status": 200,
+              "title": "在百万豪装录音棚大声听 邓紫棋《唯一》【Hi-res】_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1HH4y1o7Ue/",
+              "url": "https://t.co/fnHny54B0P"
+            },
+            {
+              "display_url": "pic.x.com/DaLd0FLhtd",
+              "end": 90,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2109796258797805766/photo/1",
+              "media_key": "3_2091491518691565568",
+              "start": 67,
+              "url": "https://t.co/DaLd0FLhtd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109796258797805766",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091491518691565568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Day 24 ｜ 唯一\n邓紫棋的歌听的好震撼！\n（或许米哈游的音乐会我更想去qwq）\nhttps://t.co/fnHny54B0P https://t.co/DaLd0FLhtd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shaanxi, China",
+              "geo": {
+                "coordinates": [
+                  109.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shaanxi"
+            }
+          ]
+        },
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n亲友互fo 欢迎扩列～\n清水推～ 欢迎来找语言文字差错ww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "is_identity_verified": false,
+        "location": "Xi'an, Shaanxi Province, China",
+        "most_recent_tweet_id": "2109796258797805766",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2105579849285066878",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870315714638385152/1790846082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105631841965510656/stjakeDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 137,
+          "like_count": 11164,
+          "listed_count": 2,
+          "media_count": 990,
+          "tweet_count": 5631
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

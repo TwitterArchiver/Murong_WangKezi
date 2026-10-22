@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091493044076027904"
+      ]
+    },
+    "author_id": "1870315714638385152",
+    "conversation_id": "2110158646990532684",
+    "created_at": "2026-10-14T00:00:00.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-14T01:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2110158646990532684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "1.讲的是一个老掉牙的勇者斗恶龙的故事。2.本作的视频算是完成了我某种恶趣味的理想。3.仔细一想，歌的本身好像也是……4.下载不定时丢评论区。5.翻唱时有一个特别的请求：涉及到的所有人名，地名等等你要自己起，至少不能和原作完全一样。6.居然好像赶上了活动的尾巴，那并不重要(？)了。7.部分道具由寝室的朋友们赞助，感恩。, 视频播放量 16296516、弹幕量 127829、点赞数 543518、投硬币枚数 439985、收藏人数 485379、转发人数 198539, 视频作者 ilem, 作者简介 @ilemonyk，相关视频：【洛天依原创】人是猫，【洛天依】达拉崩吧 真·数学版，梁龙《达拉崩吧》（东北妖娆巨龙版），天津快板版《达拉崩吧》为您献演，【周深】《达拉崩吧》神级现场 一开口就是老二次元了！，【初音未来&洛天依】被世界抛弃的孩子 - QGRay，【中文字幕】我推的孩子「アイドル」官方MV（4K 60帧/Hi-Res），【歌愛ユキ】强风大背头原版-強風オールバック【Yukopi（ゆこぴ）】，【乘风2026】乌兰图雅、万千惠、代斯、张艺上 二公舞台《达拉崩吧》，【重音テトSV】萨卡萨卡班班甲鱼鱼（サカサカバンバンバスピスピス）",
+          "display_url": "bilibili.com/video/BV1sx411…",
+          "end": 51,
+          "expanded_url": "https://www.bilibili.com/video/BV1sx411k7ug/",
+          "images": [
+            {
+              "height": 381,
+              "url": "https://pbs.twimg.com/news_img/2110158650819915776/7nPQkMUH?format=jpg&name=orig",
+              "width": 610
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2110158650819915776/7nPQkMUH?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 28,
+          "status": 200,
+          "title": "洛天依，言和 原创《达拉崩吧》_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1sx411k7ug/",
+          "url": "https://t.co/bvvUKqYSMQ"
+        },
+        {
+          "display_url": "pic.x.com/68iU8kaTtb",
+          "end": 75,
+          "expanded_url": "https://x.com/Murong_WangKezi/status/2110158646990532684/photo/1",
+          "media_key": "3_2091493044076027904",
+          "start": 52,
+          "url": "https://t.co/68iU8kaTtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110158646990532684",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091493044076027904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Day 25 ｜ 达拉崩吧\n“谁的歌啊？” “周深啊”\nhttps://t.co/bvvUKqYSMQ https://t.co/68iU8kaTtb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1197,
+        "media_key": "3_2091493044076027904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZ516ZaIAADZKB.jpg",
+        "width": 1314
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091493044076027904"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2110158646990532684",
+        "created_at": "2026-10-14T00:00:00.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110158646990532684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "1.讲的是一个老掉牙的勇者斗恶龙的故事。2.本作的视频算是完成了我某种恶趣味的理想。3.仔细一想，歌的本身好像也是……4.下载不定时丢评论区。5.翻唱时有一个特别的请求：涉及到的所有人名，地名等等你要自己起，至少不能和原作完全一样。6.居然好像赶上了活动的尾巴，那并不重要(？)了。7.部分道具由寝室的朋友们赞助，感恩。, 视频播放量 16296516、弹幕量 127829、点赞数 543518、投硬币枚数 439985、收藏人数 485379、转发人数 198539, 视频作者 ilem, 作者简介 @ilemonyk，相关视频：【洛天依原创】人是猫，【洛天依】达拉崩吧 真·数学版，梁龙《达拉崩吧》（东北妖娆巨龙版），天津快板版《达拉崩吧》为您献演，【周深】《达拉崩吧》神级现场 一开口就是老二次元了！，【初音未来&洛天依】被世界抛弃的孩子 - QGRay，【中文字幕】我推的孩子「アイドル」官方MV（4K 60帧/Hi-Res），【歌愛ユキ】强风大背头原版-強風オールバック【Yukopi（ゆこぴ）】，【乘风2026】乌兰图雅、万千惠、代斯、张艺上 二公舞台《达拉崩吧》，【重音テトSV】萨卡萨卡班班甲鱼鱼（サカサカバンバンバスピスピス）",
+              "display_url": "bilibili.com/video/BV1sx411…",
+              "end": 51,
+              "expanded_url": "https://www.bilibili.com/video/BV1sx411k7ug/",
+              "images": [
+                {
+                  "height": 381,
+                  "url": "https://pbs.twimg.com/news_img/2110158650819915776/7nPQkMUH?format=jpg&name=orig",
+                  "width": 610
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2110158650819915776/7nPQkMUH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "洛天依，言和 原创《达拉崩吧》_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1sx411k7ug/",
+              "url": "https://t.co/bvvUKqYSMQ"
+            },
+            {
+              "display_url": "pic.x.com/68iU8kaTtb",
+              "end": 75,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2110158646990532684/photo/1",
+              "media_key": "3_2091493044076027904",
+              "start": 52,
+              "url": "https://t.co/68iU8kaTtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110158646990532684",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091493044076027904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Day 25 ｜ 达拉崩吧\n“谁的歌啊？” “周深啊”\nhttps://t.co/bvvUKqYSMQ https://t.co/68iU8kaTtb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shaanxi, China",
+              "geo": {
+                "coordinates": [
+                  109.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shaanxi"
+            }
+          ]
+        },
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n亲友互fo 欢迎扩列～\n清水推～ 欢迎来找语言文字差错ww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "is_identity_verified": false,
+        "location": "Xi'an, Shaanxi Province, China",
+        "most_recent_tweet_id": "2110158646990532684",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2105579849285066878",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870315714638385152/1790846082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105631841965510656/stjakeDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 137,
+          "like_count": 11164,
+          "listed_count": 2,
+          "media_count": 991,
+          "tweet_count": 5632
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
